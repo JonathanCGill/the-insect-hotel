@@ -15,7 +15,7 @@ floral kingdom unique to the Western Cape. Heathers, proteas, restios, and
 ericas create a year-round mosaic of foraging opportunities. If you're a
 pollinator, this is paradise.
 
-![Rosemary in bloom — a favourite foraging stop](images/20260228_124145.jpg){ width="100%" }
+![Pincushion proteas and fynbos stretching toward the mountains](images/2024-02-05(2).jpg){ width="100%" }
 
 ### Mountains
 
@@ -29,10 +29,14 @@ The coastline is a short flight away. While most of our guests prefer to stay
 inland, the sea breeze brings moisture and moderates temperatures. Coastal
 wildflowers extend the foraging range for ambitious day-trippers.
 
+![Coastal everlastings overlooking the sea — foraging at the edge of the continent](images/2024-02-05(7).jpg){ width="100%" }
+
 ### Forest Pockets
 
 Scattered patches of indigenous forest provide shade, humidity, and a completely
 different ecosystem to explore. Ideal for guests who enjoy variety.
+
+![A forest orchid thriving on a mossy log — the shaded world beneath the canopy](images/2024-02-05(6).jpg){ width="100%" }
 
 ---
 
@@ -48,6 +52,18 @@ Here's a taste of what's in bloom:
 ![Grewia in flower — delicate petals, rich pollen](images/20260228_124131.jpg){ width="100%" }
 
 ![Hibiscus — a nectar-rich landing pad](images/20260228_124158.jpg){ width="100%" }
+
+</div>
+
+And in the surrounding fynbos:
+
+<div class="grid" markdown>
+
+![Protea in bloom — flagship of the fynbos](images/2024-02-05(3).jpg){ width="100%" }
+
+![Yellow pincushion protea — rich in nectar](images/2024-02-05(1).jpg){ width="100%" }
+
+![Pink erica against the coastline](images/2024-02-05(8).jpg){ width="100%" }
 
 </div>
 

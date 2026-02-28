@@ -14,6 +14,8 @@ checking in, and why this place matters to them.
 
 ## :material-bee: Solitary Bees
 
+![A local bee foraging on a yellow flower — one of our most frequent visitors](images/20240709_113225~2.jpg){ width="100%" }
+
 **The hotel's most important guests.**
 
 Mason bees (*Osmia*) and leafcutter bees (*Megachile*) are not honeybees. They
@@ -79,6 +81,8 @@ distinctive plug of dried mud, sometimes mixed with sand grains.
 ---
 
 ## :material-ladybug: Ladybirds
+
+![A ladybird spotted in the garden — 5,000 aphids don't stand a chance](images/20240709_104642~2.jpg){ width="100%" }
 
 **Winter refugees.**
 
@@ -192,6 +196,8 @@ doing her best in a world full of predators.
 
 ## :material-beetle: Beetles
 
+![A local ant navigating a flower — even the smallest visitors play a role](images/original_da2171b9-b6a8-4b4f-a923-968f4bc04728__DSC9119.JPG){ width="100%" }
+
 **The quiet majority.**
 
 Beetles are the most species-rich order of insects on Earth — and several
@@ -218,6 +224,8 @@ in the dark.
 ---
 
 ## :material-butterfly-outline: Butterflies
+
+![An African Monarch butterfly visiting the local wildflowers](images/IMG_8145.jpg){ width="100%" }
 
 **Passing through — or staying the winter.**
 

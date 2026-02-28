@@ -232,6 +232,8 @@ conditions you'd call darkness.
 
 ## Dragonflies: The Apex of Insect Vision
 
+![A dragonfly surveying the garden — 30,000 ommatidia at work](images/_DSC9690.jpg){ width="100%" }
+
 Dragonflies don't typically check into insect hotels, but they may patrol the
 garden — and their eyes are in a class of their own.
 

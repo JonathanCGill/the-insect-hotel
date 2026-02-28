@@ -48,6 +48,8 @@ dominates the terrain — that extraordinary, fire-adapted shrubland found nowhe
 else on Earth. Pockets of forest offer shade and shelter, while the coastline
 provides a dramatic backdrop to your stay.
 
+![Red Leucadendron in bloom — fynbos at its finest](images/2024-02-05.jpg){ width="100%" }
+
 The local community is welcoming. The neighbours are mostly plants, birds, and
 the occasional mongoose. It's peaceful here.
 

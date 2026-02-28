@@ -227,6 +227,8 @@ in the dark.
 
 ## :material-butterfly-outline: Butterflies
 
+![An African Monarch butterfly feeding on blue wildflowers](images/_DSC9690.jpg){ width="100%" }
+
 **Passing through — or sheltering through winter.**
 
 Most butterflies won't nest in an insect hotel, but several species become

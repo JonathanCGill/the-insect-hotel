@@ -130,6 +130,8 @@ find its nest entrance with remarkable precision.
 
 ## Butterflies: Fifteen Shades of Photoreceptor
 
+![An African Monarch butterfly — seeing the world through up to fifteen photoreceptor types](images/_DSC9690.jpg){ width="100%" }
+
 If bees are trichromatic, butterflies are something else entirely.
 
 In 2016, **Kentaro Arikawa** and colleagues at Sokendai (the Graduate University
@@ -231,8 +233,6 @@ conditions you'd call darkness.
 ---
 
 ## Dragonflies: The Apex of Insect Vision
-
-![A dragonfly surveying the garden — 30,000 ommatidia at work](images/_DSC9690.jpg){ width="100%" }
 
 Dragonflies don't typically check into insect hotels, but they may patrol the
 garden — and their eyes are in a class of their own.

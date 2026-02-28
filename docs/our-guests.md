@@ -51,7 +51,7 @@ had a leafcutter as a neighbour.
 
 ![The hotel nestled among lush garden foliage](images/20260228_124046.jpg){ width="100%" }
 
-## :material-wasp: Solitary Wasps
+## :material-bug: Solitary Wasps
 
 **The misunderstood professionals.**
 
@@ -194,9 +194,9 @@ doing her best in a world full of predators.
 
 ---
 
-## :material-beetle: Beetles
-
 ![A local ant navigating a flower — even the smallest visitors play a role](images/original_da2171b9-b6a8-4b4f-a923-968f4bc04728__DSC9119.JPG){ width="100%" }
+
+## :material-bug-outline: Beetles
 
 **The quiet majority.**
 

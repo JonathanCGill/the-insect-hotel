@@ -77,7 +77,7 @@ not glamorous, but it's honest — and incredibly popular in the cooler months.
 
 ---
 
-### :material-brick: The Drilled Log Rooms
+### :material-axe: The Drilled Log Rooms
 
 **Best for:** Mason bees, solitary bees
 

@@ -2,6 +2,8 @@
 
 **A boutique retreat for the discerning six-legged traveller.**
 
+![The Insect Hotel — handcrafted sanctuary in the garden](images/20260228_124038.jpg){ width="100%" }
+
 ---
 
 Tired of the hustle and buzz of the hive? Looking for a quiet corner of the
@@ -38,6 +40,8 @@ space for you.
 ---
 
 ## The Setting
+
+![The hotel nestled among the foliage](images/20260228_124046.jpg){ width="100%" }
 
 The Insect Hotel sits in a landscape where the mountains meet the sea. Fynbos
 dominates the terrain — that extraordinary, fire-adapted shrubland found nowhere

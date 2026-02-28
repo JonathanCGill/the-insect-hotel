@@ -6,6 +6,8 @@ we ask all guests to observe the following.
 
 ---
 
+![The Insect Hotel — your home in the garden](images/20260228_124038.jpg){ width="100%" }
+
 ## 1. Self-Catering Only
 
 There is no room service. The surrounding fynbos, wildflowers, and garden

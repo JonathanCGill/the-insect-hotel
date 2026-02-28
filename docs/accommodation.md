@@ -4,6 +4,8 @@ Every room at The Insect Hotel is crafted from natural materials and designed
 with a specific guest in mind. Whether you prefer a snug tunnel, a cosy crevice,
 or an airy bundle of hollow stems, we have something for you.
 
+![The Insect Hotel — a closer look at our rooms](images/20260228_124032.jpg){ width="100%" }
+
 ---
 
 ## Room Types
@@ -87,6 +89,8 @@ and diameters. Smooth interiors, no splinters. Our most sought-after rooms.
 - Premium sun exposure
 
 ---
+
+![The hotel surrounded by lush garden greenery](images/20260228_124046.jpg){ width="100%" }
 
 ## Facilities
 

@@ -15,6 +15,8 @@ floral kingdom unique to the Western Cape. Heathers, proteas, restios, and
 ericas create a year-round mosaic of foraging opportunities. If you're a
 pollinator, this is paradise.
 
+![Rosemary in bloom — a favourite foraging stop](images/20260228_124145.jpg){ width="100%" }
+
 ### Mountains
 
 The mountains rise just behind the hotel, offering dramatic thermals for
@@ -31,6 +33,23 @@ wildflowers extend the foraging range for ambitious day-trippers.
 
 Scattered patches of indigenous forest provide shade, humidity, and a completely
 different ecosystem to explore. Ideal for guests who enjoy variety.
+
+---
+
+## What's on the Menu
+
+The garden and surrounding landscape provide a constantly changing buffet.
+Here's a taste of what's in bloom:
+
+<div class="grid" markdown>
+
+![Brunfelsia — Yesterday, Today and Tomorrow](images/20260228_124102.jpg){ width="100%" }
+
+![Grewia in flower — delicate petals, rich pollen](images/20260228_124131.jpg){ width="100%" }
+
+![Hibiscus — a nectar-rich landing pad](images/20260228_124158.jpg){ width="100%" }
+
+</div>
 
 ---
 

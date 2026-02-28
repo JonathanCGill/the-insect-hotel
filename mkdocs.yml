@@ -24,6 +24,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Our Guests: our-guests.md
   - Accommodation: accommodation.md
   - Local Area: local-area.md
   - House Rules: house-rules.md

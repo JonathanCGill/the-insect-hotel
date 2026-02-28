@@ -67,7 +67,8 @@ Our ideal guest:
 ---
 
 !!! tip "Ready to check in?"
-    Browse our [accommodation options](accommodation.md), review the
+    Meet [our guests](our-guests.md), browse our
+    [accommodation options](accommodation.md), review the
     [house rules](house-rules.md), or go straight to
     [booking your stay](book-your-stay.md).
 

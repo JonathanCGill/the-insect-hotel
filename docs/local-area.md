@@ -114,3 +114,7 @@ The Insect Hotel is accessible by air only. Navigate by:
     Wind conditions can be challenging, especially in winter and during
     south-easterly gales in summer. Plan your approach accordingly. We recommend
     arriving on calm mornings for the smoothest landing.
+
+<div class="book-button-wrapper" markdown>
+[Book Now](verify.md){ .book-button }
+</div>

@@ -44,3 +44,79 @@
 .md-footer {
   background-color: #3E2723;
 }
+
+/* Book Now button */
+.book-button-wrapper {
+  text-align: center;
+  margin: 3rem 0 1rem;
+}
+
+.book-button {
+  display: inline-block;
+  background-color: #5D4037;
+  color: #EFEBE9 !important;
+  padding: 1rem 2.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition: background-color 0.2s, transform 0.15s;
+  letter-spacing: 0.02em;
+}
+
+.book-button:hover {
+  background-color: #FF8F00;
+  color: #fff !important;
+  transform: translateY(-2px);
+}
+
+/* UV verification grid */
+.uv-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  max-width: 360px;
+  margin: 2rem auto;
+}
+
+.uv-block {
+  aspect-ratio: 1;
+  border: 2px solid #e0dce8;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.uv-block:hover {
+  border-color: #b0a8c0;
+}
+
+.uv-block.selected {
+  border-color: #5D4037;
+  box-shadow: 0 0 0 3px rgba(93, 64, 55, 0.35);
+}
+
+.uv-hint {
+  color: #8D6E63;
+  font-style: italic;
+  min-height: 1.5em;
+}
+
+.uv-submit {
+  display: inline-block;
+  background-color: #5D4037;
+  color: #EFEBE9;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.15s;
+}
+
+.uv-submit:hover {
+  background-color: #FF8F00;
+  color: #fff;
+  transform: translateY(-2px);
+}

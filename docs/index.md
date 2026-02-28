@@ -70,3 +70,7 @@ Our ideal guest:
     Browse our [accommodation options](accommodation.md), review the
     [house rules](house-rules.md), or go straight to
     [booking your stay](book-your-stay.md).
+
+<div class="book-button-wrapper" markdown>
+[Book Now](verify.md){ .book-button }
+</div>

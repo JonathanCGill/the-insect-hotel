@@ -129,3 +129,7 @@ what makes it extraordinary. By choosing The Insect Hotel, you accept:
 !!! quote "The Insect Hotel Philosophy"
     *"We don't promise luxury. We promise nature — wild, seasonal, and
     unapologetically real."*
+
+<div class="book-button-wrapper" markdown>
+[Book Now](verify.md){ .book-button }
+</div>

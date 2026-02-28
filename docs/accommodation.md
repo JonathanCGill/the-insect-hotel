@@ -111,3 +111,7 @@ All guests enjoy access to:
     Rooms are allocated on a first-come, first-served basis. We don't take
     reservations — just arrive and find your spot. Peak season is spring and
     early summer, so early arrivals get the best choice.
+
+<div class="book-button-wrapper" markdown>
+[Book Now](verify.md){ .book-button }
+</div>

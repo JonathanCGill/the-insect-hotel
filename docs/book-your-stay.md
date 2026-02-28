@@ -96,3 +96,7 @@ Among the fynbos, near the mountains, close to the sea
     We'll leave the light on — well, the south-facing entrance open, at least.
 
     **See you when you get here.**
+
+<div class="book-button-wrapper" markdown>
+[Book Now](verify.md){ .book-button }
+</div>

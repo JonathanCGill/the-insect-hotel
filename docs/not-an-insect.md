@@ -85,13 +85,15 @@ Physiology A.*
 
 ## Solitary Bees: The Hotel's Core Guests
 
-The Insect Hotel is built for solitary bees — mason bees (*Osmia*) and
-leafcutter bees (*Megachile*) — not honeybees. So what do *they* see?
+The Insect Hotel is built for solitary bees — leafcutter bees (*Megachile*),
+carpenter bees (*Xylocopa*), and other cavity-nesters — not honeybees. So what
+do *they* see?
 
-The most detailed study comes from **Menzel, Steinmann, de Souza & Backhaus
-(1988)**, who measured the photoreceptors of *Osmia rufa* (now *Osmia
-bicornis*, the red mason bee) using a fast voltage-clamp technique. They found
-three receptor types:
+The most detailed study of solitary bee vision comes from **Menzel, Steinmann,
+de Souza & Backhaus (1988)**, who measured the photoreceptors of the European
+*Osmia rufa* (now *Osmia bicornis*) using a fast voltage-clamp technique. While
+*Osmia* doesn't occur in southern Africa, the findings apply broadly across
+solitary bees. They found three receptor types:
 
 | Receptor | Peak sensitivity |
 |----------|-----------------|
@@ -101,34 +103,39 @@ three receptor types:
 
 That green receptor is significant. At 572 nm, it is shifted **28 nm toward
 longer wavelengths** compared to the honeybee's green receptor (544 nm). This
-means mason bees are slightly more sensitive toward the yellow-orange end of the
-spectrum — potentially an adaptation to the specific flowers they visit.
+means solitary bees are slightly more sensitive toward the yellow-orange end of
+the spectrum — potentially an adaptation to the specific flowers they visit.
 
 Behavioural tests showed that *Osmia rufa* discriminates colours **at least as
-well as the honeybee**, and possibly better. In colour-choice experiments, mason
-bees matched honeybee performance precisely, while stingless bees (*Melipona
-quadrifasciata*) performed worse in the violet-blue region.
+well as the honeybee**, and possibly better. In colour-choice experiments,
+solitary bees matched honeybee performance precisely, while stingless bees
+(*Melipona quadrifasciata*, a Neotropical species) performed worse in the
+violet-blue region.
 
 *Source: Menzel et al. (1988), "Spectral sensitivity of photoreceptors and
 colour vision in the solitary bee, Osmia rufa", Journal of Experimental
 Biology.*
 
-Research on leafcutter bees (*Megachile rotundata*) has focused more on visual
-navigation — they learn the positions of edges and landmarks relative to their
-nest entrance — but their photoreceptor architecture is believed to follow the
-same trichromatic (UV, blue, green) plan shared across Hymenoptera.
+Research on leafcutter bees (*Megachile rotundata*, a Eurasian species widely
+studied for its navigational abilities) has focused more on visual navigation —
+they learn the positions of edges and landmarks relative to their nest
+entrance — but their photoreceptor architecture is believed to follow the same
+trichromatic (UV, blue, green) plan shared across Hymenoptera. The Western
+Cape's native *Megachile* species almost certainly share this visual system.
 
-**What this means for The Insect Hotel:** When a mason bee approaches the hotel,
-it sees the surrounding flowers in UV, blue, and green — a completely different
-palette from yours. The bamboo tubes and drilled wood, which appear uniformly
-brown to you, likely present a more complex pattern of UV-reflective and
-UV-absorbing surfaces. The bee navigates by learning the visual landmarks around
-its chosen chamber — the edges, the contrasts, the spatial arrangement — and can
-find its nest entrance with remarkable precision.
+**What this means for The Insect Hotel:** When a solitary bee approaches the
+hotel, it sees the surrounding flowers in UV, blue, and green — a completely
+different palette from yours. The bamboo tubes and drilled wood, which appear
+uniformly brown to you, likely present a more complex pattern of UV-reflective
+and UV-absorbing surfaces. The bee navigates by learning the visual landmarks
+around its chosen chamber — the edges, the contrasts, the spatial arrangement —
+and can find its nest entrance with remarkable precision.
 
 ---
 
 ## Butterflies: Fifteen Shades of Photoreceptor
+
+![An African Monarch butterfly — seeing the world through up to fifteen photoreceptor types](images/_DSC9690.jpg){ width="100%" }
 
 If bees are trichromatic, butterflies are something else entirely.
 
@@ -202,10 +209,13 @@ system creates a different visual interpretation of the same bamboo and bark.
 
 ## Lacewings: Eyes Built for Darkness
 
-Green lacewings (*Chrysoperla carnea*) are largely **nocturnal**, and their eyes
-reflect this. Unlike the apposition compound eyes of bees, lacewings have
-**refractive superposition eyes** — large, golden-iridescent hemispheres that
-gather far more light per receptor, enabling vision in near-darkness.
+Green lacewings are largely **nocturnal**, and their eyes reflect this. Unlike
+the apposition compound eyes of bees, lacewings have **refractive superposition
+eyes** — large, golden-iridescent hemispheres that gather far more light per
+receptor, enabling vision in near-darkness. (The Western Cape species is
+*Chrysoperla zastrowi*, part of the *carnea* species complex — the vision
+research below was conducted on the European *C. carnea*, but the eye
+architecture is shared across the group.)
 
 **Kral & Stelzl (1998)** showed that the absolute sensitivity of *Chrysoperla
 carnea*'s compound eyes changes dramatically through the day: **highest at
@@ -215,8 +225,8 @@ adjusting its superposition aperture — widening it at night to admit more ligh
 
 Photoreceptor studies in related neuropterans (owlflies, *Ascalaphus*) found
 peak sensitivity in the **green** (520 nm) for the large receptor cells and in
-the **UV** (343 nm) for the smaller R7/R8 cells. *Chrysoperla carnea*'s
-compound eyes are similarly sensitive.
+the **UV** (343 nm) for the smaller R7/R8 cells. *Chrysoperla*'s compound eyes
+are similarly sensitive.
 
 *Source: Kral & Stelzl (1998), "Daily visual sensitivity pattern in the green
 lacewing Chrysoperla carnea", European Journal of Entomology.*
@@ -231,8 +241,6 @@ conditions you'd call darkness.
 ---
 
 ## Dragonflies: The Apex of Insect Vision
-
-![A dragonfly surveying the garden — 30,000 ommatidia at work](images/_DSC9690.jpg){ width="100%" }
 
 Dragonflies don't typically check into insect hotels, but they may patrol the
 garden — and their eyes are in a class of their own.
@@ -318,7 +326,7 @@ bamboo tubes, slatted wood, and drilled holes. Brown and cream. Simple.
 
 An insect sees something else entirely:
 
-**A mason bee** (*Osmia*) approaching the hotel sees the bamboo tubes as a
+**A solitary bee** (*Megachile*) approaching the hotel sees the bamboo tubes as a
 mosaic of UV-reflective and UV-absorbing surfaces. The surrounding flowers are
 not just purple and white — they carry bold UV nectar guides and iridescent
 blue halos on their petals. The bee has memorised the precise arrangement of
@@ -376,7 +384,7 @@ something arguably better:
 
 An insect hotel in your garden provides critical habitat for solitary bees,
 lacewings, ladybirds, and other beneficial insects. Use bamboo tubes, drilled
-logs, pine cones, bark, and bundles of hollow stems. Face it south-east. Place
+logs, pine cones, bark, and bundles of hollow stems. Face it north-east. Place
 it near flowering plants — especially those with strong UV nectar guides. And
 then step back and let the real guests arrive.
 

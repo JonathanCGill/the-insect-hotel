@@ -30,8 +30,8 @@ climate control.
 
 :material-home-group: **Community living, solo style** — You'll share the hotel
 with fellow insects, spiders, lizards, and the odd curious bird. But your nook is
-your own. This is a place for the solitary soul — the mason bee who prefers her
-own company, the lacewing who likes a quiet evening.
+your own. This is a place for the solitary soul — the solitary bee who prefers
+her own company, the lacewing who likes a quiet evening.
 
 :material-timer-sand: **Stay your way** — Whether you're passing through for a
 night, settling in for the season, or looking for a permanent address, we have a

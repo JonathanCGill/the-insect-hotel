@@ -4,6 +4,7 @@ site_url: https://jonathancgill.github.io/the-insect-hotel/
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     primary: brown
     accent: amber

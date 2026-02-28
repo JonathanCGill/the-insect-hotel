@@ -18,11 +18,12 @@ checking in, and why this place matters to them.
 
 **The hotel's most important guests.**
 
-Mason bees (*Osmia*) and leafcutter bees (*Megachile*) are not honeybees. They
-don't live in hives, they don't make honey, and they don't have a queen. Each
-female is an independent operator — she mates, finds a suitable cavity, and
-provisions it with pollen and nectar for her offspring. Then she seals the
-entrance and moves on. No colony. No caste system. Just quiet, solitary work.
+Leafcutter bees (*Megachile*), carpenter bees (*Xylocopa*), and other
+cavity-nesting solitary bees are not honeybees. They don't live in hives, they
+don't make honey, and they don't have a queen. Each female is an independent
+operator — she mates, finds a suitable cavity, and provisions it with pollen and
+nectar for her offspring. Then she seals the entrance and moves on. No colony.
+No caste system. Just quiet, solitary work.
 
 ### Why they need the hotel
 
@@ -33,17 +34,17 @@ treated timber, and paved surfaces, offer almost none of this. An insect hotel
 provides exactly what a solitary bee is searching for — a dry, sheltered cavity
 of the right diameter, facing the morning sun, close to flowers.
 
-**Mason bees** prefer smooth-walled tunnels **6–10 mm** in diameter and about
-**15 cm** deep. They build internal walls from mud, creating a chain of sealed
-cells, each containing a single egg and a pollen loaf. They emerge in early
-spring when fruit trees begin to flower, and a single mason bee can pollinate
-the equivalent of what it takes **120 honeybees** to achieve — making them
-extraordinary gardeners.
+**Cavity-nesting solitary bees** prefer smooth-walled tunnels **6–10 mm** in
+diameter and about **15 cm** deep. They build internal walls from mud or resin,
+creating a chain of sealed cells, each containing a single egg and a pollen
+loaf. They emerge in spring as the fynbos and garden flowers come into bloom,
+and solitary bees can be extraordinarily efficient pollinators — making them
+invaluable gardeners.
 
-**Leafcutter bees** are slightly smaller, preferring tunnels of **5–8 mm**. They
-cut precise semicircles from rose leaves and soft foliage to line their cells —
-if you've ever noticed perfectly circular notches in your rose bushes, you've
-had a leafcutter as a neighbour.
+**Leafcutter bees** (*Megachile*) are slightly smaller, preferring tunnels of
+**5–8 mm**. They cut precise semicircles from rose leaves and soft foliage to
+line their cells — if you've ever noticed perfectly circular notches in your
+rose bushes, you've had a leafcutter as a neighbour.
 
 **Preferred rooms:** [The Bamboo Suite, The Drilled Log Rooms](accommodation.md)
 
@@ -55,11 +56,11 @@ had a leafcutter as a neighbour.
 
 **The misunderstood professionals.**
 
-Forget what you know about wasps from summer picnics. The solitary wasps that
-use insect hotels are nothing like yellowjackets or hornets. Species like the
-red mason wasp (*Ancistrocerus*) and various potter wasps are calm, docile, and
-extraordinarily useful. They rarely sting — and even if they did, their venom
-is mild compared to social wasps.
+Forget what you know about wasps from braais and picnics. The solitary wasps
+that use insect hotels are nothing like yellowjackets or hornets. Species like
+the potter wasps (*Delta*) and various solitary hunting wasps are calm, docile,
+and extraordinarily useful. They rarely sting — and even if they did, their
+venom is mild compared to social wasps.
 
 ### Why they need the hotel
 
@@ -84,24 +85,25 @@ distinctive plug of dried mud, sometimes mixed with sand grains.
 
 ![A ladybird spotted in the garden — 5,000 aphids don't stand a chance](images/20240709_104642~2.jpg){ width="100%" }
 
-**Winter refugees.**
+**Wet-season refugees.**
 
 A single ladybird can eat **5,000 aphids** in its lifetime. In summer, they're
 dispersed across the garden, methodically clearing plants of pests. But when
-autumn arrives and temperatures drop, ladybirds face a crisis: they need a
-sheltered, dry, insulated place to enter dormancy and survive until spring.
+autumn arrives and the Western Cape's wet winter sets in, ladybirds need a
+sheltered, dry place to enter dormancy and wait out the rains until spring.
 
 ### Why they need the hotel
 
-In the wild, ladybirds overwinter in leaf litter, under bark, and in rock
-crevices. They often cluster together — sometimes in groups of hundreds — to
-conserve warmth and moisture. An insect hotel's pine cones, bark layers, and
-stacked crevices provide exactly this: a complex, insulated space with multiple
-entry points where ladybirds can tuck in for the cold months.
+In the wild, ladybirds shelter in leaf litter, under bark, and in rock
+crevices. They often cluster together — sometimes in groups of dozens — to
+conserve moisture and avoid waterlogged conditions. An insect hotel's pine
+cones, bark layers, and stacked crevices provide exactly this: a complex,
+sheltered space with multiple entry points where ladybirds can tuck in for the
+wet months.
 
-Without adequate winter shelter, ladybird populations crash — and the following
-spring's aphid problems multiply accordingly. The hotel doesn't just house
-ladybirds; it safeguards the garden's pest control for the season ahead.
+Without adequate winter shelter, ladybird populations decline — and the
+following spring's aphid problems multiply accordingly. The hotel doesn't just
+house ladybirds; it safeguards the garden's pest control for the season ahead.
 
 **Preferred rooms:** [The Pine Cone Loft, The Bark Hideaway](accommodation.md)
 
@@ -111,7 +113,7 @@ ladybirds; it safeguards the garden's pest control for the season ahead.
 
 **The night shift.**
 
-Green lacewings (*Chrysoperla carnea*) are among the most effective biological
+Green lacewings (*Chrysoperla zastrowi*) are among the most effective biological
 pest controllers on the planet. Their larvae — sometimes called "aphid lions" —
 are voracious predators, consuming up to **200 aphids per week** along with
 mites, thrips, whitefly eggs, and small caterpillars. The adults are delicate,
@@ -122,14 +124,14 @@ golden eyes.
 
 Lacewings are largely nocturnal and crepuscular. Their extraordinary
 superposition eyes — those golden, iridescent hemispheres — are built for
-gathering light in near-darkness. During the day, they rest. In winter, they
-need a dry, sheltered hibernation site.
+gathering light in near-darkness. During the day, they rest. During winter, they
+need a dry, sheltered site to ride out the wet season.
 
-This is where many lacewing populations are lost. A single hard frost in an
-exposed position can kill overwintering adults. An insect hotel provides
-insulated chambers — pine cones, tightly packed straw, bark crevices — where
-lacewings can ride out the winter in relative safety. The complex, layered
-structure mimics the bark fissures and dense vegetation they naturally seek.
+This is where many lacewing populations are lost. Cold, waterlogged nights in
+exposed positions can kill dormant adults. An insect hotel provides sheltered
+chambers — pine cones, tightly packed straw, bark crevices — where lacewings
+can sit out the winter rains in relative safety. The complex, layered structure
+mimics the bark fissures and dense vegetation they naturally seek.
 
 Come spring, surviving lacewings lay hundreds of eggs on nearby plants, and the
 cycle of pest control begins again.
@@ -152,8 +154,9 @@ predators of aphids.
 ### Why they need the hotel
 
 Adult hoverflies need sheltered resting spots close to foraging areas. Some
-species overwinter as adults and need the same kind of insulated crevice
-habitat as lacewings. Others overwinter as pupae in soil or leaf litter.
+species become dormant during the wet winter months and need the same kind of
+sheltered crevice habitat as lacewings. Others pass the winter as pupae in soil
+or leaf litter.
 
 An insect hotel surrounded by flowering plants is ideal: the adults can forage
 among the fynbos and garden flowers by day — drawn especially to yellow blooms,
@@ -171,7 +174,7 @@ tireless pest control.
 
 **Unfairly maligned.**
 
-The European earwig (*Forficula auricularia*) has an image problem. Those
+The common earwig (*Forficula senegalensis*) has an image problem. Those
 pincers look threatening, and the old myth about crawling into ears persists.
 In reality, earwigs are **omnivorous scavengers and predators** — they eat
 aphids, mites, insect eggs, and decaying plant material. They are, on balance,
@@ -181,14 +184,13 @@ beneficial to gardens.
 
 Earwigs are nocturnal and need dark, tight-fitting daytime refuges. In nature,
 they shelter under bark, in flower heads, and in soil crevices. They are also
-remarkable parents — the female guards her eggs through winter and tends the
-nymphs after hatching, one of the very few examples of maternal care in
-non-social insects.
+remarkable parents — the female guards her eggs and tends the nymphs after
+hatching, one of the very few examples of maternal care in non-social insects.
 
 An insect hotel's pine cones, bark layers, and bundled stems provide exactly
-the kind of narrow, dark spaces earwigs seek. A female overwintering in a
-pine cone crevice with her clutch of eggs is not a pest — she's a mother
-doing her best in a world full of predators.
+the kind of narrow, dark spaces earwigs seek. A female sheltering in a pine
+cone crevice with her clutch of eggs is not a pest — she's a mother doing her
+best in a world full of predators.
 
 **Preferred rooms:** [The Pine Cone Loft, The Bark Hideaway](accommodation.md)
 
@@ -227,29 +229,30 @@ in the dark.
 
 ![An African Monarch butterfly visiting the local wildflowers](images/IMG_8145.jpg){ width="100%" }
 
-**Passing through — or staying the winter.**
+**Passing through — or sheltering through winter.**
 
-Most butterflies won't nest in an insect hotel, but several species
-**overwinter as adults** and desperately need sheltered hibernation sites.
-Peacock butterflies, small tortoiseshells, and commas all seek out dark, dry
-crevices in autumn, entering a dormant state until spring warmth rouses them.
+Most butterflies won't nest in an insect hotel, but several species become
+dormant during the cooler, wetter months and need sheltered resting sites.
+Pansies (*Junonia*), the African Monarch (*Danaus chrysippus*), and other local
+species seek out dry crevices in autumn, entering a quiet period until the
+warmer weather returns.
 
 ### Why they need the hotel
 
-Overwintering butterflies are extraordinarily vulnerable. A single disturbance
-— a warm spell followed by a cold snap, a flooded shelter, a curious predator —
-can be fatal. They need stable, insulated, undisturbed spaces that maintain
-relatively constant conditions through the coldest months.
+Dormant butterflies are extraordinarily vulnerable. A flooded shelter, a
+prolonged damp spell, or a curious predator can be fatal. They need stable,
+dry, undisturbed spaces that maintain relatively constant conditions through the
+wet winter months.
 
 An insect hotel's slatted wood panels, bark layers, and leaf litter sections
 offer exactly this — narrow vertical gaps and sheltered recesses where a
 dormant butterfly can rest with folded wings, camouflaged against the wood,
 undisturbed until spring.
 
-In the Western Cape, the **Table Mountain Beauty** (*Meneris tulbaghia*) — the
-region's only endemic butterfly species — may visit the garden to feed on
-nectar-rich fynbos flowers. It won't overwinter in the hotel, but it
-appreciates the habitat.
+The **Table Mountain Beauty** (*Aeropetes tulbaghia*) — one of the Western
+Cape's most iconic butterflies and a key pollinator of red fynbos flowers
+including the Red Disa — may visit the garden to feed on nectar-rich blooms.
+It won't shelter in the hotel, but it appreciates the habitat.
 
 **Preferred rooms:** [The Leaf Litter Lounge, The Bark Hideaway](accommodation.md)
 
@@ -284,23 +287,21 @@ fertility depends, in part, on their tireless recycling.
 
 The honest answer is that most of these species **shouldn't need one**. In a
 landscape with deadwood, wildflower margins, unmown grass, leaf litter, and
-crumbling walls, there would be nesting cavities and overwintering sites
-everywhere. Insects have managed without hotels for hundreds of millions of
-years.
+crumbling walls, there would be nesting cavities and shelter sites everywhere.
+Insects have managed without hotels for hundreds of millions of years.
 
 But modern landscapes have removed almost all of this habitat. Gardens are
-tidied. Deadwood is cleared. Hedgerows are grubbed out. Old walls are
-repointed. Wildflower meadows are mown and sprayed. The nesting and
-overwintering sites that solitary bees, lacewings, ladybirds, and beetles
-depend on have been systematically eliminated — not out of malice, but out
-of habit.
+tidied. Deadwood is cleared. Fynbos margins are stripped back. Old walls are
+repointed. Wild areas are mown and sprayed. The nesting and shelter sites that
+solitary bees, lacewings, ladybirds, and beetles depend on have been
+systematically eliminated — not out of malice, but out of habit.
 
 An insect hotel is a small act of restoration. It puts back, in concentrated
 form, what the surrounding landscape has lost:
 
 - **Cavities** for solitary bees and wasps to nest
-- **Insulation** for lacewings, ladybirds, and butterflies to overwinter
-- **Dark, damp shelter** for beetles, earwigs, and woodlice
+- **Shelter** for lacewings, ladybirds, and butterflies through the wet season
+- **Dark, damp refuge** for beetles, earwigs, and woodlice
 - **Proximity to food** — placed near flowering plants, it shortens the
   commute between nest and forage
 - **Stability** — a structure that stays put, season after season, so

@@ -14,7 +14,7 @@ or an airy bundle of hollow stems, we have something for you.
 
 **Best for:** Solitary bees, small wasps
 
-Bundles of hollow bamboo canes in a range of diameters (2mm–10mm). South-facing
+Bundles of hollow bamboo canes in a range of diameters (2mm–10mm). North-facing
 for morning warmth. Each tube is a private, single-occupancy chamber — perfect
 for nesting or simply resting between flights.
 
@@ -79,7 +79,7 @@ not glamorous, but it's honest — and incredibly popular in the cooler months.
 
 ### :material-axe: The Drilled Log Rooms
 
-**Best for:** Mason bees, solitary bees
+**Best for:** Solitary bees
 
 Sustainably sourced hardwood logs with precision-drilled holes of varying depths
 and diameters. Smooth interiors, no splinters. Our most sought-after rooms.

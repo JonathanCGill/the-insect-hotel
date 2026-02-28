@@ -1,0 +1,47 @@
+site_name: The Insect Hotel
+site_description: A boutique retreat for the discerning six-legged traveller. Solitude, nature, and endless foraging — all under one roof.
+site_url: https://jonathancgill.github.io/the-insect-hotel/
+
+theme:
+  name: material
+  palette:
+    primary: brown
+    accent: amber
+  font:
+    text: Nunito
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+  icon:
+    logo: material/bee
+    favicon: material/bee
+
+extra_css:
+  - assets/css/custom.css
+
+nav:
+  - Home: index.md
+  - Accommodation: accommodation.md
+  - Local Area: local-area.md
+  - House Rules: house-rules.md
+  - Book Your Stay: book-your-stay.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JonathanCGill/the-insect-hotel
+
+copyright: "&copy; 2026 The Insect Hotel &mdash; Where every bug is a welcome guest."

@@ -1,0 +1,46 @@
+/* The Insect Hotel — Custom Styles */
+
+:root {
+  --md-primary-fg-color: #5D4037;
+  --md-primary-bg-color: #EFEBE9;
+  --md-accent-fg-color: #FF8F00;
+}
+
+/* Hero section on homepage */
+.md-content h1 {
+  font-size: 2.4rem;
+  color: var(--md-primary-fg-color);
+}
+
+/* Warm, natural feel for admonitions */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #FF8F00;
+}
+
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-color: #5D4037;
+}
+
+/* Softer horizontal rules */
+.md-typeset hr {
+  border-color: #D7CCC8;
+}
+
+/* Table styling */
+.md-typeset table:not([class]) th {
+  background-color: #5D4037;
+  color: #EFEBE9;
+}
+
+/* Quote styling for the philosophy section */
+.md-typeset .admonition.quote,
+.md-typeset details.quote {
+  border-color: #8D6E63;
+}
+
+/* Footer warmth */
+.md-footer {
+  background-color: #3E2723;
+}

@@ -52,13 +52,9 @@ function updateHint() {
 }
 
 function submitVerification() {
-  const base = document.querySelector('link[rel="canonical"]');
-  let basePath = '';
-  if (base) {
-    basePath = base.href.replace(/[^/]*$/, '');
-  } else {
-    basePath = window.location.href.replace(/[^/]*$/, '');
-  }
-  window.location.href = basePath + 'not-an-insect/';
+  var current = window.location.pathname;
+  // Strip trailing slash and last segment (e.g. /verify/ -> /)
+  var base = current.replace(/\/[^/]*\/?$/, '/');
+  window.location.href = base + 'not-an-insect/';
 }
 </script>

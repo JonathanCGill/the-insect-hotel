@@ -29,6 +29,7 @@ nav:
   - Accommodation: accommodation.md
   - Local Area: local-area.md
   - House Rules: house-rules.md
+  - The Story: background.md
   - Book Your Stay: book-your-stay.md
 
 markdown_extensions:

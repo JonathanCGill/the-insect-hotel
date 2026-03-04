@@ -1,4 +1,4 @@
-# Welcome to The Insect Hotel
+# A hotel for guests with six legs.
 
 **A boutique retreat for the discerning six-legged traveller.**
 

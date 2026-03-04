@@ -69,10 +69,16 @@ body,
   letter-spacing: 0.04em;
 }
 
+/* Tighten gap between hero title and page content */
+.md-main__inner {
+  margin-top: 0;
+}
+
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;
   color: var(--md-default-fg-color);
+  margin-top: 0;
 }
 
 /* Warm, natural feel for admonitions */

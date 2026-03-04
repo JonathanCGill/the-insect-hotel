@@ -57,6 +57,18 @@ body,
   color: #FF8F00;
 }
 
+/* Large site title below nav */
+.site-hero-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #3E2723;
+  text-align: center;
+  padding: 1.5rem 1rem 1rem;
+  background-color: #FAF9F6;
+  letter-spacing: 0.04em;
+}
+
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;

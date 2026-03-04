@@ -1,15 +1,19 @@
 /* The Insect Hotel — Custom Styles */
 
 :root {
-  --md-primary-fg-color: #5D4037;
-  --md-primary-bg-color: #EFEBE9;
+  --md-primary-fg-color: #FAF9F6;
+  --md-primary-bg-color: #3E2723;
   --md-accent-fg-color: #FF8F00;
+  --md-default-bg-color: #FAF9F6;
+  --md-default-fg-color: #3E2723;
+  --md-default-fg-color--light: #5D4037;
+  --md-default-fg-color--lighter: #8D6E63;
 }
 
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;
-  color: var(--md-primary-fg-color);
+  color: var(--md-default-fg-color);
 }
 
 /* Warm, natural feel for admonitions */
@@ -20,7 +24,7 @@
 
 .md-typeset .admonition.note,
 .md-typeset details.note {
-  border-color: #5D4037;
+  border-color: #3E2723;
 }
 
 /* Softer horizontal rules */
@@ -30,8 +34,8 @@
 
 /* Table styling */
 .md-typeset table:not([class]) th {
-  background-color: #5D4037;
-  color: #EFEBE9;
+  background-color: #3E2723;
+  color: #FAF9F6;
 }
 
 /* Quote styling for the philosophy section */
@@ -53,8 +57,8 @@
 
 .book-button {
   display: inline-block;
-  background-color: #5D4037;
-  color: #EFEBE9 !important;
+  background-color: #3E2723;
+  color: #FAF9F6 !important;
   padding: 1rem 2.5rem;
   border-radius: 0.5rem;
   font-size: 1.2rem;
@@ -92,8 +96,8 @@
 }
 
 .uv-block.selected {
-  border-color: #5D4037;
-  box-shadow: 0 0 0 3px rgba(93, 64, 55, 0.35);
+  border-color: #3E2723;
+  box-shadow: 0 0 0 3px rgba(62, 39, 35, 0.35);
 }
 
 .uv-hint {
@@ -104,8 +108,8 @@
 
 .uv-submit {
   display: inline-block;
-  background-color: #5D4037;
-  color: #EFEBE9;
+  background-color: #3E2723;
+  color: #FAF9F6;
   border: none;
   padding: 0.75rem 2rem;
   border-radius: 0.5rem;

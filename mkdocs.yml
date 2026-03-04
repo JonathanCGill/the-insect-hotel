@@ -14,11 +14,14 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.top
     - toc.integrate
   icon:
     logo: material/bee
     favicon: material/bee
+
+plugins:
+  - search:
+      enabled: false
 
 extra_css:
   - assets/css/custom.css

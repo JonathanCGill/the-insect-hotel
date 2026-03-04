@@ -10,21 +10,30 @@
   --md-default-fg-color--lighter: #8D6E63;
 }
 
-/* Navbar */
+/* Navbar — flat, links only */
+.md-header__inner {
+  display: none;
+}
+
 .md-header {
   background-color: #FAF9F6;
   color: #3E2723;
-}
-
-.md-header .md-header__title,
-.md-header .md-header__topic,
-.md-header .md-header__button,
-.md-tabs {
-  color: #3E2723;
+  box-shadow: none;
 }
 
 .md-tabs {
   background-color: #FAF9F6;
+  color: #3E2723;
+}
+
+.md-tabs__link {
+  color: #3E2723;
+  opacity: 1;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #FF8F00;
 }
 
 /* Hero section on homepage */

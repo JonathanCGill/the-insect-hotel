@@ -10,6 +10,23 @@
   --md-default-fg-color--lighter: #8D6E63;
 }
 
+/* Navbar */
+.md-header {
+  background-color: #FAF9F6;
+  color: #3E2723;
+}
+
+.md-header .md-header__title,
+.md-header .md-header__topic,
+.md-header .md-header__button,
+.md-tabs {
+  color: #3E2723;
+}
+
+.md-tabs {
+  background-color: #FAF9F6;
+}
+
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;

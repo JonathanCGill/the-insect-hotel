@@ -66,6 +66,8 @@ mountains.
 
 ### :material-flower: Boschendal Wine Estate — Franschhoek, South Africa
 
+![The insect hotel at Boschendal Wine Estate — logs, bamboo, bark, and pine cones packed into a sprawling structure](images/Boschendal_Insect_Hotel.jpg){ width="100%" }
+
 **Boschendal** is one of the oldest wine estates in South Africa, with title
 deeds dating to **1685**. Nestled between Franschhoek and Stellenbosch in the
 Western Cape, deep inside the Cape Floral Kingdom, it is home to over **600

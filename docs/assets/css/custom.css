@@ -10,6 +10,15 @@
   --md-default-fg-color--lighter: #8D6E63;
 }
 
+/* Force entire site body to off-white */
+body,
+.md-main,
+.md-content,
+.md-sidebar,
+.md-container {
+  background-color: #FAF9F6;
+}
+
 /* Navbar — flat, links only */
 .md-header__inner {
   display: none;

@@ -19,20 +19,32 @@ body,
   background-color: #FAF9F6;
 }
 
-/* Navbar — flat, links only */
-.md-header__inner {
-  display: none;
+/* Navbar — hide title/icon/search, show only centred links */
+.md-header {
+  background-color: #FAF9F6 !important;
+  box-shadow: none !important;
 }
 
-.md-header {
-  background-color: #FAF9F6;
-  color: #3E2723;
-  box-shadow: none;
+.md-header__button,
+.md-header__title,
+.md-header__option,
+.md-header__topic,
+.md-header__ellipsis,
+.md-search {
+  display: none !important;
+}
+
+.md-header nav.md-header__inner {
+  display: none !important;
 }
 
 .md-tabs {
   background-color: #FAF9F6;
   color: #3E2723;
+}
+
+.md-tabs__list {
+  justify-content: center;
 }
 
 .md-tabs__link {

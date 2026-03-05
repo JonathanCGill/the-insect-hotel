@@ -15,6 +15,11 @@
 {% endblock %}
 
 {% block tabs %}
-  {{ super() }}
+  <div class="navbar-wrapper">
+    <a href="{{ config.site_url }}" class="navbar-ladybird" aria-label="Home">
+      <img src="{{ config.site_url }}assets/images/favicon.svg" alt="Ladybird">
+    </a>
+    {{ super() }}
+  </div>
   <div class="site-hero-title">The Insect Hotel</div>
 {% endblock %}

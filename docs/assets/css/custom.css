@@ -39,6 +39,26 @@ body,
   display: none !important;
 }
 
+/* Navbar wrapper — ladybird left, links centred */
+.navbar-wrapper {
+  position: relative;
+  background-color: #FAF9F6;
+}
+
+.navbar-ladybird {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  line-height: 0;
+  z-index: 1;
+}
+
+.navbar-ladybird img {
+  height: 1.6rem;
+  width: auto;
+}
+
 .md-tabs {
   background-color: #FAF9F6;
   color: #3E2723;
@@ -89,11 +109,6 @@ body,
   font-size: 2.4rem;
   color: var(--md-default-fg-color);
   margin-top: 0;
-  text-align: center;
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  margin-left: -50vw;
 }
 
 /* Warm, natural feel for admonitions */

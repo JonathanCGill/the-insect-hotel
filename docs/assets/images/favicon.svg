@@ -1,29 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Background -->
-  <rect width="32" height="32" fill="white"/>
-  <!-- Body -->
-  <ellipse cx="16" cy="18" rx="3" ry="4.5" fill="#2C2C2C"/>
-  <ellipse cx="16" cy="24" rx="2.5" ry="3" fill="#1A1A1A"/>
   <!-- Head -->
-  <circle cx="16" cy="12" r="3" fill="#333"/>
-  <!-- Large compound eyes -->
-  <circle cx="13.8" cy="11" r="2" fill="#8B0000"/>
-  <circle cx="18.2" cy="11" r="2" fill="#8B0000"/>
-  <!-- Eye highlights -->
-  <circle cx="13.2" cy="10.4" r="0.5" fill="#CC3333" opacity="0.6"/>
-  <circle cx="17.6" cy="10.4" r="0.5" fill="#CC3333" opacity="0.6"/>
-  <!-- Wings (left) -->
-  <ellipse cx="9" cy="16" rx="6" ry="3" fill="#B0C4DE" opacity="0.45" transform="rotate(-15 9 16)"/>
-  <!-- Wings (right) -->
-  <ellipse cx="23" cy="16" rx="6" ry="3" fill="#B0C4DE" opacity="0.45" transform="rotate(15 23 16)"/>
-  <!-- Wing veins -->
-  <line x1="16" y1="17" x2="5" y2="14" stroke="#708090" stroke-width="0.3" opacity="0.5"/>
-  <line x1="16" y1="17" x2="27" y2="14" stroke="#708090" stroke-width="0.3" opacity="0.5"/>
-  <!-- Legs -->
-  <line x1="14" y1="19" x2="10" y2="23" stroke="#1A1A1A" stroke-width="0.6"/>
-  <line x1="18" y1="19" x2="22" y2="23" stroke="#1A1A1A" stroke-width="0.6"/>
-  <line x1="14" y1="17" x2="9" y2="20" stroke="#1A1A1A" stroke-width="0.6"/>
-  <line x1="18" y1="17" x2="23" y2="20" stroke="#1A1A1A" stroke-width="0.6"/>
-  <line x1="14.5" y1="21" x2="11" y2="26" stroke="#1A1A1A" stroke-width="0.6"/>
-  <line x1="17.5" y1="21" x2="21" y2="26" stroke="#1A1A1A" stroke-width="0.6"/>
+  <circle cx="16" cy="8" r="4" fill="#1A1A1A"/>
+  <!-- Antennae -->
+  <line x1="14" y1="5" x2="11" y2="2" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
+  <line x1="18" y1="5" x2="21" y2="2" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="11" cy="2" r="1" fill="#1A1A1A"/>
+  <circle cx="21" cy="2" r="1" fill="#1A1A1A"/>
+  <!-- Body — red dome -->
+  <ellipse cx="16" cy="19" rx="10" ry="10" fill="#E53935"/>
+  <!-- Wing line -->
+  <line x1="16" y1="9" x2="16" y2="29" stroke="#1A1A1A" stroke-width="1"/>
+  <!-- Spots -->
+  <circle cx="12" cy="15" r="2" fill="#1A1A1A"/>
+  <circle cx="20" cy="15" r="2" fill="#1A1A1A"/>
+  <circle cx="11" cy="22" r="1.7" fill="#1A1A1A"/>
+  <circle cx="21" cy="22" r="1.7" fill="#1A1A1A"/>
+  <circle cx="14.5" cy="26" r="1.4" fill="#1A1A1A"/>
+  <circle cx="17.5" cy="26" r="1.4" fill="#1A1A1A"/>
 </svg>

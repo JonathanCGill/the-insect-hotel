@@ -90,6 +90,10 @@ body,
   color: var(--md-default-fg-color);
   margin-top: 0;
   text-align: center;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
 }
 
 /* Warm, natural feel for admonitions */

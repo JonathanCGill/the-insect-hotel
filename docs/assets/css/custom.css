@@ -86,7 +86,7 @@ body,
   color: #8D6E63;
   text-align: center;
   padding: 0.5rem 1rem 0;
-  margin-bottom: -1rem;
+  margin-bottom: 0;
   background-color: #FAF9F6;
   letter-spacing: 0.04em;
 }

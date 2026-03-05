@@ -8,6 +8,7 @@
   --md-default-fg-color: #3E2723;
   --md-default-fg-color--light: #5D4037;
   --md-default-fg-color--lighter: #8D6E63;
+  --md-typeset-a-color: #BF360C;
 }
 
 /* Force entire site body to off-white */
@@ -74,6 +75,15 @@ body,
   margin-top: 0;
 }
 
+/* Hyperlinks — visible against off-white background */
+.md-typeset a {
+  color: #BF360C;
+}
+
+.md-typeset a:hover {
+  color: #FF8F00;
+}
+
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;
@@ -137,6 +147,19 @@ body,
   background-color: #FF8F00;
   color: #fff !important;
   transform: translateY(-2px);
+}
+
+/* Material primary button — override invisible off-white */
+.md-typeset .md-button--primary {
+  background-color: #3E2723;
+  border-color: #3E2723;
+  color: #FAF9F6 !important;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: #FF8F00;
+  border-color: #FF8F00;
+  color: #fff !important;
 }
 
 /* UV verification grid */

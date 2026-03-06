@@ -1,7 +1,7 @@
 # Guest Reviews
 
 We don't solicit feedback. We don't send follow-up surveys. But some of our
-guests have left their thoughts anyway — scratched into leaf surfaces, encoded
+guests have left their thoughts anyway, scratched into leaf surfaces, encoded
 in pheromone trails, or, in one case, apparently submitted via a borrowed
 smartphone.
 
@@ -14,7 +14,7 @@ We publish them here unedited, with occasional responses from management.
 **5 out of 6 legs** · Stayed: October–December 2025 · Drilled Log Rooms
 
 This is my third season at The Insect Hotel and the standard remains high. The
-drilled log rooms are clean, south-facing, and the depth is right — I was able
+drilled log rooms are clean, south-facing, and the depth is right. I was able
 to provision seven cells without running short of space. Foraging within range
 is excellent: wild rosemary, Leonotis, and a stand of lavender that I suspect
 management planted deliberately, though they'll never admit it.
@@ -33,7 +33,7 @@ Would I return? I already have. That should tell you enough.
 **6 out of 6 legs** · Stayed: May–August 2025 · Pine Cone Loft
 
 I arrived in late autumn with the first proper rain and stayed through winter.
-The Pine Cone Loft is extraordinary — warm, complex, and quiet in the way that
+The Pine Cone Loft is extraordinary: warm, complex, and quiet in the way that
 only a place surrounded by wet fynbos can be quiet. You hear the rain. You hear
 the wind moving through the restios. You hear nothing else.
 
@@ -42,12 +42,12 @@ and it was the most restful winter I have known. The darkness in there is total
 and soft. My eyes, which are built for gathering the last of the light,
 had nothing to do. It was a relief.
 
-The wind is real — I won't pretend otherwise. Some nights the whole structure
+The wind is real. I won't pretend otherwise. Some nights the whole structure
 shifts and creaks. But the engineering holds. And in the morning, when the sun
 reaches the east-facing bark, you feel it before you see it.
 
 I laid four hundred eggs on the Pelargonium within a week of emerging. That's
-not a review — that's a measure of how well I wintered.
+not a review. That's a measure of how well I wintered.
 
 ---
 
@@ -55,7 +55,7 @@ not a review — that's a measure of how well I wintered.
 
 **3 out of 6 legs** · Stayed: June 2025 · Straw Gallery
 
-I'll be honest — I expected more.
+I'll be honest. I expected more.
 
 The listing mentions "wild, seasonal dining" and "flowering shrubs that change
 with the seasons." What it doesn't mention is that in June, almost nothing is
@@ -65,8 +65,8 @@ over a closed flower? It's humiliating.
 
 The Straw Gallery itself was adequate. Dry, reasonably warm, good shelter from
 the south-easter. But adequate isn't what I flew here for. I specifically chose
-this hotel because the photographs showed yellow blooms. I am — and I cannot
-stress this enough — innately, unshakeably attracted to yellow. The photographs
+this hotel because the photographs showed yellow blooms. I am, and I cannot
+stress this enough, innately, unshakeably attracted to yellow. The photographs
 appear to have been taken in November.
 
 I also noticed a spider in the Bark Hideaway on my second evening. Nobody said
@@ -83,8 +83,8 @@ Three legs. Would consider returning in spring, reluctantly.
     We'd gently suggest that guests travelling specifically for forage consult
     the [seasonal availability table](book-your-stay.md) before arrival.
 
-    Regarding the Gazania — we share your disappointment. Regarding the
-    spider — please see [House Rule 7](house-rules.md): "Accept the
+    Regarding the Gazania, we share your disappointment. Regarding the
+    spider, please see [House Rule 7](house-rules.md): "Accept the
     Ecosystem." We provide shelter, not security.
 
     We'd welcome you back in October, when the yellow situation improves
@@ -98,8 +98,8 @@ Three legs. Would consider returning in spring, reluctantly.
 
 I don't understand this hotel.
 
-There is no dung. I rolled through every level — the straw section, the bark
-section, the pine cones — and found nothing. Not cattle, not antelope, not even
+There is no dung. I rolled through every level (the straw section, the bark
+section, the pine cones) and found nothing. Not cattle, not antelope, not even
 rabbit. The "Leaf Litter Lounge" is exactly what it sounds like: leaves. I can
 get leaves anywhere.
 
@@ -139,7 +139,7 @@ wouldn't know.
 Superb location. Superb.
 
 I set up between the Bark Hideaway entrance and a bamboo tube and the foot
-traffic was exceptional — constant, varied, and largely unaware. The positioning
+traffic was exceptional: constant, varied, and largely unaware. The positioning
 of the hotel near flowering plants is a stroke of genius, and I mean that from a
 professional standpoint. Everything funnels through a narrow approach. You
 couldn't design a better situation if you tried.
@@ -157,7 +157,7 @@ has feelings about my dining habits. But I was discreet. I cleaned up after
 myself. And I'd argue that my presence added a certain atmosphere that the
 other guests, in their own way, appreciated.
 
-An outstanding establishment. Six legs — all eight of mine agree.
+An outstanding establishment. Six legs, all eight of mine agree.
 
 !!! quote "Management response"
     Thank you for your generous review. We're glad the structural aspects of
@@ -170,7 +170,7 @@ An outstanding establishment. Six legs — all eight of mine agree.
 
     We'd also note, for the record, that spiders are not insects and
     therefore fall outside our core guest demographic. Your stay was
-    welcome, your web was admired, and your dining was — as you say —
+    welcome, your web was admired, and your dining was, as you say,
     discreet. We'll leave it there.
 
 ---

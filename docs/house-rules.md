@@ -1,12 +1,12 @@
 # House Rules
 
 The Insect Hotel is a shared space built on mutual respect between all
-inhabitants — insect, arachnid, and otherwise. To keep things running smoothly,
+inhabitants, whether insect, arachnid, or otherwise. To keep things running smoothly,
 we ask all guests to observe the following.
 
 ---
 
-![The Insect Hotel — your home in the garden](images/20260228_124038.jpg){ width="100%" }
+![The Insect Hotel, your home in the garden](images/20260228_124038.jpg){ width="100%" }
 
 ## 1. Self-Catering Only
 
@@ -49,9 +49,9 @@ prevent disease, mould, and parasitic build-up.
 
 The Insect Hotel is an outdoor establishment. Conditions include:
 
-- **Rain** in winter — sometimes heavy, sometimes persistent
-- **Wind** year-round — occasionally fierce, especially the south-easter
-- **Heat** in summer — dry conditions with strong sun
+- **Rain** in winter, sometimes heavy, sometimes persistent
+- **Wind** year-round, occasionally fierce, especially the south-easter
+- **Heat** in summer, with dry conditions and strong sun
 - **Cool nights** in spring and autumn
 
 We provide shelter, not climate control. Choose your room wisely based on your
@@ -71,7 +71,7 @@ floors require wings.
 ## 6. Solitary Guests Preferred
 
 This isn't a hive, a colony, or a swarm destination. We cater to the
-**individual traveller** — the lone bee, the solo wasp, the independent
+**individual traveller**: the lone bee, the solo wasp, the independent
 lacewing. If you're looking for a party, you're at the wrong hotel.
 
 Social species are welcome in small numbers, provided they respect the quiet
@@ -85,7 +85,7 @@ The hotel exists within a living, breathing ecosystem. That means:
 
 - Predators exist (birds, spiders, lizards). We don't provide security.
 - Plants flower and fade according to their own schedule.
-- Other organisms will share your space — mites, fungi, and bacteria are part of
+- Other organisms will share your space. Mites, fungi, and bacteria are part of
   the deal.
 
 Nature is the landlord here. We're just the property managers.
@@ -96,9 +96,9 @@ Nature is the landlord here. We're just the property managers.
 
 You're welcome to stay for:
 
-- **A single night** — passing through on migration or a foraging expedition
-- **A season** — nesting, overwintering, or simply enjoying the locale
-- **Permanently** — some of our most loyal guests never leave, and that's
+- **A single night**, passing through on migration or a foraging expedition
+- **A season**, nesting, overwintering, or simply enjoying the locale
+- **Permanently**. Some of our most loyal guests never leave, and that's
   perfectly fine
 
 There is no checkout time. There is also no check-in time. Arrive when you're
@@ -108,7 +108,7 @@ ready.
 
 ## 9. Respect the Neighbours
 
-The broader community — birds, mammals, reptiles, and humans — shares this
+The broader community (birds, mammals, reptiles, and humans) shares this
 landscape. Most are friendly or indifferent. A few are opportunistic. Navigate
 accordingly, and don't provoke anything larger than yourself.
 
@@ -127,11 +127,11 @@ what makes it extraordinary. By choosing The Insect Hotel, you accept:
 ---
 
 !!! tip "Looking for things to do?"
-    Browse our [Events & Activities](events.md) programme — seasonal happenings,
+    Browse our [Events & Activities](events.md) programme for seasonal happenings,
     adventure activities, and honest reports from past events.
 
 !!! quote "The Insect Hotel Philosophy"
-    *"We don't promise luxury. We promise nature — wild, seasonal, and
+    *"We don't promise luxury. We promise nature, wild, seasonal, and
     unapologetically real."*
 
 <div class="book-button-wrapper" markdown>

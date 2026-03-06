@@ -1,6 +1,6 @@
 # Book Your Stay
 
-Good news — there's no booking system, no deposits, and no paperwork.
+Good news: there's no booking system, no deposits, and no paperwork.
 
 **Just arrive.**
 
@@ -8,13 +8,13 @@ Good news — there's no booking system, no deposits, and no paperwork.
 
 ## How It Works
 
-1. **Fly to the hotel** — follow the scent of fynbos and look for the wooden
+1. **Fly to the hotel.** Follow the scent of fynbos and look for the wooden
    structure in the garden.
-2. **Inspect the rooms** — browse the bamboo suites, pine cone lofts, drilled
+2. **Inspect the rooms.** Browse the bamboo suites, pine cone lofts, drilled
    log rooms, and other accommodation options.
-3. **Move in** — find an unoccupied chamber that suits your size and
+3. **Move in.** Find an unoccupied chamber that suits your size and
    preferences. If it's empty, it's yours.
-4. **Stay as long as you like** — one night, one season, or forever. No
+4. **Stay as long as you like.** One night, one season, or forever. No
    questions asked.
 
 ---
@@ -76,7 +76,7 @@ A: Ground-level accommodation is available for crawling species, but the full
 hotel experience requires flight capability.
 
 **Q: Is it safe?**
-A: Safer than being out in the open. But this is nature — we offer shelter, not
+A: Safer than being out in the open. But this is nature. We offer shelter, not
 a security detail.
 
 ---
@@ -93,7 +93,7 @@ Among the fynbos, near the mountains, close to the sea
 
 !!! note "A final word"
     The best things in life require no reservation. They just require showing up.
-    We'll leave the light on — well, the south-facing entrance open, at least.
+    We'll leave the south-facing entrance open, at least.
 
     **See you when you get here.**
 

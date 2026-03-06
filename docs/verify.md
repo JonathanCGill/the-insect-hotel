@@ -3,8 +3,8 @@
 Before we can confirm your stay, we need to verify that you are, in fact, an
 insect. We take this very seriously.
 
-The grid below contains **16 colour blocks**. Some are painted in **ultraviolet**
-— a colour clearly visible to any self-respecting insect, but completely
+The grid below contains **16 colour blocks**. Some are painted in **ultraviolet**,
+a colour clearly visible to any self-respecting insect, but completely
 invisible to the human eye.
 
 **Select all the ultraviolet blocks**, then press Submit.

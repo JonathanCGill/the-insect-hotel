@@ -19,7 +19,7 @@ in unstructured mingling across all floors of the hotel and the surrounding
 garden. Pheromone-based introductions are welcome. Aerial displays encouraged.
 
 - Open to all species
-- No RSVP required — instinct will handle attendance
+- No RSVP required; instinct will handle attendance
 - The hotel takes no responsibility for post-event outcomes
 
 !!! warning "Notice for mantis guests"
@@ -39,7 +39,7 @@ temporary disappearance of all vegetation within foraging distance.
 
 We understand this can be disruptive. However, fire is essential to the fynbos
 biome and triggers extraordinary post-fire flowering within weeks. Think of it
-as a refurbishment — dramatic, briefly uninhabitable, but the results speak for
+as a refurbishment: dramatic, briefly uninhabitable, but the results speak for
 themselves.
 
 - Evacuation is the guest's responsibility
@@ -54,7 +54,7 @@ themselves.
 
 Select guests may be chosen to participate in our intensive wellness programme,
 administered by visiting parasitoid wasps. The treatment involves deep tissue
-work — very deep tissue work — and a prolonged period of rest during which the
+work (very deep tissue work) and a prolonged period of rest during which the
 guest provides full-board accommodation for a developing larva.
 
 - Participation is not voluntary
@@ -72,7 +72,7 @@ a network of high-tension silk installations across key flight paths. Navigate
 them successfully and you've had an adventure. Navigate them unsuccessfully
 and you've had an experience.
 
-- No booking required — simply fly at dusk
+- No booking required; simply fly at dusk
 - Difficulty varies by season and spider ambition
 - Management provides no rescue service
 - Waiver signed upon entry (by entering, you have signed the waiver)
@@ -104,7 +104,7 @@ structural integrity of webs, the grip strength of roosting insects, and the
 navigation skills of anything airborne. Guests who remain attached to the
 hotel through a full south-easter event may consider themselves athletes.
 
-- Unscheduled — the wind decides
+- Unscheduled. The wind decides.
 - No prizes, only survival
 - Smaller guests should avoid the upper bamboo suite during gusts
 
@@ -135,7 +135,7 @@ opted for an early departure.
 
 ---
 
-**Fynbos Fire — Controlled Burn (Adjacent Property)** · 18 February 2025
+**Fynbos Fire, Controlled Burn (Adjacent Property)** · 18 February 2025
 
 A controlled burn on the neighbouring property produced significant smoke and
 localised panic. The hotel was not directly affected. Several flying guests

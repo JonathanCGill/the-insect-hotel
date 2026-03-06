@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - claude/insect-hotel-website-pmXx2
+      - claude/improve-opening-paragraph-GMHpo
 
 permissions:
   contents: read

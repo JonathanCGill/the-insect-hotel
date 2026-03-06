@@ -184,6 +184,53 @@ body,
   color: #fff !important;
 }
 
+/* Mobile fixes — keep navbar visible and prevent it being pushed off-screen */
+@media screen and (max-width: 76.25em) {
+  /* Collapse the invisible header so it doesn't take up space */
+  .md-header {
+    position: static !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+  }
+
+  /* Force tabs to stay visible on mobile (Material hides them by default) */
+  .md-tabs {
+    display: block !important;
+  }
+
+  /* Stack nav links for smaller screens */
+  .md-tabs__list {
+    flex-wrap: wrap;
+    padding: 0.25rem 0;
+  }
+
+  .md-tabs__item {
+    flex-shrink: 0;
+  }
+
+  .md-tabs__link {
+    font-size: 0.78rem;
+    padding: 0.4rem 0.6rem;
+  }
+
+  /* Smaller hero title on mobile */
+  .site-hero-title {
+    font-size: 2rem;
+    padding: 0.25rem 1rem 0;
+  }
+
+  /* Adjust ladybird for narrower space */
+  .navbar-ladybird {
+    position: static;
+    display: block;
+    text-align: center;
+    transform: none;
+    padding-top: 0.4rem;
+  }
+}
+
 /* UV verification grid */
 .uv-grid {
   display: grid;

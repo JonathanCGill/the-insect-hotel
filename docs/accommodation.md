@@ -4,7 +4,7 @@ Every room at The Insect Hotel is crafted from natural materials and designed
 with a specific guest in mind. Whether you prefer a snug tunnel, a cosy crevice,
 or an airy bundle of hollow stems, we have something for you.
 
-![The Insect Hotel — a closer look at our rooms](images/20260228_124032.jpg){ width="100%" }
+![The Insect Hotel, a closer look at our rooms](images/20260228_124032.jpg){ width="100%" }
 
 ---
 
@@ -15,7 +15,7 @@ or an airy bundle of hollow stems, we have something for you.
 **Best for:** Solitary bees, small wasps
 
 Bundles of hollow bamboo canes in a range of diameters (2mm–10mm). North-facing
-for morning warmth. Each tube is a private, single-occupancy chamber — perfect
+for morning warmth. Each tube is a private, single-occupancy chamber, perfect
 for nesting or simply resting between flights.
 
 - Private entrance
@@ -69,7 +69,7 @@ Excellent for overwintering and early-season nesting.
 **Best for:** Ground beetles, centipedes, overwintering butterflies
 
 A generous layer of dried leaves, twigs, and moss at the base of the hotel. It's
-not glamorous, but it's honest — and incredibly popular in the cooler months.
+not glamorous, but it's honest, and incredibly popular in the cooler months.
 
 - Natural insulation
 - Rich micro-ecosystem
@@ -96,20 +96,20 @@ and diameters. Smooth interiors, no splinters. Our most sought-after rooms.
 
 All guests enjoy access to:
 
-- **Open-air foraging grounds** — indigenous fynbos, wildflowers, and seasonal
+- **Open-air foraging grounds**, including indigenous fynbos, wildflowers, and seasonal
   blooms within easy flying distance
-- **Fresh water sources** — shallow dishes with pebble landing pads, refilled by
+- **Fresh water sources**, shallow dishes with pebble landing pads, refilled by
   rain or by management
-- **Shelter from predators** — the hotel's design includes overhangs and
+- **Shelter from predators**: the hotel's design includes overhangs and
   recessed areas to reduce exposure
-- **Shade trees nearby** — for those hot summer days when even an insect needs a
+- **Shade trees nearby**, for those hot summer days when even an insect needs a
   break
 
 ---
 
 !!! info "A note on availability"
     Rooms are allocated on a first-come, first-served basis. We don't take
-    reservations — just arrive and find your spot. Peak season is spring and
+    reservations; just arrive and find your spot. Peak season is spring and
     early summer, so early arrivals get the best choice. Not sure which room
     suits your species? Meet [our guests](our-guests.md) to find your match.
 

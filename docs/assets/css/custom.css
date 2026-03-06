@@ -68,14 +68,16 @@ body,
   justify-content: center;
 }
 
-.md-tabs__link {
-  color: #3E2723;
+.md-tabs__link,
+.md-tabs__link:visited {
+  color: #3E2723 !important;
   opacity: 1;
 }
 
 .md-tabs__link--active,
+.md-tabs__link--active:visited,
 .md-tabs__link:hover {
-  color: #FF8F00;
+  color: #FF8F00 !important;
 }
 
 /* Large site title below nav */
@@ -103,6 +105,21 @@ body,
 
 .md-typeset a:hover {
   color: #FF8F00;
+}
+
+/* Sidebar nav links — keep visited links visible */
+.md-nav__link,
+.md-nav__link:visited {
+  color: #3E2723 !important;
+}
+
+.md-nav__link:hover {
+  color: #FF8F00 !important;
+}
+
+.md-nav__link--active,
+.md-nav__link--active:visited {
+  color: #BF360C !important;
 }
 
 /* Hero section on homepage */

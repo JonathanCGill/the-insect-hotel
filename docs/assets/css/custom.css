@@ -105,6 +105,21 @@ body,
   color: #FF8F00;
 }
 
+/* Sidebar nav links — keep visited links visible */
+.md-nav__link,
+.md-nav__link:visited {
+  color: #3E2723 !important;
+}
+
+.md-nav__link:hover {
+  color: #FF8F00 !important;
+}
+
+.md-nav__link--active,
+.md-nav__link--active:visited {
+  color: #BF360C !important;
+}
+
 /* Hero section on homepage */
 .md-content h1 {
   font-size: 2.4rem;

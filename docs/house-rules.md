@@ -126,6 +126,10 @@ what makes it extraordinary. By choosing The Insect Hotel, you accept:
 
 ---
 
+!!! tip "Looking for things to do?"
+    Browse our [Events & Activities](events.md) programme — seasonal happenings,
+    adventure activities, and honest reports from past events.
+
 !!! quote "The Insect Hotel Philosophy"
     *"We don't promise luxury. We promise nature — wild, seasonal, and
     unapologetically real."*

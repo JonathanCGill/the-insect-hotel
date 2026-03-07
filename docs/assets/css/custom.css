@@ -431,3 +431,26 @@ body,
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
+
+.network-visit {
+  margin-top: 0.6rem !important;
+  margin-bottom: 0 !important;
+}
+
+.network-visit a {
+  display: inline-block;
+  background: #3E2723;
+  color: #FAF9F6 !important;
+  padding: 0.35rem 1rem;
+  border-radius: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition: background-color 0.2s, transform 0.15s;
+}
+
+.network-visit a:hover {
+  background: #FF8F00;
+  color: #fff !important;
+  transform: translateY(-1px);
+}

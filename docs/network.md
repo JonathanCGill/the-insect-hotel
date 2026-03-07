@@ -33,52 +33,72 @@ Click any node to learn more. Hover over an edge to see the distance.
   var hotels = [
     // Home
     { id: "home", name: "The Insect Hotel", loc: "Western Cape, South Africa", lat: -34.05, lng: 18.55, cat: "home",
-      desc: "Our boutique retreat in the fynbos. The one that started it all — for us, at least.", url: "" },
+      desc: "Our boutique retreat in the fynbos. The one that started it all, for us at least.", url: "index.html" },
     // Record holders
     { id: "duror", name: "Highland Titles Bug Hotel", loc: "Duror, Scotland", lat: 56.66, lng: -5.37, cat: "record",
-      desc: "Guinness World Record holder — 199.9 m\u00b3. Built from felled sitka spruce, bamboo, clay pipes and bark. Completed March 2022." },
+      desc: "Guinness World Record holder: 199.9 m\u00b3. Built from felled sitka spruce, bamboo, clay pipes and bark. Completed March 2022.",
+      url: "https://www.highlandtitles.com/blog/worlds-biggest-bug-hotel-2022/" },
     { id: "warsaw", name: "Warsaw Giant", loc: "Warsaw, Poland", lat: 52.23, lng: 21.01, cat: "record",
-      desc: "Previous world record holder at 89.37 m\u00b3. Built by the Polish Association of Developers on International Day for Biological Diversity." },
+      desc: "Previous world record holder at 89.37 m\u00b3. Built by the Polish Association of Developers on International Day for Biological Diversity.",
+      url: "https://notesfrompoland.com/2021/05/24/worlds-biggest-insect-hotel-created-in-warsaw/" },
     { id: "sthelens", name: "St Helens School Hotel", loc: "St Helens, England", lat: 53.45, lng: -2.74, cat: "record",
-      desc: "The original record holder at 81.26 m\u00b3 — proof that school projects can change the world." },
+      desc: "The original record holder at 81.26 m\u00b3. Proof that school projects can change the world.",
+      url: "https://www.guinnessworldrecords.com/world-records/430241-largest-insect-hotel-house" },
     // Gardens & Parks
     { id: "kew", name: "Kew Gardens Bee Tower", loc: "Richmond, London", lat: 51.48, lng: -0.30, cat: "garden",
-      desc: "Insect and bee tower at the Royal Botanic Gardens. Also home to the 'Seed Stories' pollinator sculptures at Wakehurst." },
+      desc: "Insect and bee tower at the Royal Botanic Gardens. Also home to the 'Seed Stories' pollinator sculptures at Wakehurst.",
+      url: "https://www.kew.org/" },
     { id: "russell", name: "Russell Square Bug Hotels", loc: "Bloomsbury, London", lat: 51.52, lng: -0.13, cat: "garden",
-      desc: "Community project in Russell Square Gardens, sponsored by local hotels. Free entry, 7:30am \u2013 10pm daily." },
+      desc: "Community project in Russell Square Gardens, sponsored by local hotels. Free entry, 7:30am \u2013 10pm daily.",
+      url: "https://bloomsburysquares.com/2019/03/18/insect-hotels-for-russell-square-gardens/" },
     { id: "paris", name: "Jardin des Plantes", loc: "Paris, France", lat: 48.84, lng: 2.36, cat: "garden",
-      desc: "Bee hotel in the botanical garden of the National Museum of Natural History, 5th arrondissement." },
+      desc: "Bee hotel in the botanical garden of the National Museum of Natural History, 5th arrondissement.",
+      url: "https://www.jardindesplantesdeparis.fr/en" },
     { id: "denver", name: "Denver Botanic Gardens", loc: "Denver, Colorado", lat: 39.73, lng: -104.96, cat: "garden",
-      desc: "Insect hotels attracting solitary native bees and wasps among the Rocky Mountain flora." },
+      desc: "Insect hotels attracting solitary native bees and wasps among the Rocky Mountain flora.",
+      url: "https://www.botanicgardens.org/" },
     { id: "phoenix", name: "Desert Botanical Garden", loc: "Phoenix, Arizona", lat: 33.46, lng: -111.94, cat: "garden",
-      desc: "Bug hotels on trails near the Butterfly Exhibit and the Center for Desert Living Trail." },
+      desc: "Bug hotels on trails near the Butterfly Exhibit and the Center for Desert Living Trail.",
+      url: "https://dbg.org/" },
     { id: "sonoma", name: "Sonoma State University", loc: "Rohnert Park, California", lat: 38.34, lng: -122.71, cat: "garden",
-      desc: "Student-refurbished insect hotel in the Garden Classroom. Proof that learning and nesting go together." },
+      desc: "Student-refurbished insect hotel in the Garden Classroom. Proof that learning and nesting go together.",
+      url: "https://pacifichorticulture.org/articles/insect-hotels/" },
     { id: "sydney", name: "Botanic Gardens of Sydney", loc: "Sydney, Australia", lat: -33.86, lng: 151.22, cat: "garden",
-      desc: "Insect hotel programme in Australia\u2019s oldest botanical garden." },
+      desc: "Insect hotel programme in Australia\u2019s oldest botanical garden.",
+      url: "https://www.botanicgardens.org.au/discover-and-learn/curious-kids/insect-hotel" },
     { id: "agder", name: "University of Agder", loc: "Kristiansand, Norway", lat: 58.16, lng: 8.00, cat: "garden",
-      desc: "Multiple insect hotels in the botanical garden, including a large one at the Riding Hall." },
+      desc: "Multiple insect hotels in the botanical garden, including a large one at the Riding Hall.",
+      url: "https://www.uia.no/naturmuseum/english/learning-and-school/insektshotell/" },
     { id: "ottawa", name: "Fletcher Wildlife Garden", loc: "Ottawa, Canada", lat: 45.39, lng: -75.71, cat: "garden",
-      desc: "South of the Old Woodlot. Home to leaf-cutter bees and mason bees." },
+      desc: "South of the Old Woodlot. Home to leaf-cutter bees and mason bees.",
+      url: "https://ofnc.ca/programs/fletcher-wildlife-garden" },
     // Art & Design
     { id: "masnou", name: "Parc Vallmora Hotel", loc: "El Masnou, Barcelona", lat: 41.48, lng: 2.31, cat: "art",
-      desc: "Designed by Batlle i Roig Arquitectura in 2016. Architecture award nominee and pedagogical tool." },
+      desc: "Designed by Batlle i Roig Arquitectura in 2016. Architecture award nominee and pedagogical tool.",
+      url: "https://landezine-award.com/insect-hotel/" },
     { id: "utrecht", name: "Air Bee 'n Bee", loc: "Utrecht, Netherlands", lat: 52.09, lng: 5.12, cat: "art",
-      desc: "Billboard tower with 200+ hives in a 7,000 m\u00b2 wildflower meadow along the A2 highway. 20 bee species spotted." },
+      desc: "Billboard tower with 200+ hives in a 7,000 m\u00b2 wildflower meadow along the A2 highway. 20 bee species spotted.",
+      url: "https://closercities.org/projects/air-bee-bee-hotel-wild-bees" },
     { id: "va", name: "Please Stand By", loc: "V&A Museum, London", lat: 51.50, lng: -0.17, cat: "art",
-      desc: "Marl\u00e8ne Huissoud\u2019s sculptural pollinator hotels, shown at London Design Festival. Temporary installation." },
+      desc: "Marl\u00e8ne Huissoud\u2019s sculptural pollinator hotels, shown at London Design Festival. Temporary installation.",
+      url: "https://designwanted.com/marlene-huissoud-interview/" },
     // Switzerland circuit
     { id: "lausanne", name: "Beau Rivage Palace", loc: "Lausanne, Switzerland", lat: 46.51, lng: 6.63, cat: "art",
-      desc: "Luxury bee hotel inspired by four seasons and local flora, set in the hotel\u2019s park." },
+      desc: "Luxury bee hotel inspired by four seasons and local flora, set in the hotel\u2019s park.",
+      url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
     { id: "basel", name: "Wild Bee Lodges", loc: "Basel, Switzerland", lat: 47.56, lng: 7.59, cat: "art",
-      desc: "Five accommodation buildings near the Silo Boutique Hostel. Natural materials, communal living." },
+      desc: "Five accommodation buildings near the Silo Boutique Hostel. Natural materials, communal living.",
+      url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
     { id: "zurich", name: "Tiny Dolder Grand", loc: "Zurich, Switzerland", lat: 47.37, lng: 8.54, cat: "art",
-      desc: "A miniature replica of the Dolder Grand hotel. Hedgehogs on the ground floor, birds on the rooftop." },
+      desc: "A miniature replica of the Dolder Grand hotel. Hedgehogs on the ground floor, birds on the rooftop.",
+      url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
     { id: "lugano", name: "Villa Carona Bee Hotel", loc: "near Lugano, Switzerland", lat: 45.96, lng: 8.94, cat: "art",
-      desc: "Home to 10,000\u201330,000 bees in a historic villa setting." },
+      desc: "Home to 10,000\u201330,000 bees in a historic villa setting.",
+      url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
     // Wildcard
     { id: "suzuka", name: "Buzzin Corner", loc: "Suzuka Circuit, Japan", lat: 34.84, lng: 136.54, cat: "wildcard",
-      desc: "11 insect hotels at Turn 2, built by Sebastian Vettel. Kerbs painted black & yellow. Each F1 team customised their own." }
+      desc: "11 insect hotels at Turn 2, built by Sebastian Vettel. Kerbs painted black & yellow. Each F1 team customised their own.",
+      url: "https://www.qatar-tribune.com/article/84251/sports/vettel-builds-insect-hotels-at-japans-suzuka-circuit" }
   ];
 
   // Edges: meaningful connections
@@ -223,6 +243,9 @@ Click any node to learn more. Hover over an edge to see the distance.
       g.appendChild(label);
 
       g.addEventListener("click", function() {
+        var linkHtml = h.url ? '<p class="network-visit"><a href="' + h.url + '"' +
+          (h.url.startsWith("http") ? ' target="_blank" rel="noopener"' : '') +
+          '>Visit \u2192</a></p>' : '';
         info.innerHTML = '<div class="network-card">' +
           '<span class="network-cat" style="background:' + catColors[h.cat] + '">' + catLabels[h.cat] + '</span>' +
           '<h3>' + h.name + '</h3>' +
@@ -230,6 +253,7 @@ Click any node to learn more. Hover over an edge to see the distance.
           '<p>' + h.desc + '</p>' +
           '<p class="network-coords">' + Math.abs(h.lat).toFixed(2) + '\u00b0' + (h.lat >= 0 ? 'N' : 'S') +
           ', ' + Math.abs(h.lng).toFixed(2) + '\u00b0' + (h.lng >= 0 ? 'E' : 'W') + '</p>' +
+          linkHtml +
           '</div>';
       });
 
@@ -340,8 +364,8 @@ Every hotel on this page is real. We verified each one against news reports,
 institutional websites, Guinness World Records, or published research. No human
 should arrive at a field to find nothing, and no insect either.
 
-Some installations — particularly art pieces like Marlène Huissoud's *Please
-Stand By* at the V&A — may have been temporary. We've noted this where known.
+Some installations, particularly art pieces like Marlène Huissoud's *Please
+Stand By* at the V&A, may have been temporary. We've noted this where known.
 
 If you know of an insect hotel we've missed, we'd love to hear about it. The
 network is always growing.
@@ -350,20 +374,20 @@ network is always growing.
 
 ### Sources
 
-1. [Guinness World Records — Largest insect hotel](https://www.guinnessworldrecords.com/world-records/430241-largest-insect-hotel-house)
-2. [Highland Titles — World's Biggest Bug Hotel (2022)](https://www.highlandtitles.com/blog/worlds-biggest-bug-hotel-2022/)
-3. [Notes from Poland — Warsaw insect hotel](https://notesfrompoland.com/2021/05/24/worlds-biggest-insect-hotel-created-in-warsaw/)
-4. [Wallpaper — Seed Stories at Kew / Wakehurst](https://www.wallpaper.com/design-interiors/seed-stories-kew-gardens)
-5. [Wild West End — Russell Square Insect Hotels](http://www.wildwestend.london/stories-feed/2017/4/26/insect-hotel)
-6. [Bloomsbury Squares — Insect hotels for Russell Square](https://bloomsburysquares.com/2019/03/18/insect-hotels-for-russell-square-gardens/)
-7. [Closer Cities — Air Bee 'n Bee, Utrecht](https://closercities.org/projects/air-bee-bee-hotel-wild-bees)
-8. [Switzerland Tourism — Bees & Friends](https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/)
-9. [Qatar Tribune — Vettel builds insect hotels at Suzuka](https://www.qatar-tribune.com/article/84251/sports/vettel-builds-insect-hotels-at-japans-suzuka-circuit)
-10. [Landezine Award — Parc Vallmora insect hotel](https://landezine-award.com/insect-hotel/)
-11. [DesignWanted — Marlène Huissoud interview](https://designwanted.com/marlene-huissoud-interview/)
-12. [Wikipedia — Insect hotel](https://en.wikipedia.org/wiki/Insect_hotel)
-13. [Pacific Horticulture — Insect Hotels](https://pacifichorticulture.org/articles/insect-hotels/)
-14. [Botanic Gardens of Sydney — Insect hotel](https://www.botanicgardens.org.au/discover-and-learn/curious-kids/insect-hotel)
-15. [University of Agder — Insect hotel](https://www.uia.no/naturmuseum/english/learning-and-school/insektshotell/)
+1. [Guinness World Records: Largest insect hotel](https://www.guinnessworldrecords.com/world-records/430241-largest-insect-hotel-house)
+2. [Highland Titles: World's Biggest Bug Hotel (2022)](https://www.highlandtitles.com/blog/worlds-biggest-bug-hotel-2022/)
+3. [Notes from Poland: Warsaw insect hotel](https://notesfrompoland.com/2021/05/24/worlds-biggest-insect-hotel-created-in-warsaw/)
+4. [Wallpaper: Seed Stories at Kew / Wakehurst](https://www.wallpaper.com/design-interiors/seed-stories-kew-gardens)
+5. [Wild West End: Russell Square Insect Hotels](http://www.wildwestend.london/stories-feed/2017/4/26/insect-hotel)
+6. [Bloomsbury Squares: Insect hotels for Russell Square](https://bloomsburysquares.com/2019/03/18/insect-hotels-for-russell-square-gardens/)
+7. [Closer Cities: Air Bee 'n Bee, Utrecht](https://closercities.org/projects/air-bee-bee-hotel-wild-bees)
+8. [Switzerland Tourism: Bees & Friends](https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/)
+9. [Qatar Tribune: Vettel builds insect hotels at Suzuka](https://www.qatar-tribune.com/article/84251/sports/vettel-builds-insect-hotels-at-japans-suzuka-circuit)
+10. [Landezine Award: Parc Vallmora insect hotel](https://landezine-award.com/insect-hotel/)
+11. [DesignWanted: Marlène Huissoud interview](https://designwanted.com/marlene-huissoud-interview/)
+12. [Wikipedia: Insect hotel](https://en.wikipedia.org/wiki/Insect_hotel)
+13. [Pacific Horticulture: Insect Hotels](https://pacifichorticulture.org/articles/insect-hotels/)
+14. [Botanic Gardens of Sydney: Insect hotel](https://www.botanicgardens.org.au/discover-and-learn/curious-kids/insect-hotel)
+15. [University of Agder: Insect hotel](https://www.uia.no/naturmuseum/english/learning-and-school/insektshotell/)
 
 </div>

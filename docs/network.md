@@ -24,7 +24,7 @@ Click any node to learn more. Hover over an edge to see the distance.
     <button class="network-btn" data-filter="art">Art &amp; Design</button>
     <button class="network-btn" data-filter="wildcard">Wildcards</button>
   </div>
-  <svg id="network-graph" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg"></svg>
+  <svg id="network-graph" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg"></svg>
   <div id="network-info"></div>
 </div>
 
@@ -141,10 +141,11 @@ Click any node to learn more. Hover over an edge to see the distance.
     return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   }
 
-  // Project lat/lng to SVG coords (simple Mercator-ish)
+  // Project lat/lng to SVG coords (tighter fit around actual data)
   function project(lat, lng) {
-    var x = (lng + 130) / 280 * 860 + 20;
-    var y = (1 - (lat + 45) / 115) * 480 + 20;
+    // lng range: -125 (Sonoma) to 155 (Sydney), lat range: -36 to 60
+    var x = (lng + 125) / 282 * 860 + 20;
+    var y = (1 - (lat + 38) / 100) * 360 + 20;
     return { x: x, y: y };
   }
 

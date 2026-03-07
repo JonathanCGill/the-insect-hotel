@@ -28,7 +28,6 @@ Click any node to learn more. Hover over an edge to see the distance.
   <div id="network-info"></div>
 </div>
 
-<script src="assets/world-map.js"></script>
 <script>
 (function() {
   var hotels = [

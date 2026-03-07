@@ -26,6 +26,9 @@ plugins:
 extra_css:
   - assets/css/custom.css
 
+extra_javascript:
+  - assets/world-map.js
+
 nav:
   - Home: index.md
   - Guests: our-guests.md

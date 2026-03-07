@@ -10,30 +10,30 @@ unfolds before you.
 
 ### Fynbos
 
-The dominant vegetation around the hotel is **fynbos**, a UNESCO-recognised
-floral kingdom unique to the Western Cape. Heathers, proteas, restios, and
-ericas create a year-round mosaic of foraging opportunities. If you're a
-pollinator, this is paradise.
+The main plant life around the hotel is **fynbos**, a UNESCO-recognised plant
+kingdom found only in the Western Cape. Heathers, proteas, restios, and ericas
+create a year-round patchwork of feeding chances. If you're a pollinator, this
+is paradise.
 
 ![Pincushion proteas and fynbos stretching toward the mountains](images/2024-02-05(2).jpg){ width="100%" }
 
 ### Mountains
 
-The mountains rise just behind the hotel, offering dramatic thermals for
-adventurous flyers and sheltered valleys for those who prefer calmer air. Rocky
-outcrops provide additional basking spots on cool mornings.
+The mountains rise just behind the hotel. They offer strong thermal currents for
+daring flyers and sheltered valleys for those who prefer calmer air. Rocky
+outcrops provide extra basking spots on cool mornings.
 
 ### The Sea
 
-The coastline is a short flight away. While most of our guests prefer to stay
-inland, the sea breeze brings moisture and moderates temperatures. Coastal
-wildflowers extend the foraging range for ambitious day-trippers.
+The coastline is a short flight away. Most of our guests prefer to stay inland,
+but the sea breeze brings moisture and keeps temperatures mild. Coastal
+wildflowers extend the feeding range for keen day-trippers.
 
 ![Coastal everlastings overlooking the sea, foraging at the edge of the continent](images/2024-02-05(7).jpg){ width="100%" }
 
 ### Forest Pockets
 
-Scattered patches of indigenous forest provide shade, humidity, and a completely
+Scattered patches of native forest provide shade, humidity, and a completely
 different ecosystem to explore. Ideal for guests who enjoy variety.
 
 ![A forest orchid thriving on a mossy log, the shaded world beneath the canopy](images/2024-02-05(6).jpg){ width="100%" }
@@ -42,8 +42,8 @@ different ecosystem to explore. Ideal for guests who enjoy variety.
 
 ## What's on the Menu
 
-The garden and surrounding landscape provide a constantly changing buffet.
-Here's a taste of what's in bloom:
+The garden and surrounding landscape provide an ever-changing buffet. Here's a
+taste of what's in bloom:
 
 <div class="grid" markdown>
 
@@ -88,14 +88,14 @@ And in the surrounding fynbos:
 
 - Temperatures ease. Early rains begin.
 - Late-season foraging on autumn-flowering species.
-- A quieter time at the hotel, ideal for guests seeking true solitude.
+- A quieter time at the hotel, ideal for guests seeking peace.
 
 ### Winter (June – August)
 
 - **Rainy season.** Expect wet days and blustery winds.
-- Overwintering guests hunker down in insulated rooms.
-- The landscape rests and regenerates.
-- Fewer guests, more space. Perfect for the contemplative insect.
+- Wintering guests hunker down in insulated rooms.
+- The landscape rests and rebuilds.
+- Fewer guests, more space. Perfect for the thoughtful insect.
 
 ---
 
@@ -103,33 +103,33 @@ And in the surrounding fynbos:
 
 The neighbours are, on the whole, welcoming:
 
-- **Birds**: mostly keep to themselves, though some are opportunistic. Stay
-  alert, stay small, stay in your room if uncertain.
-- **Lizards**: sunbathe nearby but are generally more interested in warming up
+- **Birds**: mostly keep to themselves, though some will try their luck. Stay
+  alert, stay small, stay in your room if unsure.
+- **Lizards**: sunbathe nearby but are usually more interested in warming up
   than hunting.
 - **Spiders**: some share the hotel. A respectful distance is advised.
 - **Plants**: the true hosts of this landscape. They feed you, shelter you, and
   ask nothing in return but the occasional pollination.
-- **Humans**: the ones who built the hotel. They observe from a distance,
-  occasionally top up the water, and find the whole arrangement delightful.
+- **Humans**: the ones who built the hotel. They watch from a distance, top up
+  the water now and then, and find the whole setup delightful.
 
 ---
 
 ## Getting Here
 
-The Insect Hotel is accessible by air only. Navigate by:
+The Insect Hotel is reached by air only. Navigate by:
 
-- **Scent**: follow the fragrance of blooming fynbos
+- **Scent**: follow the smell of blooming fynbos
 - **Sight**: look for the wooden structure facing south-east, near the garden
-  boundary
+  edge
 - **Instinct**: you'll know it when you see it
 
 ---
 
 !!! note "Travel advisory"
-    Wind conditions can be challenging, especially in winter and during
-    south-easterly gales in summer. Plan your approach accordingly. We recommend
-    arriving on calm mornings for the smoothest landing.
+    Wind conditions can be tough, especially in winter and during south-easterly
+    gales in summer. Plan your approach with care. We suggest arriving on calm
+    mornings for the smoothest landing.
 
 <div class="book-button-wrapper" markdown>
 [Book Now](verify.md){ .book-button }

@@ -10,10 +10,10 @@ Good news: there's no booking system, no deposits, and no paperwork.
 
 1. **Fly to the hotel.** Follow the scent of fynbos and look for the wooden
    structure in the garden.
-2. **Inspect the rooms.** Browse the bamboo suites, pine cone lofts, drilled
-   log rooms, and other accommodation options.
-3. **Move in.** Find an unoccupied chamber that suits your size and
-   preferences. If it's empty, it's yours.
+2. **Check the rooms.** Browse the bamboo suites, pine cone lofts, drilled
+   log rooms, and other options.
+3. **Move in.** Find an empty chamber that suits your size and needs. If it's
+   free, it's yours.
 4. **Stay as long as you like.** One night, one season, or forever. No
    questions asked.
 
@@ -21,18 +21,18 @@ Good news: there's no booking system, no deposits, and no paperwork.
 
 ## Availability
 
-Rooms are allocated on a **first-come, first-served** basis.
+Rooms go on a **first-come, first-served** basis.
 
 | Season | Occupancy | Best For |
 |--------|-----------|----------|
 | Spring | High | Nesting, fresh foraging |
 | Summer | Moderate–High | Extended stays, warm-weather species |
 | Autumn | Low–Moderate | Quiet retreats, late foragers |
-| Winter | Low | Overwintering, solitude seekers |
+| Winter | Low | Wintering, solitude seekers |
 
 !!! tip "Pro tip"
-    Arrive in **early spring** for the widest selection of rooms and the best
-    foraging. By mid-October, the premium drilled log rooms tend to be claimed.
+    Arrive in **early spring** for the widest choice of rooms and the best
+    foraging. By mid-October, the premium drilled log rooms tend to be taken.
 
 ---
 
@@ -57,27 +57,27 @@ room becomes available to the next guest. No hard feelings.
 ## Frequently Asked Questions
 
 **Q: Do I need to register?**
-A: No. We don't know your name, and we don't need to. Anonymity is a feature,
-not a bug.
+A: No. We don't know your name, and we don't need to. Being unknown is a
+feature, not a bug.
 
 **Q: Can I bring my colony?**
-A: We prefer solitary guests. Small groups are tolerated, but this is not a hive
+A: We prefer solitary guests. Small groups are fine, but this is not a hive
 venue.
 
 **Q: Is there parking?**
 A: There is no parking. You have wings. Use them.
 
 **Q: What if all rooms are full?**
-A: Explore the leaf litter lounge, check back later, or investigate nearby
-wildflower patches while you wait. Turnover is natural.
+A: Try the leaf litter lounge, check back later, or explore nearby wildflower
+patches while you wait. Turnover is natural.
 
 **Q: Do you accept non-flying guests?**
-A: Ground-level accommodation is available for crawling species, but the full
-hotel experience requires flight capability.
+A: Ground-level rooms are available for crawling species, but the full hotel
+experience requires the ability to fly.
 
 **Q: Is it safe?**
 A: Safer than being out in the open. But this is nature. We offer shelter, not
-a security detail.
+a security team.
 
 ---
 
@@ -92,7 +92,7 @@ Among the fynbos, near the mountains, close to the sea
 ---
 
 !!! note "A final word"
-    The best things in life require no reservation. They just require showing up.
+    The best things in life need no booking. They just need you to show up.
     We'll leave the south-facing entrance open, at least.
 
     **See you when you get here.**

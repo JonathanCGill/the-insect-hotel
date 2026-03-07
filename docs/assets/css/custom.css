@@ -301,29 +301,29 @@ body,
 
 /* References / "How do we know?" block */
 .references {
-  font-size: 0.78rem;
-  line-height: 1.55;
+  font-size: 0.65rem;
+  line-height: 1.4;
   color: #5D4037;
   background-color: #F5F0EB;
   border: 1px solid #D7CCC8;
   border-radius: 0.4rem;
-  padding: 1.2rem 1.5rem;
+  padding: 0.8rem 1.2rem;
   margin-top: 2rem;
 }
 
 .references h3 {
-  font-size: 0.88rem;
+  font-size: 0.72rem;
   margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
   color: #3E2723;
 }
 
 .references ol,
 .references ul {
   margin: 0;
-  padding-left: 1.2rem;
+  padding-left: 1rem;
 }
 
 .references li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.15rem;
 }

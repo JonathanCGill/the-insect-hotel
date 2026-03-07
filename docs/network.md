@@ -95,6 +95,16 @@ Click any node to learn more. Hover over an edge to see the distance.
     { id: "lugano", name: "Villa Carona Bee Hotel", loc: "near Lugano, Switzerland", lat: 45.96, lng: 8.94, cat: "art",
       desc: "Home to 10,000\u201330,000 bees in a historic villa setting.",
       url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
+    // South Africa
+    { id: "babylonstoren", name: "Babylonstoren", loc: "Franschhoek, South Africa", lat: -33.83, lng: 19.00, cat: "garden",
+      desc: "Bug hotel in one of the Cape\u2019s most celebrated gardens. Suites of bark, straw and bamboo for carpenter bees, wasps and spiders.",
+      url: "https://babylonstoren.com/blog/post/insect-hotel" },
+    { id: "boschendal", name: "Boschendal", loc: "Franschhoek, South Africa", lat: -33.88, lng: 18.98, cat: "garden",
+      desc: "Insect hotels on a 1,800-hectare wine estate. Part of a regenerative farming programme awarded WWF Biodiversity Champion status.",
+      url: "https://boschendal.com/the-future-of-farming/" },
+    { id: "kznbg", name: "KZN Botanical Garden", loc: "Pietermaritzburg, South Africa", lat: -29.60, lng: 30.35, cat: "garden",
+      desc: "SANBI insect hotel in the succulent garden. Built from waste materials, bamboo and drilled logs for solitary bees and wasps.",
+      url: "https://www.sanbi.org/gardens/kwazulu-natal/information-7/insect-hotel/" },
     // Wildcard
     { id: "suzuka", name: "Buzzin Corner", loc: "Suzuka Circuit, Japan", lat: 34.84, lng: 136.54, cat: "wildcard",
       desc: "11 insect hotels at Turn 2, built by Sebastian Vettel. Kerbs painted black & yellow. Each F1 team customised their own.",
@@ -123,6 +133,11 @@ Click any node to learn more. Hover over an edge to see the distance.
     // US west coast
     { from: "sonoma", to: "phoenix", label: "US West" },
     { from: "denver", to: "phoenix", label: "US Mountain" },
+    // South Africa
+    { from: "home", to: "babylonstoren", label: "Winelands" },
+    { from: "home", to: "boschendal", label: "Winelands" },
+    { from: "babylonstoren", to: "boschendal", label: "Franschhoek" },
+    { from: "home", to: "kznbg", label: "South Africa" },
     // Home connections
     { from: "home", to: "sydney", label: "Southern hemisphere" },
     { from: "home", to: "kew", label: "Commonwealth" },

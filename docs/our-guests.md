@@ -25,8 +25,6 @@ finds a good cavity, and stocks it with pollen and nectar for her young. Then
 she seals the entrance and moves on. No colony. No caste system. Just quiet,
 solitary work.
 
-### Why they need the hotel
-
 Here's the problem: good nesting holes are hard to find. In the wild, solitary
 bees nest in hollow plant stems, beetle holes in dead wood, gaps in old walls,
 and crumbling earth banks. Modern gardens, with their tidy fences, treated
@@ -61,8 +59,6 @@ the potter wasps (*Delta*) and various solitary hunting wasps are calm, gentle,
 and very useful. They rarely sting. Even if they did, their venom is mild
 compared to social wasps.
 
-### Why they need the hotel
-
 Solitary wasps are specialist hunters. Depending on the species, a single female
 may fill her nest with caterpillars, aphids, beetle larvae, or spiders. She
 stuns each one with precision and stores them alive as fresh food for her young.
@@ -92,8 +88,6 @@ spread across the garden, steadily clearing plants of pests. But when autumn
 arrives and the Western Cape's wet winter begins, ladybirds need a sheltered,
 dry place to go dormant and wait out the rains until spring.
 
-### Why they need the hotel
-
 In the wild, ladybirds shelter in leaf litter, under bark, and in rock cracks.
 They often group together, sometimes dozens at a time, to keep moisture levels
 right and avoid waterlogged spots. An insect hotel's pine cones, bark layers,
@@ -117,8 +111,6 @@ pest controllers on the planet. Their larvae, sometimes called "aphid lions,"
 are fierce hunters. They eat up to **200 aphids per week**, along with mites,
 thrips, whitefly eggs, and small caterpillars. The adults are delicate, pale
 green insects with large, see-through wings and golden eyes.
-
-### Why they need the hotel
 
 Lacewings are mostly active at night and at dawn and dusk. Their superposition
 eyes, those golden, shimmering half-spheres, are built for gathering light in
@@ -148,8 +140,6 @@ Hoverflies (Syrphidae) are the mimics of the insect world. Many species wear
 wasp-like stripes despite being completely harmless. They're superb pollinators,
 second only to bees in many ecosystems. Their larvae are powerful aphid hunters.
 
-### Why they need the hotel
-
 Adult hoverflies need sheltered resting spots close to food sources. Some
 species go dormant during the wet winter months and need the same kind of
 sheltered nook as lacewings. Others spend winter as pupae in soil or leaf
@@ -176,8 +166,6 @@ look threatening, and the old myth about crawling into ears won't go away. In
 truth, earwigs are **scavengers and hunters that eat everything**. They eat
 aphids, mites, insect eggs, and rotting plant matter. On balance, they're good
 for gardens.
-
-### Why they need the hotel
 
 Earwigs are active at night and need dark, tight-fitting hiding spots during the
 day. In nature, they shelter under bark, in flower heads, and in soil cracks.
@@ -206,8 +194,6 @@ and soil-dwelling larvae at night. **Rove beetles** (Staphylinidae) hunt aphids
 and small invertebrates. Even **bark beetles** and **wood-boring beetles** play
 a role in breaking down dead plant material and recycling nutrients.
 
-### Why they need the hotel
-
 Many beetles need undisturbed ground-level habitat: leaf litter, loose bark, and
 rotting wood. Modern gardens often strip all of this away in the name of
 tidiness. An insect hotel with a generous leaf litter base and stacked bark
@@ -233,8 +219,6 @@ during the cooler, wetter months and need sheltered resting places. Pansies
 (*Junonia*), the African Monarch (*Danaus chrysippus*), and other local species
 seek out dry gaps in autumn. They enter a quiet period until the warmer weather
 returns.
-
-### Why they need the hotel
 
 Dormant butterflies are very vulnerable. A flooded shelter, a long damp spell,
 or a curious predator can be fatal. They need stable, dry, undisturbed spaces
@@ -264,8 +248,6 @@ Woodlice are crustaceans. They're more closely related to crabs and lobsters
 than to any insect in the hotel. But they play a key role as **decomposers**,
 breaking down dead plant material and returning nutrients to the soil. A garden
 without woodlice is a garden with poor soil health.
-
-### Why they need the hotel
 
 Woodlice breathe through modified gills and **need moisture** to survive. They
 seek out damp, dark, sheltered spaces: under logs, stones, and in soil cracks.

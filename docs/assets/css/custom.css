@@ -298,3 +298,32 @@ body,
   color: #fff;
   transform: translateY(-2px);
 }
+
+/* References / "How do we know?" block */
+.references {
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: #5D4037;
+  background-color: #F5F0EB;
+  border: 1px solid #D7CCC8;
+  border-radius: 0.4rem;
+  padding: 1.2rem 1.5rem;
+  margin-top: 2rem;
+}
+
+.references h3 {
+  font-size: 0.88rem;
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  color: #3E2723;
+}
+
+.references ol,
+.references ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.references li {
+  margin-bottom: 0.3rem;
+}

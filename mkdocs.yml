@@ -28,14 +28,14 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Our Guests: our-guests.md
+  - Guests: our-guests.md
   - Accommodation: accommodation.md
   - Local Area: local-area.md
-  - House Rules: house-rules.md
+  - Rules: house-rules.md
   - The Story: background.md
-  - Guest Reviews: reviews.md
-  - The Network: network.md
-  - Book Your Stay: book-your-stay.md
+  - Reviews: reviews.md
+  - Network: network.md
+  - Book Now: book-your-stay.md
 
 markdown_extensions:
   - admonition

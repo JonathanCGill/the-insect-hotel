@@ -33,7 +33,7 @@ Click any node to learn more. Hover over an edge to see the distance.
   var hotels = [
     // Home
     { id: "home", name: "The Insect Hotel", loc: "Western Cape, South Africa", lat: -34.05, lng: 18.55, cat: "home",
-      desc: "Our boutique retreat in the fynbos. The one that started it all, for us at least.", url: "index.html" },
+      desc: "Our boutique retreat in the garden. The one that started it all, for us at least.", url: "index.html" },
     // Record holders
     { id: "duror", name: "Highland Titles Bug Hotel", loc: "Duror, Scotland", lat: 56.66, lng: -5.37, cat: "record",
       desc: "Guinness World Record holder: 199.9 m\u00b3. Built from felled sitka spruce, bamboo, clay pipes and bark. Completed March 2022.",

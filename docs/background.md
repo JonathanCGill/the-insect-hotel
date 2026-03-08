@@ -43,142 +43,39 @@ hotel has become a global movement.
 
 ---
 
-## Notable Insect Hotels Around the World
+## How Far the Idea Has Spread
 
-Not all insect hotels are small garden projects. Some have become landmarks.
-
-### :material-trophy: The World Record Holder, Highland Titles, Scotland
-
-In March 2022, conservation company **Highland Titles** set a **Guinness World
-Record** for the largest insect hotel ever built. It's a massive **199.9 cubic
-metre** structure on their nature reserve at Duror in the Scottish Highlands.
-Built from felled Sitka spruce, bamboo, bark, and whatever else they could
-find on a nature reserve, it took six months and seven staff to finish. It
-more than doubled the previous record of 89.37 m³, held by a group in Warsaw.
-
-The structure is expected to eventually house millions of insects (ants,
-ladybirds, beetles, bees, and butterflies) all in the shadow of the Scottish
-mountains.
-
-### :material-flower: Boschendal Wine Estate, Franschhoek, South Africa
+Not all insect hotels are small garden projects. In March 2022, a conservation
+company in the Scottish Highlands built a **199.9 cubic metre** structure from
+felled Sitka spruce and bamboo, setting a **Guinness World Record**. In Helsinki,
+architecture students built a pavilion you can sit inside that doubles as a
+giant insect habitat. At the **Suzuka Formula 1 Circuit** in Japan, Sebastian
+Vettel installed eleven insect hotels at Turn 2 and had each team customise
+their own. The idea goes wherever people take it.
 
 ![The insect hotel at Boschendal Wine Estate: logs, bamboo, bark, and pine cones packed into a sprawling structure](images/Boschendal_Insect_Hotel.jpg){ width="100%" }
 
-**Boschendal** is one of the oldest wine estates in South Africa, set in the
-mountains between Franschhoek and Stellenbosch.
+Closer to home, **Boschendal** wine estate in Franschhoek runs an insect hotel
+as part of its regenerative farming programme. It's a **WWF Conservation
+Champion**, and the hotel sits in a landscape where fynbos, orchards, and
+mountain slopes meet.
 
-The estate's insect hotel is part of **The Tree House**, a children's area
-under the plane trees where seed-growing, nature walks, and biodiversity
-activities run alongside the hotel itself.
+The full map, from Kew Gardens to Johannesburg, is on our
+[Network](network.md) page.
 
-But it's more than a children's attraction. Boschendal is a **WWF Conservation
-Champion** with a serious commitment to regenerative farming. In a landscape
-where fynbos, fruit orchards, and mountain slopes meet, the insect hotel is a
-small but deliberate piece of a bigger ecological puzzle.
+### The corridor idea
 
-### :material-home-city: Alusta Pavilion, Helsinki, Finland
+Individual hotels help, but connected habitats transform. Across Europe and
+beyond, people are linking gardens, parks, and rooftop plantings into
+continuous pollinator corridors. **Buglife** in the UK is mapping
+three-kilometre-wide insect pathways through every county. Oslo has a
+citizen-driven **bee highway**. Seattle has a mile-long pollinator corridor
+connecting a university campus to a pocket park, and the idea has since spread
+to over 300 towns across 24 US states.
 
-In 2022, architects **Maiju Suomi** and **Elina Koivisto** from **Aalto
-University** created **Alusta**, a giant, human-friendly insect hotel in the
-courtyard between Helsinki's Museum of Finnish Architecture and the Design
-Museum. Built with the help of 50 architecture students, the pavilion has clay walls you can sit on, grow bags thick with plants, and
-structures shaped to shelter and feed urban pollinators.
-
-*"Many visitors have exclaimed that this is like a giant insect hotel,"* said
-Suomi. That was the whole point. Alusta is both a gathering place for humans and
-a habitat for insects, a deliberate blending of architecture and ecology.
-
-### :material-hexagon-multiple: The Arup Insect Hotel, City of London
-
-In 2010, the International Year of Biodiversity, engineering firm **Arup
-Associates** won the **"Beyond the Hive"** competition. They designed an insect
-habitat for **St Dunstan in the East**, a ruined church garden in the City of
-London. Their creation sits in a ruined church garden: birch plywood layers
-CNC-cut into a **Voronoi pattern**, the organic, irregular shapes you find in
-dragonfly wings and soap bubbles. Rotting logs for stag beetles, vertical
-slots for butterflies, hollow tubes for solitary bees. Engineering and ecology
-speaking the same language.
-
-### :material-flower-tulip: The Royal Botanic Gardens, Kew, London
-
-**Kew Gardens** keeps bug hotels across its grounds, including a purpose-built
-**Insect and Bee Tower** in the Natural Area. Kew also teamed up with
-**Taylors of Harrogate** to create what they called *"the most amazing luxury
-bee hotel ever"*, a project aimed at promoting pollinator conservation and
-raising awareness among the garden's millions of yearly visitors.
-
-### :material-palette: Vallmora Park, Barcelona, Spain
-
-Architecture firm **Batlleiroig** designed a permanent insect hotel as part of
-the **Vallmora Park** project in El Masnou, near Barcelona. Nominated for the
-**Landezine International Landscape Award**, it works as both ecological
-infrastructure and a teaching tool, a structure where children and adults can
-watch insect life cycles in a designed landscape.
-
-### :material-book-open-variant: And Countless Others
-
-Insect hotels have appeared at the **Krakow Zoo** in Poland, in the gardens of
-**Sonoma State University** in California, in community gardens across France
-(where over 900 towns are now pesticide-free), and in thousands of private
-gardens, school grounds, and nature reserves worldwide. A youth club in Germany
-once combined **40 individual insect hotels** into a single striking high-rise.
-The format is endlessly flexible, and that's part of its power.
-
----
-
-## The Network: Pollinator Pathways and Bee Highways
-
-Insects don't read maps. But they do follow corridors of habitat. Across Europe
-and beyond, people are building them.
-
-### :material-bee: B-Lines, United Kingdom
-
-**Buglife**, the UK invertebrate conservation charity, launched the
-**B-Lines** project, a mapped network of **3-kilometre-wide insect pathways**
-running through every county in the UK. These connect existing wildlife areas
-together. The background is stark: **over 97% of England's flower-rich
-grasslands have been lost since the 1930s**, an area the size of Wales. B-Lines
-aims to restore at least **150,000 hectares** of flower-rich habitat, with
-insect hotels serving as stepping stones along the routes.
-
-### :material-highway: The Pollinator Passage, Oslo, Norway
-
-In 2015, **ByBi** ("CityBee"), an urban beekeeping group in Oslo, launched the
-**Pollinator Passage**, a citizen-driven project to create feeding stations,
-gardens, and shelters across the city, linked to form a **bee highway**. Their
-website hosts a map where residents can register their own sites, spot gaps in
-the network, and see where more habitat is needed. It's grassroots ecology at
-its best: everyone does something small, and the network grows.
-
-### :material-leaf: Dublin's Lifeline, Ireland
-
-**Bi Urban**, a social enterprise in Dublin's Stoneybatter area, is working to
-create a **"Lifeline"**, a wildlife corridor connecting the Royal Canal to the
-River Liffey. It provides habitat for both residents and local wildlife along
-the route.
-
-### :material-road-variant: The Pollinator Pathway, Seattle, USA
-
-In 2007, artist and designer **Sarah Bergmann** created the **Pollinator
-Pathway**, a **mile-long, twelve-foot-wide corridor** of pollinator-friendly
-gardens along Seattle's Columbia Street. It connects Seattle University's campus
-to Nora's Woods pocket park. What began as a single urban art-and-ecology
-project has since spread to over **300 towns across 24 US states** and parts of
-Canada. Bergmann describes it as *"a participatory art, design and ecology
-social sculpture initiative"*, proof that a good idea, planted in the right
-soil, can grow far beyond its origins.
-
-### :material-connection: The Bigger Picture
-
-These projects all point to the same truth: **a single insect hotel helps, but a
-connected network of habitats transforms**. Pollinator pathways link gardens,
-parks, road edges, window boxes, and rooftop plantings into continuous corridors.
-These allow bees, butterflies, and hoverflies to move safely through landscapes
-that would otherwise be hostile.
-
-Even the smallest action (a flowering window box, a patch of unmowed lawn, a
-bamboo-tube bee house on a balcony railing) becomes part of something larger
-when it connects to its neighbours.
+The point is always the same: **a single insect hotel helps, but a connected
+network of habitats transforms**. Even a flowering window box becomes part of
+something larger when it connects to its neighbours.
 
 ---
 

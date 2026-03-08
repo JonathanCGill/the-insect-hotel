@@ -59,8 +59,8 @@ completely different range of light.
 
 ## Solitary Bees: The Hotel's Core Guests
 
-The Insect Hotel is built for solitary bees — leafcutter bees, carpenter bees,
-and other cavity-nesters — not honeybees. So what do *they* see?
+The Insect Hotel is built for solitary bees (leafcutter bees, carpenter bees,
+and other cavity-nesters), not honeybees. So what do *they* see?
 
 Like honeybees, solitary bees see in three colours: UV, blue, and green. But
 their green sensor is shifted slightly toward longer wavelengths, making them
@@ -73,7 +73,7 @@ and landmarks around their nest entrance and can find their chosen chamber with
 remarkable precision, even in a wall of identical-looking tubes.
 
 **What this means for The Insect Hotel:** When a solitary bee approaches the
-hotel, it sees the flowers around it in UV, blue, and green — a completely
+hotel, it sees the flowers around it in UV, blue, and green: a completely
 different palette from yours. The bamboo tubes and drilled wood, which look
 plain brown to you, likely show a more complex pattern of UV-reflecting and
 UV-absorbing surfaces. The bee sees the layout in a way you never will, and
@@ -145,13 +145,13 @@ creates a different visual reading of the same bamboo and bark.
 
 Green lacewings are mostly **active at night**, and their eyes reflect this.
 Unlike the standard compound eyes of bees, lacewings have **superposition
-eyes** — large, golden-shimmering half-spheres that gather far more light per
+eyes**: large, golden-shimmering half-spheres that gather far more light per
 sensor. This lets them see in near-darkness.
 
 Their eye sensitivity changes hugely through the day: **highest at midnight,
 lowest at noon**. The eye does this by physically adjusting its opening,
 widening at night to let in more light. They're most sensitive in the green
-and UV ranges — tuned to the wavelengths that matter most in a moonlit garden.
+and UV ranges, tuned to the wavelengths that matter most in a moonlit garden.
 
 **What this means for The Insect Hotel:** A lacewing arriving at dusk sees the
 hotel in a way no daytime visitor does. Its superposition eyes pull in the
@@ -169,7 +169,7 @@ garden. Their eyes are in a class of their own.
 
 Each dragonfly compound eye holds up to **30,000 individual lenses** (compared
 to roughly 5,000 in a honeybee), and they carry more light-sensing genes than
-any other insect group — rivalling the mantis shrimp.
+any other insect group, rivalling the mantis shrimp.
 
 Over **80% of a dragonfly's brain** is devoted to processing what it sees.
 Their compound eyes are split into zones: the upper half holds UV and blue

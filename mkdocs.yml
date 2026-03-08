@@ -1,5 +1,5 @@
 site_name: The Insect Hotel
-site_description: A boutique retreat for the discerning six-legged traveller. Solitude, nature, and endless foraging — all under one roof.
+site_description: A boutique retreat for the discerning six-legged traveller. Solitude, nature, and endless foraging, all under one roof.
 site_url: https://jonathancgill.github.io/the-insect-hotel/
 
 theme:
@@ -55,4 +55,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/JonathanCGill/the-insect-hotel
 
-copyright: "&copy; 2026 The Insect Hotel &mdash; Where every bug is a welcome guest."
+copyright: "&copy; 2026 The Insect Hotel. Where every bug is a welcome guest."

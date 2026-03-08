@@ -105,10 +105,11 @@ the garden's pest control for the season ahead.
 
 **The night shift.**
 
-Green lacewings are among the most effective pest controllers on the planet.
-Their larvae, sometimes called "aphid lions," eat up to **200 aphids per
-week**, along with mites, thrips, whitefly eggs, and small caterpillars. The
-adults are delicate, pale green, with large see-through wings and golden eyes.
+If the hotel had a pest control department, green lacewings would run it.
+Their larvae, known as "aphid lions," can clear **200 aphids a week** and
+aren't fussy about what else they catch: mites, thrips, whitefly eggs, small
+caterpillars. The adults are delicate, pale green, with large see-through
+wings and golden eyes.
 
 They work the night shift and the dawn-and-dusk shifts. Those golden,
 shimmering eyes are built for gathering light in near-darkness. During the
@@ -134,8 +135,8 @@ cycle of pest control begins again.
 **Pollinators in disguise.**
 
 Hoverflies are the mimics of the insect world. Many species wear wasp-like
-stripes despite being completely harmless. They're superb pollinators, second
-only to bees in many ecosystems. Their larvae are powerful aphid hunters.
+stripes despite being completely harmless. As pollinators, only bees outwork
+them. As pest control, their larvae give lacewings a run for their money.
 
 Adult hoverflies need sheltered resting spots close to food sources. Some go
 dormant during the wet winter months and need the same kind of sheltered nook
@@ -183,8 +184,8 @@ world full of predators.
 
 **The quiet majority.**
 
-Beetles are the most species-rich group of insects on Earth. Several types are
-valuable garden residents. **Ground beetles** hunt slugs, snails, and
+There are more species of beetle than any other kind of insect. A fair number
+of them live here. **Ground beetles** hunt slugs, snails, and
 soil-dwelling larvae at night. **Rove beetles** hunt aphids and small
 invertebrates. Even **bark beetles** and **wood-boring beetles** play a role
 in breaking down dead plant material and recycling nutrients.
@@ -238,13 +239,14 @@ appreciates the habitat.
 
 **Not insects, but welcome.**
 
-Woodlice are crustaceans. They're more closely related to crabs and lobsters
-than to any insect in the hotel. But they play a key role as **decomposers**,
-breaking down dead plant material and returning nutrients to the soil. A garden
-without woodlice is a garden with poor soil health.
+Woodlice are crustaceans, more closely related to crabs and lobsters than to
+any insect in the hotel. But they earn their place as **decomposers**, breaking
+down dead plant material and returning nutrients to the soil. A garden without
+woodlice is a garden with poor soil health.
 
-Woodlice breathe through modified gills and **need moisture** to survive. They
-seek out damp, dark, sheltered spaces: under logs, stones, and in soil cracks.
+They breathe through modified gills, which means they **need moisture** the
+way you need air. Damp, dark, sheltered spaces are not a preference but a
+requirement: under logs, stones, in soil cracks.
 The Bark Hideaway's moisture-retaining layers and the Leaf Litter Lounge's
 rotting plant material provide ideal conditions.
 

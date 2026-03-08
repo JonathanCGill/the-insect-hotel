@@ -14,7 +14,7 @@ airy bundle of hollow stems, we have something for you.
 
 **Best for:** Solitary bees, small wasps
 
-Bundles of hollow bamboo canes in a range of widths (2mm–10mm). North-facing for
+Bundles of hollow bamboo canes, from pin-thin to pencil-width. North-facing for
 morning warmth. Each tube is a private, single-occupancy chamber, perfect for
 nesting or simply resting between flights.
 

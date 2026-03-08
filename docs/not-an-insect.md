@@ -52,8 +52,8 @@ But a white clover flower, plain to us, blazes with UV patterns that guide the
 bee straight to the nectar.
 
 Later research by **Randolf Menzel** confirmed that bee colour vision works on
-the same principles as ours (colour constancy, colour opponency) but in a
-completely different range of light.
+the same principles as ours, but shifted into a completely different range of
+light.
 
 ---
 
@@ -90,8 +90,8 @@ If bees see three colours, butterflies are something else entirely.
 In 2016, **Kentaro Arikawa** and colleagues at Sokendai (the Graduate University
 for Advanced Studies, Japan) published a landmark finding: the Common Bluebottle
 butterfly (*Graphium sarpedon*) has **15 distinct classes of light sensor**, the
-most ever found in any insect. The classes span from ultraviolet through violet,
-blue, blue-green, green, orange, to multiple shades of red.
+most ever found in any insect. They cover everything from ultraviolet to multiple shades of red, with
+stops at violet, blue, green, and orange along the way.
 
 Before this, no insect was known to have more than nine.
 
@@ -105,9 +105,9 @@ colour and uses the other eleven for special tasks: spotting fast-moving objects
 against the sky, finding colourful objects hidden in foliage, or recognising
 mates.
 
-Earlier work on the Asian Swallowtail showed that its six light sensors support
-**four-colour vision** (UV, blue, green, red), allowing it to distinguish
-colours as finely as humans can in certain ranges.
+Earlier work on the Asian Swallowtail showed that its six light sensors give
+it **four-colour vision** (UV, blue, green, red), matching human colour
+discrimination in certain ranges and beating it in others.
 
 **What this means for The Insect Hotel:** A butterfly passing through the garden
 sees the hibiscus and Brunfelsia flowers in a richer palette than you can
@@ -120,9 +120,9 @@ vivid, high-contrast target.
 
 ## Hoverflies: Yellow Means Food
 
-Hoverflies are another common hotel visitor, and their visual system differs
-again. Flies have **four types of light sensor**, arranged in a very different
-layout from bees, covering UV, blue, green, and a theoretical purple zone.
+Hoverflies are another common hotel visitor, and their eyes work differently
+again. Flies have **four types of light sensor**, laid out nothing like a bee's:
+UV, blue, green, and a theoretical purple zone.
 
 But hoverflies have a striking quirk: they are **born with an unshakeable love
 of yellow**. A hoverfly that has never seen a flower will reach out its tongue

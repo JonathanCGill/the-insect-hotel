@@ -52,9 +52,9 @@ Not all insect hotels are small garden projects. Some have become landmarks.
 In March 2022, conservation company **Highland Titles** set a **Guinness World
 Record** for the largest insect hotel ever built. It's a massive **199.9 cubic
 metre** structure on their nature reserve at Duror in the Scottish Highlands.
-Built from felled Sitka spruce, bamboo canes, bricks, forest bark, and wood
-chippings, it took six months and seven staff to complete. It smashed the
-previous record of 89.37 m³, held by a group in Warsaw, Poland.
+Built from felled Sitka spruce, bamboo, bark, and whatever else they could
+find on a nature reserve, it took six months and seven staff to finish. It
+more than doubled the previous record of 89.37 m³, held by a group in Warsaw.
 
 The structure is expected to eventually house millions of insects (ants,
 ladybirds, beetles, bees, and butterflies) all in the shadow of the Scottish
@@ -64,14 +64,12 @@ mountains.
 
 ![The insect hotel at Boschendal Wine Estate: logs, bamboo, bark, and pine cones packed into a sprawling structure](images/Boschendal_Insect_Hotel.jpg){ width="100%" }
 
-**Boschendal** is one of the oldest wine estates in South Africa, dating to
-**1685**, set between Franschhoek and Stellenbosch in the heart of the Cape
-Floral Kingdom.
+**Boschendal** is one of the oldest wine estates in South Africa, set in the
+mountains between Franschhoek and Stellenbosch.
 
-The estate's insect hotel sits within **The Tree House**, a children's activity
-area tucked under plane trees near the main parking area. It combines the
-insect hotel with seed-growing stations, nature walks, and activities that
-teach children about biodiversity.
+The estate's insect hotel is part of **The Tree House**, a children's area
+under the plane trees where seed-growing, nature walks, and biodiversity
+activities run alongside the hotel itself.
 
 But it's more than a children's attraction. Boschendal is a **WWF Conservation
 Champion** with a serious commitment to regenerative farming. In a landscape
@@ -83,9 +81,8 @@ small but deliberate piece of a bigger ecological puzzle.
 In 2022, architects **Maiju Suomi** and **Elina Koivisto** from **Aalto
 University** created **Alusta**, a giant, human-friendly insect hotel in the
 courtyard between Helsinki's Museum of Finnish Architecture and the Design
-Museum. Built with the help of 50 architecture students, the pavilion has clay
-walls that double as seating, grow bags holding over a thousand plants, and
-structures designed to shelter and feed urban pollinators.
+Museum. Built with the help of 50 architecture students, the pavilion has clay walls you can sit on, grow bags thick with plants, and
+structures shaped to shelter and feed urban pollinators.
 
 *"Many visitors have exclaimed that this is like a giant insect hotel,"* said
 Suomi. That was the whole point. Alusta is both a gathering place for humans and
@@ -96,11 +93,11 @@ a habitat for insects, a deliberate blending of architecture and ecology.
 In 2010, the International Year of Biodiversity, engineering firm **Arup
 Associates** won the **"Beyond the Hive"** competition. They designed an insect
 habitat for **St Dunstan in the East**, a ruined church garden in the City of
-London. Their creation is a nature-inspired sculpture made from **25 layers of
-birch plywood**, CNC-cut into a **Voronoi pattern**, the organic, irregular
-shapes found in dragonfly wings and soap bubbles. Different sections house
-rotting logs for stag beetles, vertical slots for butterflies, and hollow tubes
-for solitary bees. It's engineering and ecology speaking the same language.
+London. Their creation sits in a ruined church garden: birch plywood layers
+CNC-cut into a **Voronoi pattern**, the organic, irregular shapes you find in
+dragonfly wings and soap bubbles. Rotting logs for stag beetles, vertical
+slots for butterflies, hollow tubes for solitary bees. Engineering and ecology
+speaking the same language.
 
 ### :material-flower-tulip: The Royal Botanic Gardens, Kew, London
 
@@ -192,7 +189,7 @@ you should.
 
 ### :material-sprout: Because the habitat is vanishing
 
-Globally, insect numbers are falling by an estimated **1 to 2.5 percent per
+Insect numbers are falling everywhere, by an estimated **1 to 2.5 percent per
 year**. Habitat loss, pesticide use, light pollution, and climate change are all
 to blame. The tidy gardens, paved driveways, and neat lawns that humans prefer
 are ecological deserts for insects. The fallen leaves, dead wood, and hollow
@@ -202,10 +199,10 @@ existed before.
 
 ### :material-food-apple: Because your food depends on it
 
-Pollinators, including solitary bees, hoverflies, and butterflies, are behind
-roughly **75% of the world's food crops**. In Europe alone, pollination services
-are worth at least **$25 billion** a year. Every solitary bee that nests in your
-insect hotel helps with this essential work. A single red mason bee can pollinate
+Solitary bees, hoverflies, and butterflies are behind roughly **75% of the
+world's food crops**. Every solitary bee that nests in your insect hotel helps
+with this work, and it's worth more than you'd think: in Europe alone,
+pollination runs to at least **$25 billion** a year. A single red mason bee can pollinate
 as much apple blossom as **120 honeybees**.
 
 ### :material-shield-bug: Because they're your garden's pest control

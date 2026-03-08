@@ -33,88 +33,51 @@ UV nectar guides painted across flowers like runway markings. The world they
 live in is richer, stranger, and more colourful than anything a human eye can
 pick up.
 
-Here's what the science tells us.
+Still here? Good. Here's what they actually see.
 
 ---
 
 ## The Honeybee: Where It All Started
 
-In 1914, a young Austrian researcher named **Karl von Frisch** trained honeybees
-to collect sugar water from a blue card placed among grey cards of different
-brightness. If bees were colour-blind, as a well-known scientist named Carl von
-Hess had claimed in 1912, they would mix up the blue card with a grey card of
-similar brightness. They didn't. They chose blue every time.
+In 1914, **Karl von Frisch** proved that honeybees can see colour. He trained
+them to collect sugar water from a blue card placed among grey cards of
+different brightness. The bees chose blue every time. He went on to win a
+**Nobel Prize** for his life's work on how bees sense and communicate.
 
-Von Frisch had proved true colour vision in a non-human animal (only the second
-scientist to do so, after Charles Henry Turner). He went on to win the **Nobel
-Prize in Physiology or Medicine in 1973**, shared with Konrad Lorenz and
-Nikolaas Tinbergen, for his life's work on how bees sense and communicate,
-including his discovery of the waggle dance.
+But bee colour vision is not like ours. Humans have three colour sensors (red,
+green, blue). Honeybees also have three, but shifted toward shorter
+wavelengths: ultraviolet, blue, and green. This means bees can see ultraviolet
+light but **cannot see red**. A red poppy looks dark and colourless to a bee.
+But a white clover flower, plain to us, blazes with UV patterns that guide the
+bee straight to the nectar.
 
-But bee colour vision is not like ours. Humans have three types of colour sensor
-(red, green, blue, peaking at roughly 560, 530, and 420 nm). Honeybees also
-have three, but shifted toward shorter wavelengths:
-
-| Sensor | Peak sensitivity | Colour |
-|--------|-----------------|--------|
-| S (short) | 344 nm | Ultraviolet |
-| M (medium) | 436 nm | Blue |
-| L (long) | 544 nm | Green |
-
-This means bees can see ultraviolet light but **cannot see red**. A red poppy
-looks dark and colourless to a bee. But a white clover flower, plain to us,
-blazes with UV patterns that guide the bee straight to the nectar.
-
-**Randolf Menzel** at Freie Universität Berlin spent decades building on von
-Frisch's work. He confirmed three-colour vision through electrical measurements
-of bee eyes and mapped how the bee brain processes colour. His lab showed that
-bee colour vision shares basic features with human colour vision (colour
-constancy, colour opponency, and separate handling of colour and brightness) but
-works in a completely different range of light.
+Later research by **Randolf Menzel** confirmed that bee colour vision works on
+the same principles as ours (colour constancy, colour opponency) but in a
+completely different range of light.
 
 ---
 
 ## Solitary Bees: The Hotel's Core Guests
 
-The Insect Hotel is built for solitary bees: leafcutter bees (*Megachile*),
-carpenter bees (*Xylocopa*), and other cavity-nesters, not honeybees. So what
-do *they* see?
+The Insect Hotel is built for solitary bees — leafcutter bees, carpenter bees,
+and other cavity-nesters — not honeybees. So what do *they* see?
 
-The most detailed study of solitary bee vision measured the light sensors of the
-European *Osmia rufa* (now *Osmia bicornis*) using a precise electrical
-technique. While *Osmia* doesn't live in southern Africa, the findings apply
-broadly across solitary bees. They found three sensor types:
+Like honeybees, solitary bees see in three colours: UV, blue, and green. But
+their green sensor is shifted slightly toward longer wavelengths, making them
+more sensitive to the yellow-orange end of the spectrum. This may be an
+adaptation to the specific flowers they visit. Studies show they tell colours
+apart at least as well as honeybees, and possibly better.
 
-| Sensor | Peak sensitivity |
-|--------|-----------------|
-| UV | 348 nm |
-| Blue | 436 nm |
-| Green | **572 nm** |
-
-That green sensor matters. At 572 nm, it is shifted **28 nm toward longer
-wavelengths** compared to the honeybee's green sensor (544 nm). This means
-solitary bees are slightly more sensitive toward the yellow-orange end of the
-spectrum. This may be an adaptation to the specific flowers they visit.
-
-Tests showed that *Osmia rufa* tells colours apart **at least as well as the
-honeybee**, and possibly better. In colour-choice tests, solitary bees matched
-honeybee results precisely, while stingless bees (*Melipona quadrifasciata*, a
-South American species) did worse in the violet-blue range.
-
-Research on leafcutter bees (*Megachile rotundata*, a Eurasian species studied
-for its navigation skills) has focused more on visual navigation. They learn the
-positions of edges and landmarks around their nest entrance. But their eye
-design is believed to follow the same three-colour (UV, blue, green) plan shared
-across bees and wasps. The Western Cape's native *Megachile* species almost
-certainly share this visual system.
+Leafcutter bees are also sharp navigators. They learn the positions of edges
+and landmarks around their nest entrance and can find their chosen chamber with
+remarkable precision, even in a wall of identical-looking tubes.
 
 **What this means for The Insect Hotel:** When a solitary bee approaches the
-hotel, it sees the flowers around it in UV, blue, and green, a completely
+hotel, it sees the flowers around it in UV, blue, and green — a completely
 different palette from yours. The bamboo tubes and drilled wood, which look
 plain brown to you, likely show a more complex pattern of UV-reflecting and
-UV-absorbing surfaces. The bee navigates by learning the visual landmarks around
-its chosen chamber (the edges, the contrasts, the layout) and can find its nest
-entrance with remarkable precision.
+UV-absorbing surfaces. The bee sees the layout in a way you never will, and
+navigates it better than you ever could.
 
 ---
 
@@ -137,15 +100,14 @@ the number of photoreceptors varies greatly from species to species. But this
 discovery of 15 classes in one eye was really stunning."* Kentaro Arikawa
 
 But the butterflies don't use all fifteen for everyday colour vision. Arikawa's
-team showed that *Graphium sarpedon* likely uses **four** sensors for general
+team showed that the Bluebottle likely uses **four** sensors for general
 colour and uses the other eleven for special tasks: spotting fast-moving objects
 against the sky, finding colourful objects hidden in foliage, or recognising
 mates.
 
-Earlier work on the Asian Swallowtail (*Papilio xuthus*) showed that its six
-light sensors support **four-colour vision** (UV, blue, green, red). This allows
-it to tell wavelengths apart as finely as **1–2 nanometres** in certain ranges.
-That rivals human ability.
+Earlier work on the Asian Swallowtail showed that its six light sensors support
+**four-colour vision** (UV, blue, green, red), allowing it to distinguish
+colours as finely as humans can in certain ranges.
 
 **What this means for The Insect Hotel:** A butterfly passing through the garden
 sees the hibiscus and Brunfelsia flowers in a richer palette than you can
@@ -158,24 +120,18 @@ vivid, high-contrast target.
 
 ## Hoverflies: Yellow Means Food
 
-Hoverflies (Syrphidae) are another common visitor to insect hotels, and their
-visual system differs again. Flies have **four types of light sensor**, arranged
-in a very different layout from bees.
-
-Electrical studies on *Eristalis tenax* (the dronefly, a common hoverfly) found
-sensors peaking at **330 nm, 340 nm, 460 nm, and 540 nm**. Their colour
-processing divides fly colour space into four zones: UV, Blue, Green, and a
-theoretical Purple.
+Hoverflies are another common hotel visitor, and their visual system differs
+again. Flies have **four types of light sensor**, arranged in a very different
+layout from bees, covering UV, blue, green, and a theoretical purple zone.
 
 But hoverflies have a striking quirk: they are **born with an unshakeable love
-of yellow**. *Eristalis* that have never seen a flower will reach out their
-tongue toward yellow things and land on yellow surfaces. This preference can't
-be overridden by training. Even flies raised on blue-coloured food still prefer
+of yellow**. A hoverfly that has never seen a flower will reach out its tongue
+toward yellow things and land on yellow surfaces. This preference can't be
+overridden by training. Even flies raised on blue-coloured food still prefer
 yellow.
 
-Recent research has shown that despite the zone-based structure of fly colour
-processing, hoverflies actually tell colours apart along a **smooth scale**,
-more like bees than scientists previously thought.
+Recent research has shown that hoverflies actually tell colours apart along a
+**smooth scale**, more like bees than scientists previously thought.
 
 **What this means for The Insect Hotel:** When a hoverfly arrives, it heads
 first for yellow flowers in the garden. The Brunfelsia's purple blooms may be
@@ -189,20 +145,13 @@ creates a different visual reading of the same bamboo and bark.
 
 Green lacewings are mostly **active at night**, and their eyes reflect this.
 Unlike the standard compound eyes of bees, lacewings have **superposition
-eyes**, large, golden-shimmering half-spheres that gather far more light per
-sensor. This lets them see in near-darkness. (The Western Cape species is
-*Chrysoperla zastrowi*, part of the *carnea* species group. The vision research
-below was done on the European *C. carnea*, but the eye design is shared across
-the group.)
+eyes** — large, golden-shimmering half-spheres that gather far more light per
+sensor. This lets them see in near-darkness.
 
-Research has shown that the sensitivity of *Chrysoperla carnea*'s compound eyes
-changes hugely through the day: **highest at midnight, lowest at noon**. The
-biggest shift happens in the blue-green to green range. The eye does this by
-physically adjusting its opening, widening it at night to let in more light.
-
-Studies of related insects (owlflies, *Ascalaphus*) found peak sensitivity in
-the **green** (520 nm) for the large sensor cells and in the **UV** (343 nm) for
-the smaller cells. *Chrysoperla*'s eyes are similarly tuned.
+Their eye sensitivity changes hugely through the day: **highest at midnight,
+lowest at noon**. The eye does this by physically adjusting its opening,
+widening at night to let in more light. They're most sensitive in the green
+and UV ranges — tuned to the wavelengths that matter most in a moonlit garden.
 
 **What this means for The Insect Hotel:** A lacewing arriving at dusk sees the
 hotel in a way no daytime visitor does. Its superposition eyes pull in the
@@ -219,22 +168,14 @@ Dragonflies don't usually check into insect hotels, but they may patrol the
 garden. Their eyes are in a class of their own.
 
 Each dragonfly compound eye holds up to **30,000 individual lenses** (compared
-to roughly 5,000 in a honeybee). Even more remarkably, recent genetic work has
-shown that dragonflies carry between **15 and 33 opsin genes** (the genes for
-light-sensing proteins), far more than any other insect group. This rivals the
-mantis shrimp.
+to roughly 5,000 in a honeybee), and they carry more light-sensing genes than
+any other insect group — rivalling the mantis shrimp.
 
 Over **80% of a dragonfly's brain** is devoted to processing what it sees.
-Their compound eyes are split into zones: the **upper region** holds UV and blue
-sensors, ideal for spotting prey outlined against the sky. The **lower region**
-holds longer-wavelength sensors (green, orange), suited to seeing objects on the
-ground. As dragonfly vision researcher Robert Olberg put it: *"They are
-segregated in the compound eye so that the upwards facing eye has only blue and
-UV receptors, and the downwards facing eye has receptors for longer
-wavelengths."*
-
-They also detect **polarised light** using special sensors at the top rim of
-their eyes. This is vital for finding water surfaces and navigating by skylight.
+Their compound eyes are split into zones: the upper half holds UV and blue
+sensors for spotting prey against the sky. The lower half holds green and
+orange sensors for tracking objects on the ground. They also detect
+**polarised light**, which helps them find water and navigate by skylight.
 
 ---
 
@@ -278,7 +219,7 @@ invisible to the human eye. Polarised light patterns in the sky, created by
 sunlight scattering in the atmosphere, form a compass that works even on cloudy
 days.
 
-**Desert ants** (*Cataglyphis*) are the textbook example. They use polarised
+**Desert ants** are the textbook example. They use polarised
 skylight to navigate vast, featureless desert landscapes. But bees use it too.
 Karl von Frisch himself showed that honeybees orient their waggle dances using
 polarised light patterns.
@@ -296,19 +237,19 @@ bamboo tubes, slatted wood, and drilled holes. Brown and cream. Simple.
 
 An insect sees something else entirely:
 
-**A solitary bee** (*Megachile*) approaching the hotel sees the bamboo tubes as a
+**A solitary bee** approaching the hotel sees the bamboo tubes as a
 mosaic of UV-reflecting and UV-absorbing surfaces. The flowers nearby are not
 just purple and white; they carry bold UV nectar guides and shimmering blue halos
 on their petals. The bee has memorised the exact arrangement of visual edges
 around its chosen chamber and navigates back with pinpoint accuracy.
 
-**A lacewing** (*Chrysoperla*) arriving at dusk sees the hotel's outline picked
+**A lacewing** arriving at dusk sees the hotel's outline picked
 out by superposition optics long after human vision would fail. The green-and-UV
 sensitivity of its sensors picks out the bark textures and straw bundles where it
 will shelter. By midnight, its eyes are at peak sensitivity, and the garden is
 far from dark.
 
-**A hoverfly** (*Eristalis*) scans the garden through four-channel colour
+**A hoverfly** scans the garden through four-channel colour
 vision. It locks onto the yellow it is born to approach, then uses
 motion-sensitive neurons to hover precisely near the flower heads. The insect
 hotel's wooden surfaces register in its fly-specific colour space, a different

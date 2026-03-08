@@ -64,24 +64,19 @@ mountains.
 
 ![The insect hotel at Boschendal Wine Estate: logs, bamboo, bark, and pine cones packed into a sprawling structure](images/Boschendal_Insect_Hotel.jpg){ width="100%" }
 
-**Boschendal** is one of the oldest wine estates in South Africa, with deeds
-dating to **1685**. It sits between Franschhoek and Stellenbosch in the Western
-Cape, deep inside the Cape Floral Kingdom. It is home to over **600 species of
-fynbos** across **1,000 hectares of protected nature reserve**.
+**Boschendal** is one of the oldest wine estates in South Africa, dating to
+**1685**, set between Franschhoek and Stellenbosch in the heart of the Cape
+Floral Kingdom.
 
 The estate's insect hotel sits within **The Tree House**, a children's activity
-area tucked under beautiful plane trees near the main parking area. Shortlisted
-for the **We Are Africa 2019 Design Award**, The Tree House combines the insect
-hotel with seed-growing stations, farm foraging, nature walks, and activities
-that teach children about climate change and biodiversity.
+area tucked under plane trees near the main parking area. It combines the
+insect hotel with seed-growing stations, nature walks, and activities that
+teach children about biodiversity.
 
-But the insect hotel is more than a children's attraction. It's part of
-Boschendal's deep commitment to **regenerative farming**. The estate has planted
-**600,000 new fruit trees** and is one of only **38 WWF Conservation Champions**
-in South Africa. It works with grass-fed cattle, forest-fed pigs, and
-free-range chickens to restore soil health. In a landscape where fynbos, fruit
-orchards, and mountain slopes meet, the insect hotel is a small but deliberate
-piece of a bigger ecological puzzle.
+But it's more than a children's attraction. Boschendal is a **WWF Conservation
+Champion** with a serious commitment to regenerative farming. In a landscape
+where fynbos, fruit orchards, and mountain slopes meet, the insect hotel is a
+small but deliberate piece of a bigger ecological puzzle.
 
 ### :material-home-city: Alusta Pavilion, Helsinki, Finland
 

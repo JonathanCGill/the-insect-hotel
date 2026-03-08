@@ -18,12 +18,11 @@ this place matters to them.
 
 **The hotel's most important guests.**
 
-Leafcutter bees (*Megachile*), carpenter bees (*Xylocopa*), and other
-cavity-nesting solitary bees are not honeybees. They don't live in hives. They
-don't make honey. They don't have a queen. Each female works alone. She mates,
-finds a good cavity, and stocks it with pollen and nectar for her young. Then
-she seals the entrance and moves on. No colony. No caste system. Just quiet,
-solitary work.
+Leafcutter bees, carpenter bees, and other solitary bees are not honeybees.
+They don't live in hives. They don't make honey. They don't have a queen. Each
+female works alone. She mates, finds a good cavity, and stocks it with pollen
+and nectar for her young. Then she seals the entrance and moves on. No colony.
+No caste system. Just quiet, solitary work.
 
 Here's the problem: good nesting holes are hard to find. In the wild, solitary
 bees nest in hollow plant stems, beetle holes in dead wood, gaps in old walls,
@@ -32,16 +31,17 @@ timber, and paved surfaces, offer almost none of this. An insect hotel gives a
 solitary bee exactly what she needs: a dry, sheltered tunnel of the right width,
 facing the morning sun, close to flowers.
 
-**Cavity-nesting solitary bees** prefer smooth-walled tunnels **6–10 mm** wide
-and about **15 cm** deep. They build inner walls from mud or resin, creating a
-chain of sealed cells. Each cell holds a single egg and a pollen loaf. They come
-out in spring as the fynbos and garden flowers bloom. Solitary bees are
-remarkably good pollinators, which makes them priceless gardeners.
+They're particular about their rooms. The tunnel needs to be smooth inside,
+about the width of a pencil, and deep enough to fit a chain of sealed nursery
+cells. Too shallow and she'll look elsewhere. Each cell gets a single egg and a
+pollen loaf, then a wall of mud or resin before the next. They come out in
+spring as the fynbos and garden flowers bloom, and they're remarkably good
+pollinators, which makes them priceless gardeners.
 
-**Leafcutter bees** (*Megachile*) are a bit smaller. They prefer tunnels of
-**5–8 mm**. They cut neat half-circles from rose leaves and soft foliage to line
-their cells. If you've ever seen perfectly round notches in your rose bushes,
-you've had a leafcutter as a neighbour.
+**Leafcutter bees** are a bit smaller and a bit pickier. They cut neat
+half-circles from rose leaves and soft foliage to line their cells. If you've
+ever seen perfectly round notches in your rose bushes, you've had a leafcutter
+as a neighbour.
 
 **Preferred rooms:** [The Bamboo Suite, The Drilled Log Rooms](accommodation.md)
 
@@ -54,24 +54,23 @@ you've had a leafcutter as a neighbour.
 **The misunderstood professionals.**
 
 Forget what you know about wasps from braais and picnics. The solitary wasps
-that use insect hotels are nothing like yellowjackets or hornets. Species like
-the potter wasps (*Delta*) and various solitary hunting wasps are calm, gentle,
-and very useful. They rarely sting. Even if they did, their venom is mild
-compared to social wasps.
+that use insect hotels are nothing like yellowjackets or hornets. Potter wasps,
+mud daubers, and other solitary hunting wasps are calm, gentle, and very useful.
+They rarely sting. Even if they did, their venom is mild compared to social
+wasps.
 
-Solitary wasps are specialist hunters. Depending on the species, a single female
-may fill her nest with caterpillars, aphids, beetle larvae, or spiders. She
-stuns each one with precision and stores them alive as fresh food for her young.
-One wasp can remove hundreds of garden pests in a single season.
+They're specialist hunters. A single female may fill her nest with
+caterpillars, aphids, beetle larvae, or spiders. She stuns each one with
+precision and stores them alive as fresh food for her young. One wasp can
+remove hundreds of garden pests in a single season.
 
-Like solitary bees, they need small cavities for nesting. They are losing
-habitat to the same forces: tidied gardens, sealed walls, removed deadwood. An
-insect hotel with tubes in the **3–8 mm** range gives them exactly what they
-need.
+Like solitary bees, they need small cavities for nesting. They're losing
+habitat to the same forces: tidied gardens, sealed walls, removed deadwood.
+The hotel's narrower tubes suit them perfectly.
 
-You can tell a wasp tube from a bee tube by the cap. Solitary bees usually seal
-with mud or leaf material. Many wasps use a plug of dried mud, sometimes mixed
-with sand grains.
+You can tell a wasp tube from a bee tube by the cap. Bees usually seal with
+mud or leaf material. Wasps use a plug of dried mud, sometimes mixed with sand
+grains.
 
 **Preferred rooms:** [The Bamboo Suite, The Straw Gallery](accommodation.md)
 
@@ -106,22 +105,20 @@ the garden's pest control for the season ahead.
 
 **The night shift.**
 
-Green lacewings (*Chrysoperla zastrowi*) are among the most effective natural
-pest controllers on the planet. Their larvae, sometimes called "aphid lions,"
-are fierce hunters. They eat up to **200 aphids per week**, along with mites,
-thrips, whitefly eggs, and small caterpillars. The adults are delicate, pale
-green insects with large, see-through wings and golden eyes.
+Green lacewings are among the most effective pest controllers on the planet.
+Their larvae, sometimes called "aphid lions," eat up to **200 aphids per
+week**, along with mites, thrips, whitefly eggs, and small caterpillars. The
+adults are delicate, pale green, with large see-through wings and golden eyes.
 
-Lacewings are mostly active at night and at dawn and dusk. Their superposition
-eyes, those golden, shimmering half-spheres, are built for gathering light in
-near-darkness. During the day, they rest. During winter, they need a dry,
-sheltered spot to ride out the wet season.
+They work the night shift and the dawn-and-dusk shifts. Those golden,
+shimmering eyes are built for gathering light in near-darkness. During the
+day, they rest. During winter, they need a dry, sheltered spot to ride out the
+wet season.
 
 This is where many lacewing populations are lost. Cold, waterlogged nights in
-exposed spots can kill dormant adults. An insect hotel provides sheltered
-chambers (pine cones, tightly packed straw, bark gaps) where lacewings can
-sit out the winter rains in relative safety. The layered structure copies the
-bark cracks and dense plants they naturally seek out.
+exposed spots can kill dormant adults. The hotel's pine cones, tightly packed
+straw, and bark gaps give them exactly what they'd otherwise find in bark
+cracks and dense undergrowth: somewhere dry and still.
 
 Come spring, surviving lacewings lay hundreds of eggs on nearby plants, and the
 cycle of pest control begins again.
@@ -136,14 +133,13 @@ cycle of pest control begins again.
 
 **Pollinators in disguise.**
 
-Hoverflies (Syrphidae) are the mimics of the insect world. Many species wear
-wasp-like stripes despite being completely harmless. They're superb pollinators,
-second only to bees in many ecosystems. Their larvae are powerful aphid hunters.
+Hoverflies are the mimics of the insect world. Many species wear wasp-like
+stripes despite being completely harmless. They're superb pollinators, second
+only to bees in many ecosystems. Their larvae are powerful aphid hunters.
 
-Adult hoverflies need sheltered resting spots close to food sources. Some
-species go dormant during the wet winter months and need the same kind of
-sheltered nook as lacewings. Others spend winter as pupae in soil or leaf
-litter.
+Adult hoverflies need sheltered resting spots close to food sources. Some go
+dormant during the wet winter months and need the same kind of sheltered nook
+as lacewings. Others spend winter as pupae in soil or leaf litter.
 
 An insect hotel surrounded by flowering plants is ideal. The adults can forage
 among the fynbos and garden flowers by day. They are drawn to yellow blooms
@@ -161,13 +157,12 @@ tireless pest control.
 
 **Unfairly maligned.**
 
-The common earwig (*Forficula senegalensis*) has an image problem. Those pincers
-look threatening, and the old myth about crawling into ears won't go away. In
-truth, earwigs are **scavengers and hunters that eat everything**. They eat
-aphids, mites, insect eggs, and rotting plant matter. On balance, they're good
-for gardens.
+The common earwig has an image problem. Those pincers look threatening, and the
+old myth about crawling into ears won't go away. In truth, earwigs are
+**scavengers and hunters that eat everything**: aphids, mites, insect eggs, and
+rotting plant matter. On balance, they're good for gardens.
 
-Earwigs are active at night and need dark, tight-fitting hiding spots during the
+They're active at night and need dark, tight-fitting hiding spots during the
 day. In nature, they shelter under bark, in flower heads, and in soil cracks.
 They are also remarkable parents: the female guards her eggs and cares for the
 young after hatching. This is one of the very few examples of mothering in
@@ -189,10 +184,10 @@ world full of predators.
 **The quiet majority.**
 
 Beetles are the most species-rich group of insects on Earth. Several types are
-valuable garden residents. **Ground beetles** (Carabidae) hunt slugs, snails,
-and soil-dwelling larvae at night. **Rove beetles** (Staphylinidae) hunt aphids
-and small invertebrates. Even **bark beetles** and **wood-boring beetles** play
-a role in breaking down dead plant material and recycling nutrients.
+valuable garden residents. **Ground beetles** hunt slugs, snails, and
+soil-dwelling larvae at night. **Rove beetles** hunt aphids and small
+invertebrates. Even **bark beetles** and **wood-boring beetles** play a role
+in breaking down dead plant material and recycling nutrients.
 
 Many beetles need undisturbed ground-level habitat: leaf litter, loose bark, and
 rotting wood. Modern gardens often strip all of this away in the name of
@@ -215,10 +210,9 @@ the dark.
 **Passing through, or sheltering through winter.**
 
 Most butterflies won't nest in an insect hotel, but several species go dormant
-during the cooler, wetter months and need sheltered resting places. Pansies
-(*Junonia*), the African Monarch (*Danaus chrysippus*), and other local species
-seek out dry gaps in autumn. They enter a quiet period until the warmer weather
-returns.
+during the cooler, wetter months and need sheltered resting places. Pansies,
+the African Monarch, and other local species seek out dry gaps in autumn. They
+enter a quiet period until the warmer weather returns.
 
 Dormant butterflies are very vulnerable. A flooded shelter, a long damp spell,
 or a curious predator can be fatal. They need stable, dry, undisturbed spaces
@@ -229,10 +223,10 @@ offer exactly this: narrow vertical gaps and sheltered nooks where a dormant
 butterfly can rest with folded wings, blending in against the wood, undisturbed
 until spring.
 
-The **Table Mountain Beauty** (*Aeropetes tulbaghia*), one of the Western Cape's
-most iconic butterflies and a key pollinator of red fynbos flowers including the
-Red Disa, may visit the garden to feed on nectar-rich blooms. It won't shelter
-in the hotel, but it appreciates the habitat.
+The **Table Mountain Beauty**, one of the Western Cape's most iconic butterflies
+and a key pollinator of red fynbos flowers including the Red Disa, may visit the
+garden to feed on nectar-rich blooms. It won't shelter in the hotel, but it
+appreciates the habitat.
 
 **Preferred rooms:** [The Leaf Litter Lounge, The Bark Hideaway](accommodation.md)
 

@@ -12,8 +12,8 @@ unfolds before you.
 
 The main plant life around the hotel is **fynbos**, a UNESCO-recognised plant
 kingdom found only in the Western Cape. Heathers, proteas, restios, and ericas
-create a year-round patchwork of feeding chances. If you're a pollinator, this
-is paradise.
+create a year-round patchwork of foraging. If you're a pollinator, this is
+paradise.
 
 ![Pincushion proteas and fynbos stretching toward the mountains](images/2024-02-05(2).jpg){ width="100%" }
 

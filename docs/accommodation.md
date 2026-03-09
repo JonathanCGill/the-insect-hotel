@@ -1,3 +1,7 @@
+---
+description: Explore our natural room types — bamboo suites, pine cone lofts, bark hideaways, and more. Every chamber designed for a specific insect guest.
+---
+
 # Accommodation
 
 Every room at The Insect Hotel is made from natural materials and designed with

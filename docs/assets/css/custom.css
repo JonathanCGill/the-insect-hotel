@@ -238,6 +238,12 @@ body,
     padding: 0.25rem 1rem 0;
   }
 
+  /* Smaller H1 on mobile to prevent long words wrapping awkwardly */
+  .md-content h1 {
+    font-size: 1.6rem;
+    word-break: break-word;
+  }
+
   /* Adjust ladybird for narrower space */
   .navbar-ladybird {
     position: static;

@@ -12,6 +12,26 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+
+<!-- SEO Meta Tags -->
+<meta name="author" content="The Insect Hotel">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ page.canonical_url }}">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ config.site_name }}">
+<meta property="og:title" content="{{ page.meta.get('description', page.title ~ ' | ' ~ config.site_name) if page else config.site_name }}">
+<meta property="og:description" content="{{ page.meta.get('description', config.site_description) if page else config.site_description }}">
+<meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
+<meta property="og:image" content="{{ config.site_url }}images/20260228_124038.jpg">
+<meta property="og:locale" content="en_ZA">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.meta.get('description', page.title ~ ' | ' ~ config.site_name) if page else config.site_name }}">
+<meta name="twitter:description" content="{{ page.meta.get('description', config.site_description) if page else config.site_description }}">
+<meta name="twitter:image" content="{{ config.site_url }}images/20260228_124038.jpg">
 {% endblock %}
 
 {% block tabs %}

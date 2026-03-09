@@ -1,3 +1,7 @@
+---
+description: Guidelines for guests at The Insect Hotel. Mutual respect, shared spaces, and the expectations that keep our community thriving.
+---
+
 # House Rules
 
 The Insect Hotel is a shared space. It runs on mutual respect between all who

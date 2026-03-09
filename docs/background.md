@@ -1,3 +1,7 @@
+---
+description: The history of insect hotels from 1980s Germany to a global conservation movement. Learn why insect shelters matter and how to build one.
+---
+
 # The Story Behind Insect Hotels
 
 **Where they came from, where they are, and why you should build one.**

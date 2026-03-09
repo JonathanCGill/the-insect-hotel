@@ -1,3 +1,7 @@
+---
+description: Discover the Western Cape fynbos ecosystem surrounding The Insect Hotel. Seasonal foraging, wildflowers, and one of Earth's most biodiverse regions.
+---
+
 # Local Area & Activities
 
 The Insect Hotel isn't just a place to stay. It's a gateway to one of the most

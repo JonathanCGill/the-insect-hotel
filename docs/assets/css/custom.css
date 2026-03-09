@@ -201,7 +201,12 @@ body,
   color: #fff !important;
 }
 
-/* Mobile fixes — keep navbar visible and prevent it being pushed off-screen */
+/* Hamburger button — hidden on desktop */
+.hamburger {
+  display: none;
+}
+
+/* Mobile fixes */
 @media screen and (max-width: 76.25em) {
   /* Collapse the invisible header so it doesn't take up space */
   .md-header {
@@ -212,24 +217,73 @@ body,
     overflow: hidden !important;
   }
 
-  /* Force tabs to stay visible on mobile (Material hides them by default) */
+  /* Navbar layout: ladybird left, hamburger right */
+  .navbar-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+  }
+
+  .navbar-ladybird {
+    position: static;
+    transform: none;
+    line-height: 0;
+  }
+
+  /* Hamburger button */
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem;
+    z-index: 10;
+  }
+
+  .hamburger span {
+    display: block;
+    width: 24px;
+    height: 2.5px;
+    background-color: #3E2723;
+    border-radius: 2px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+
+  /* Animate to X when open */
+  .hamburger.open span:nth-child(1) {
+    transform: translateY(7.5px) rotate(45deg);
+  }
+
+  .hamburger.open span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .hamburger.open span:nth-child(3) {
+    transform: translateY(-7.5px) rotate(-45deg);
+  }
+
+  /* Hide nav by default on mobile, show when toggled */
   .md-tabs {
+    display: none !important;
+  }
+
+  .md-tabs.menu-open {
     display: block !important;
   }
 
-  /* Stack nav links for smaller screens */
   .md-tabs__list {
-    flex-wrap: wrap;
-    padding: 0.25rem 0;
-  }
-
-  .md-tabs__item {
-    flex-shrink: 0;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem 0 1rem;
   }
 
   .md-tabs__link {
-    font-size: 0.78rem;
-    padding: 0.4rem 0.6rem;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
   }
 
   /* Smaller hero title on mobile */
@@ -242,15 +296,6 @@ body,
   .md-content h1 {
     font-size: 1.6rem;
     word-break: break-word;
-  }
-
-  /* Adjust ladybird for narrower space */
-  .navbar-ladybird {
-    position: static;
-    display: block;
-    text-align: center;
-    transform: none;
-    padding-top: 0.4rem;
   }
 }
 

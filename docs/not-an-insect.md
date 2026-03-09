@@ -1,3 +1,8 @@
+---
+description: Verification failed. You are not an insect — but you can still help by building an insect hotel of your own.
+robots: noindex, nofollow
+---
+
 # You Are Not an Insect.
 
 We're sorry to tell you that your verification has failed. You picked

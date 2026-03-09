@@ -1,3 +1,7 @@
+---
+description: Seasonal events and activities at The Insect Hotel. Pollination festivals, nocturnal tours, and nature's unscripted calendar.
+---
+
 # Events & Activities
 
 The Insect Hotel offers a full programme of seasonal events and activities.

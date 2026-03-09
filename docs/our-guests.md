@@ -1,3 +1,7 @@
+---
+description: Meet the solitary bees, lacewings, ladybirds, and other insects that call The Insect Hotel home. Guest profiles and species information.
+---
+
 # Our Guests
 
 The Insect Hotel doesn't advertise. It doesn't need to. The guests who find

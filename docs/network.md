@@ -1,3 +1,7 @@
+---
+description: Explore the global network of insect hotels — from botanical gardens to urban rooftops. An interactive map of shelters worldwide.
+---
+
 # The Insect Hotel Network
 
 You didn't think we were the only ones, did you?

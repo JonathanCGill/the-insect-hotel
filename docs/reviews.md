@@ -1,3 +1,7 @@
+---
+description: What our six-legged guests have to say about their stay. Reviews from solitary bees, lacewings, ladybirds, and more.
+---
+
 # Guest Reviews
 
 We don't ask for feedback. We don't send follow-up surveys. But some of our

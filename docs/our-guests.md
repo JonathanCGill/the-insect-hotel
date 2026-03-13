@@ -47,7 +47,8 @@ half-circles from rose leaves and soft foliage to line their cells. If you've
 ever seen perfectly round notches in your rose bushes, you've had a leafcutter
 as a neighbour.
 
-**Preferred rooms:** [The Bamboo Suite, The Drilled Log Rooms](accommodation.md)
+**Preferred rooms:** [The Bamboo Suite, The Drilled Log Rooms](accommodation.md),
+or the new standalone [Bee Hotel](bee-hotel.md)
 
 ---
 

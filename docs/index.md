@@ -1,3 +1,7 @@
+---
+description: A boutique retreat for the discerning six-legged traveller. Handcrafted insect shelter in the Western Cape, South Africa.
+---
+
 # A hotel for guests with six legs.
 
 **A boutique retreat for the six-legged traveller.**

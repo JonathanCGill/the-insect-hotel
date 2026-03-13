@@ -1,3 +1,7 @@
+---
+description: Ready to check in? No booking system, no deposits, no paperwork. Learn how to arrive at The Insect Hotel.
+---
+
 # Book Your Stay
 
 Good news: there's no booking system, no deposits, and no paperwork.

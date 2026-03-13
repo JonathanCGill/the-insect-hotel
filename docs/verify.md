@@ -1,3 +1,7 @@
+---
+description: Verify your insect credentials with our UV colour perception test. Only true insects can see ultraviolet light.
+---
+
 # Prove You're an Insect...
 
 Before we can confirm your stay, we need to check that you are, in fact, an

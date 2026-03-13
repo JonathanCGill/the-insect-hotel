@@ -1,3 +1,7 @@
+---
+description: Explore our natural room types — bamboo suites, pine cone lofts, bark hideaways, and more. Every chamber designed for a specific insect guest.
+---
+
 # Accommodation
 
 Every room at The Insect Hotel is made from natural materials and designed with
@@ -14,7 +18,7 @@ airy bundle of hollow stems, we have something for you.
 
 **Best for:** Solitary bees, small wasps
 
-Bundles of hollow bamboo canes in a range of widths (2mm–10mm). North-facing for
+Bundles of hollow bamboo canes, from pin-thin to pencil-width. North-facing for
 morning warmth. Each tube is a private, single-occupancy chamber, perfect for
 nesting or simply resting between flights.
 

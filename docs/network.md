@@ -1,3 +1,7 @@
+---
+description: Explore the global network of insect hotels — from botanical gardens to urban rooftops. An interactive map of shelters worldwide.
+---
+
 # The Insect Hotel Network
 
 You didn't think we were the only ones, did you?
@@ -33,7 +37,7 @@ Click any node to learn more. Hover over an edge to see the distance.
   var hotels = [
     // Home
     { id: "home", name: "The Insect Hotel", loc: "Western Cape, South Africa", lat: -34.05, lng: 18.55, cat: "home",
-      desc: "Our boutique retreat in the fynbos. The one that started it all, for us at least.", url: "index.html" },
+      desc: "Our boutique retreat in the garden. The one that started it all, for us at least.", url: "index.html" },
     // Record holders
     { id: "duror", name: "Highland Titles Bug Hotel", loc: "Duror, Scotland", lat: 56.66, lng: -5.37, cat: "record",
       desc: "Guinness World Record holder: 199.9 m\u00b3. Built from felled sitka spruce, bamboo, clay pipes and bark. Completed March 2022.",
@@ -95,10 +99,23 @@ Click any node to learn more. Hover over an edge to see the distance.
     { id: "lugano", name: "Villa Carona Bee Hotel", loc: "near Lugano, Switzerland", lat: 45.96, lng: 8.94, cat: "art",
       desc: "Home to 10,000\u201330,000 bees in a historic villa setting.",
       url: "https://www.myswitzerland.com/en-ch/accommodations/hotels/bees-friends/9-unique-accommodations-for-bees-friends/" },
+    // South Africa
+    { id: "babylonstoren", name: "Babylonstoren", loc: "Franschhoek, South Africa", lat: -33.83, lng: 19.00, cat: "garden",
+      desc: "Bug hotel in one of the Cape\u2019s most celebrated gardens. Suites of bark, straw and bamboo for carpenter bees, wasps and spiders.",
+      url: "https://babylonstoren.com/blog/post/insect-hotel" },
+    { id: "boschendal", name: "Boschendal", loc: "Franschhoek, South Africa", lat: -33.88, lng: 18.98, cat: "garden",
+      desc: "Insect hotels on a 1,800-hectare wine estate. Part of a regenerative farming programme awarded WWF Biodiversity Champion status.",
+      url: "https://boschendal.com/the-future-of-farming/" },
+    { id: "kznbg", name: "KZN Botanical Garden", loc: "Pietermaritzburg, South Africa", lat: -29.60, lng: 30.35, cat: "garden",
+      desc: "SANBI insect hotel in the succulent garden. Built from waste materials, bamboo and drilled logs for solitary bees and wasps.",
+      url: "https://www.sanbi.org/gardens/kwazulu-natal/information-7/insect-hotel/" },
     // Wildcard
     { id: "suzuka", name: "Buzzin Corner", loc: "Suzuka Circuit, Japan", lat: 34.84, lng: 136.54, cat: "wildcard",
       desc: "11 insect hotels at Turn 2, built by Sebastian Vettel. Kerbs painted black & yellow. Each F1 team customised their own.",
-      url: "https://www.qatar-tribune.com/article/84251/sports/vettel-builds-insect-hotels-at-japans-suzuka-circuit" }
+      url: "https://www.qatar-tribune.com/article/84251/sports/vettel-builds-insect-hotels-at-japans-suzuka-circuit" },
+    { id: "jozi", name: "Jozi Bee Hotel Project", loc: "Johannesburg, South Africa", lat: -26.19, lng: 28.03, cat: "wildcard",
+      desc: "347 standardised bee hotels distributed across Johannesburg. A citizen science project led by Wits University and Tutus Loco studying urban pollination equity.",
+      url: "https://www.jozibeehotelproject.com" }
   ];
 
   // Edges: meaningful connections
@@ -123,6 +140,13 @@ Click any node to learn more. Hover over an edge to see the distance.
     // US west coast
     { from: "sonoma", to: "phoenix", label: "US West" },
     { from: "denver", to: "phoenix", label: "US Mountain" },
+    // South Africa
+    { from: "home", to: "babylonstoren", label: "Winelands" },
+    { from: "home", to: "boschendal", label: "Winelands" },
+    { from: "babylonstoren", to: "boschendal", label: "Franschhoek" },
+    { from: "home", to: "kznbg", label: "South Africa" },
+    { from: "home", to: "jozi", label: "South Africa" },
+    { from: "jozi", to: "kznbg", label: "KZN–Gauteng" },
     // Home connections
     { from: "home", to: "sydney", label: "Southern hemisphere" },
     { from: "home", to: "kew", label: "Commonwealth" },
@@ -345,6 +369,7 @@ Because insect hotels turn up in the most unexpected places.
 | Hotel | Location | The story |
 |-------|----------|-----------|
 | **Buzzin Corner** | Suzuka Circuit, Japan | 11 hotels at Turn 2, built by four-time F1 champion Sebastian Vettel. Each team customised their own. Kerbs painted black and yellow. |
+| **Jozi Bee Hotel Project** | Johannesburg, South Africa | 347 bee hotels distributed across the city. A citizen science project by Wits University and Tutus Loco studying equitable access to pollination services. |
 
 ---
 
@@ -370,6 +395,8 @@ Some selected flights across the network, as the bee flies:
 | Denver | Phoenix | 940 km |
 | Sonoma | Phoenix | 1,050 km |
 | Ottawa | Denver | 2,850 km |
+| The Insect Hotel | Jozi Bee Hotel Project | 1,270 km |
+| Jozi Bee Hotel Project | KZN Botanical Garden | 480 km |
 
 ---
 
@@ -404,5 +431,7 @@ network is always growing.
 13. [Pacific Horticulture: Insect Hotels](https://pacifichorticulture.org/articles/insect-hotels/)
 14. [Botanic Gardens of Sydney: Insect hotel](https://www.botanicgardens.org.au/discover-and-learn/curious-kids/insect-hotel)
 15. [University of Agder: Insect hotel](https://www.uia.no/naturmuseum/english/learning-and-school/insektshotell/)
+16. [Jozi Bee Hotel Project](https://www.jozibeehotelproject.com)
+17. [Tutus Loco: Bee Hotels South Africa](https://www.beehotels.co.za/)
 
 </div>

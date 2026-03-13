@@ -94,6 +94,26 @@ inside, no splinters. Our most popular rooms.
 
 ---
 
+---
+
+### :material-bee: The Bee Hotel
+
+**Best for:** Solitary bees
+
+Our newest addition. A standalone, purpose-built shelter from
+[Tutus Loco](https://www.beehotels.co.za/), mounted on a garden fence among
+flowering herbs. Drilled wood rooms in a range of widths, south-facing, with
+no other species in the building. For bees who want a place of their own.
+
+- Dedicated solitary bee accommodation
+- Handmade from untreated wood
+- Separate from the main hotel
+- Close to foraging plants
+
+[See the full Bee Hotel page](bee-hotel.md) for photos and details.
+
+---
+
 ![The hotel surrounded by lush garden greenery](images/20260228_124046.jpg){ width="100%" }
 
 ## Facilities

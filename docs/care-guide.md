@@ -38,8 +38,8 @@ materials mean fresh bookings.
 
 ### Do keep it sheltered but sunny
 
-Face your hotel **south to south-east** in the Southern Hemisphere (north to
-north-east in the Northern Hemisphere). Morning sun warms guests early. A bit
+Face your hotel **north to north-east** in the Southern Hemisphere (south to
+south-east in the Northern Hemisphere). Morning sun warms guests early. A bit
 of overhead shelter, a roof overhang, a tree canopy, keeps the worst rain off
 without blocking light.
 

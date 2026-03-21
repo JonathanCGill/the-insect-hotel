@@ -59,25 +59,114 @@ body,
   width: auto;
 }
 
+/* Hide Material's built-in tabs (we use custom nav) */
 .md-tabs {
-  background-color: #FAF9F6;
-  color: #3E2723;
+  display: none !important;
 }
 
-.md-tabs__list {
+/* Custom navigation */
+.custom-nav {
+  flex: 1;
+  display: flex;
   justify-content: center;
 }
 
-.md-tabs__link,
-.md-tabs__link:visited {
-  color: #3E2723 !important;
-  opacity: 1;
+.custom-nav__list {
+  display: flex;
+  gap: 0.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
 }
 
-.md-tabs__link--active,
-.md-tabs__link--active:visited,
-.md-tabs__link:hover {
-  color: #FF8F00 !important;
+.custom-nav__item {
+  position: relative;
+}
+
+.custom-nav__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.55rem 0.85rem;
+  color: #3E2723;
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+  white-space: nowrap;
+  border: none;
+  background: none;
+  cursor: pointer;
+  border-radius: 0.35rem;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.custom-nav__link:hover,
+.custom-nav__link--active {
+  color: #FF8F00;
+}
+
+.custom-nav__arrow {
+  transition: transform 0.2s;
+}
+
+.custom-nav__item--dropdown.open .custom-nav__arrow {
+  transform: rotate(180deg);
+}
+
+/* Desktop dropdown — show on hover */
+.custom-nav__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #FAF9F6;
+  border: 1px solid #D7CCC8;
+  border-radius: 0.45rem;
+  box-shadow: 0 4px 16px rgba(62, 39, 35, 0.1);
+  list-style: none;
+  margin: 0.25rem 0 0;
+  padding: 0.4rem 0;
+  min-width: 10rem;
+  z-index: 100;
+}
+
+/* Show dropdown on hover (desktop) */
+@media (hover: hover) {
+  .custom-nav__item--dropdown:hover > .custom-nav__dropdown {
+    display: block;
+  }
+  .custom-nav__item--dropdown:hover > .custom-nav__toggle .custom-nav__arrow {
+    transform: rotate(180deg);
+  }
+}
+
+/* Also show when toggled open (for touch devices) */
+.custom-nav__item--dropdown.open > .custom-nav__dropdown {
+  display: block;
+}
+
+.custom-nav__sub {
+  display: block;
+  padding: 0.45rem 1.1rem;
+  color: #3E2723;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+  white-space: nowrap;
+  transition: color 0.15s, background-color 0.15s;
+}
+
+.custom-nav__sub:hover {
+  color: #FF8F00;
+  background-color: rgba(255, 143, 0, 0.06);
+}
+
+.custom-nav__sub--active {
+  color: #BF360C;
 }
 
 /* Large site title below nav */
@@ -266,24 +355,55 @@ body,
     transform: translateY(-7.5px) rotate(-45deg);
   }
 
-  /* Hide nav by default on mobile, show when toggled */
-  .md-tabs {
+  /* Hide custom nav by default on mobile, show when toggled */
+  .custom-nav {
     display: none !important;
+    width: 100%;
+    order: 3;
   }
 
-  .md-tabs.menu-open {
+  .custom-nav.menu-open {
     display: block !important;
   }
 
-  .md-tabs__list {
+  .custom-nav__list {
     flex-direction: column;
     align-items: center;
     padding: 0.5rem 0 1rem;
   }
 
-  .md-tabs__link {
+  .custom-nav__item {
+    width: 100%;
+    text-align: center;
+  }
+
+  .custom-nav__link {
     font-size: 1rem;
     padding: 0.6rem 1rem;
+    justify-content: center;
+  }
+
+  /* Mobile dropdown — full width, inline */
+  .custom-nav__dropdown {
+    position: static;
+    transform: none;
+    border: none;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
+    min-width: 0;
+  }
+
+  .custom-nav__sub {
+    text-align: center;
+    padding: 0.45rem 1rem;
+    font-size: 0.9rem;
+    color: #5D4037;
+  }
+
+  /* On mobile, also allow wrap for the navbar */
+  .navbar-wrapper {
+    flex-wrap: wrap;
   }
 
   /* Smaller hero title on mobile */

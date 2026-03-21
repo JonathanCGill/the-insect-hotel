@@ -32,18 +32,20 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Guests: our-guests.md
-  - Accommodation: accommodation.md
-  - New Additions:
+  - Stay:
+    - Accommodation: accommodation.md
     - Bee Hotel: bee-hotel.md
     - Bug House Kit: bug-house-kit.md
-  - Local Area: local-area.md
-  - Rules: house-rules.md
-  - Care Guide: care-guide.md
-  - The Story: background.md
-  - Reviews: reviews.md
-  - Network: network.md
-  - Book Now: book-your-stay.md
+    - Book Now: book-your-stay.md
+  - Guests: our-guests.md
+  - Explore:
+    - Local Area: local-area.md
+    - Network: network.md
+    - Reviews: reviews.md
+  - Care:
+    - House Rules: house-rules.md
+    - Care Guide: care-guide.md
+  - Our Story: background.md
 
 markdown_extensions:
   - admonition

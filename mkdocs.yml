@@ -15,9 +15,8 @@ theme:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-  favicon: assets/images/favicon.svg
-  icon:
-    logo: material/bee
+  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
 
 plugins:
   - search:

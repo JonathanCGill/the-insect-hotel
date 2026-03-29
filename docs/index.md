@@ -6,7 +6,11 @@ description: A boutique retreat for the discerning six-legged traveller. Handcra
 
 **A boutique retreat for the six-legged traveller.**
 
-![The Insect Hotel, a handcrafted sanctuary in the garden](images/20260228_124038.jpg){ width="100%" }
+![The Grand Insect Hotel, a painting by Jonathan Gill](images/The Grand Insect Hotel.jpg){ width="100%" }
+
+<p style="text-align: center; font-style: italic; margin-top: -0.5em;">
+<strong>The Grand Insect Hotel</strong> — an original painting by Jonathan Gill, depicting the vibrant life our guests experience at The Insect Hotel. From buzzing bees to delicate lacewings, this artwork captures the spirit of our little sanctuary. To see more of Jonathan's work, visit <a href="https://jonoart.co.za">jonoart.co.za</a>.
+</p>
 
 ---
 

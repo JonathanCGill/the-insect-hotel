@@ -10,13 +10,15 @@ airy bundle of hollow stems, we have something for you.
 
 ![The Insect Hotel, a closer look at our rooms](images/20260228_124032.jpg){ width="100%" }
 
----
-
 ## Room Types
 
-### :material-tunnel: The Bamboo Suite
+<div class="ih-rooms" markdown>
 
-**Best for:** Solitary bees, small wasps
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Bamboo Suite</span></div>
+<div class="ih-room__body" markdown>
+### The Bamboo Suite
+<span class="ih-tag">Solitary bees · small wasps</span>
 
 Bundles of hollow bamboo canes, from pin-thin to pencil-width. North-facing for
 morning warmth. Each tube is a private, single-occupancy chamber, perfect for
@@ -25,12 +27,18 @@ nesting or simply resting between flights.
 - Private entrance
 - Naturally ventilated
 - Seasonal sun exposure
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per pollination</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
-### :material-pine-tree: The Pine Cone Loft
-
-**Best for:** Ladybirds, lacewings, earwigs
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Pine Cone Loft</span></div>
+<div class="ih-room__body" markdown>
+### The Pine Cone Loft
+<span class="ih-tag">Ladybirds · lacewings · earwigs</span>
 
 Stacked pine cones create a maze of cosy gaps and crannies. Sheltered from wind,
 insulated against cold nights, and just complex enough to feel like an
@@ -39,12 +47,18 @@ adventure.
 - Multiple entry points
 - Excellent insulation
 - Communal yet private
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per quiet winter</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
-### :material-tree: The Bark Hideaway
-
-**Best for:** Beetles, woodlice, spiders
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Bark Hideaway</span></div>
+<div class="ih-room__body" markdown>
+### The Bark Hideaway
+<span class="ih-tag">Beetles · woodlice · spiders</span>
 
 Layers of loose bark provide dark, sheltered retreats for guests who prefer life
 on the quiet side. Damp-friendly and naturally textured.
@@ -52,12 +66,18 @@ on the quiet side. Damp-friendly and naturally textured.
 - Low-light environment
 - Holds moisture
 - Ground-level access available
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per night, in the dark</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
-### :material-grass: The Straw Gallery
-
-**Best for:** Solitary bees, helpful wasps
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Straw Gallery</span></div>
+<div class="ih-room__body" markdown>
+### The Straw Gallery
+<span class="ih-tag">Solitary bees · helpful wasps</span>
 
 Tightly packed straw and dried grass stems offer a warm, golden-coloured
 retreat. Excellent for spending winter and early-season nesting.
@@ -65,12 +85,18 @@ retreat. Excellent for spending winter and early-season nesting.
 - Warm and dry
 - Varied tube widths
 - Sheltered from the main winds
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per golden season</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
-### :material-leaf: The Leaf Litter Lounge
-
-**Best for:** Ground beetles, centipedes, wintering butterflies
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Leaf Litter Lounge</span></div>
+<div class="ih-room__body" markdown>
+### The Leaf Litter Lounge
+<span class="ih-tag">Ground beetles · centipedes · wintering butterflies</span>
 
 A generous layer of dried leaves, twigs, and moss at the base of the hotel. It's
 not glamorous, but it's honest, and very popular in the cooler months.
@@ -78,12 +104,18 @@ not glamorous, but it's honest, and very popular in the cooler months.
 - Natural insulation
 - Rich mini-ecosystem
 - Available all year
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per leaf turned</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
-### :material-axe: The Drilled Log Rooms
-
-**Best for:** Solitary bees
+<div class="ih-room" markdown>
+<div class="ih-room__ph"><span>The Drilled Log Rooms</span></div>
+<div class="ih-room__body" markdown>
+### The Drilled Log Rooms
+<span class="ih-tag">Solitary bees · most popular</span>
 
 Hardwood logs with carefully drilled holes of different depths and widths. Smooth
 inside, no splinters. Our most popular rooms.
@@ -91,14 +123,18 @@ inside, no splinters. Our most popular rooms.
 - Hand-finished chambers
 - Ideal nesting depth
 - Premium sun exposure
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per nursery cell</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
-
----
-
-### :material-bee: The Bee Hotel
-
-**Best for:** Solitary bees
+<div class="ih-room" markdown>
+<div class="ih-room__photo" style="background-image:url('images/BeeHotel1.jpg')"></div>
+<div class="ih-room__body" markdown>
+### The Bee Hotel
+<span class="ih-tag">Solitary bees · standalone annexe</span>
 
 Our newest addition. A standalone, purpose-built shelter from
 [Tutus Loco](https://www.beehotels.co.za/), mounted on a garden fence among
@@ -111,8 +147,37 @@ no other species in the building. For bees who want a place of their own.
 - Close to foraging plants
 
 [See the full Bee Hotel page](bee-hotel.md) for photos and details.
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>per solitary bee</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
 
----
+<div class="ih-room" markdown>
+<div class="ih-room__photo" style="background-image:url('images/BT1.jpg')"></div>
+<div class="ih-room__body" markdown>
+### The Bug House Kit
+<span class="ih-tag">Solitary bees · small wasps · DIY</span>
+
+A flat-pack wing for the main estate, assembled in about fifteen minutes. A
+compact vertical shelter packed with bamboo tubes of different widths, with a
+bag of basil seeds tucked in the box to draw guests with scent.
+
+- Bamboo tube rooms in a range of widths
+- Untreated wood frame, built to last
+- Basil companion planting to attract guests
+- Tool-free assembly
+
+[See the full Bug House Kit page](bug-house-kit.md) for the build and photos.
+</div>
+<div class="ih-room__rate">
+<div class="ih-room__price">Free<small>fifteen-minute build</small></div>
+<a class="ih-btn ih-btn--dark" href="/book-your-stay/">Reserve</a>
+</div>
+</div>
+
+</div>
 
 ![The hotel surrounded by lush garden greenery](images/20260228_124046.jpg){ width="100%" }
 
@@ -128,8 +193,6 @@ All guests enjoy access to:
   areas to reduce exposure
 - **Shade trees nearby**, for those hot summer days when even an insect needs a
   break
-
----
 
 !!! info "A note on availability"
     Rooms are given out on a first-come, first-served basis. We don't take

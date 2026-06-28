@@ -2,19 +2,22 @@
 description: The history of insect hotels from 1980s Germany to a global conservation movement. Learn why insect shelters matter and how to build one.
 ---
 
+<div class="ih-story" markdown>
+
 # The Story Behind Insect Hotels
 
 **Where they came from, where they are, and why you should build one.**
-
-![A handcrafted insect hotel: shelter, solitude, and a small act of repair](images/20260228_124038.jpg){ width="100%" }
-
----
 
 You're reading this because you're a human. We've covered that already. But the
 fact that you're still here, curious about a hotel you can never check into,
 says something good about you.
 
 So here's the story.
+
+<figure class="ih-figure ih-card" markdown>
+![The Grand Insect Hotel, an original painting by Jonathan Gill](images/The Grand Insect Hotel.jpg)
+<figcaption><strong>The Grand Insect Hotel</strong> — an original painting by Jonathan Gill, capturing the spirit of our little sanctuary. See more of his work at <a href="https://jonoart.co.za">jonoart.co.za</a>.</figcaption>
+</figure>
 
 ---
 
@@ -23,6 +26,8 @@ So here's the story.
 The idea of giving insects a place to nest is older than you might think. But
 the modern **insect hotel** as we know it first appeared in **Europe in the late
 1980s and 1990s**, mainly in **Germany and the Netherlands**.
+
+![A handcrafted insect hotel: shelter, solitude, and a small act of repair](images/20260228_124038.jpg){ width="100%" }
 
 The problem was simple. Intensive forestry had tidied Europe's forests too well.
 Dead wood was cleared. Log piles were removed. Hollow stems were mowed. The
@@ -200,4 +205,6 @@ between, the network grows.
 
 <div class="book-button-wrapper" markdown>
 [Book Now](verify.md){ .book-button }
+</div>
+
 </div>

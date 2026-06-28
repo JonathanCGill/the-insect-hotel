@@ -11,7 +11,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 
 <!-- SEO Meta Tags -->
 <meta name="author" content="The Insect Hotel">
@@ -35,44 +35,62 @@
 {% endblock %}
 
 {% block tabs %}
-  <div class="navbar-wrapper">
-    <a href="{{ config.site_url }}" class="navbar-ladybird" aria-label="Home">
-      <img src="{{ config.site_url }}assets/images/favicon.png" alt="The Grand Insect Hotel Spider">
-    </a>
-    <button class="hamburger" aria-label="Menu" aria-expanded="false"
-      onclick="this.classList.toggle('open');this.setAttribute('aria-expanded',this.classList.contains('open'));document.querySelector('.custom-nav').classList.toggle('menu-open')">
-      <span></span><span></span><span></span>
-    </button>
-    <nav class="custom-nav" aria-label="Main">
-      <ul class="custom-nav__list">
-        {% for item in nav %}
-          {% if item.children %}
-            <li class="custom-nav__item custom-nav__item--dropdown">
-              <button class="custom-nav__link custom-nav__toggle" aria-expanded="false"
-                onclick="this.parentElement.classList.toggle('open');this.setAttribute('aria-expanded',this.parentElement.classList.contains('open'))">
-                {{ item.title }}
-                <svg class="custom-nav__arrow" viewBox="0 0 10 6" width="10" height="6"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-              </button>
-              <ul class="custom-nav__dropdown">
-                {% for child in item.children %}
-                  <li>
-                    <a href="{{ child.url | url }}" class="custom-nav__sub{% if child == page %} custom-nav__sub--active{% endif %}">
-                      {{ child.title }}
-                    </a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
-          {% else %}
-            <li class="custom-nav__item">
-              <a href="{{ item.url | url }}" class="custom-nav__link{% if item == page %} custom-nav__link--active{% endif %}">
-                {{ item.title }}
-              </a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
+  <div class="ih-topbar">
+    <div class="ih-topbar__inner">
+      <a href="{{ (nav.homepage.url if nav.homepage else '.') | url }}" class="ih-logo" aria-label="The Insect Hotel — Home">
+        <span class="ih-hex ih-logo__hex" aria-hidden="true"></span>
+        <span class="ih-logo__word">The Insect Hotel</span>
+      </a>
+      <button class="hamburger" aria-label="Menu" aria-expanded="false"
+        onclick="this.classList.toggle('open');this.setAttribute('aria-expanded',this.classList.contains('open'));document.querySelector('.custom-nav').classList.toggle('menu-open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="custom-nav" aria-label="Main">
+        <ul class="custom-nav__list">
+          {% for item in nav %}
+            {% if item.children %}
+              <li class="custom-nav__item custom-nav__item--dropdown">
+                <button class="custom-nav__link custom-nav__toggle" aria-expanded="false"
+                  onclick="this.parentElement.classList.toggle('open');this.setAttribute('aria-expanded',this.parentElement.classList.contains('open'))">
+                  {{ item.title }}
+                  <svg class="custom-nav__arrow" viewBox="0 0 10 6" width="10" height="6"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+                </button>
+                <ul class="custom-nav__dropdown">
+                  {% for child in item.children %}
+                    <li>
+                      <a href="{{ child.url | url }}" class="custom-nav__sub{% if child == page %} custom-nav__sub--active{% endif %}">
+                        {{ child.title }}
+                      </a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li class="custom-nav__item">
+                <a href="{{ item.url | url }}" class="custom-nav__link{% if item == page %} custom-nav__link--active{% endif %}">
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endif %}
+          {% endfor %}
+          <li class="custom-nav__item custom-nav__item--book">
+            <a href="{{ 'book-your-stay/' | url }}" class="ih-pill ih-topbar__book">Book a stay</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
   </div>
-  <div class="site-hero-title">The Insect Hotel</div>
+{% endblock %}
+
+{% block footer %}
+  <footer class="ih-footer">
+    <div class="ih-footer__inner">
+      <a href="{{ (nav.homepage.url if nav.homepage else '.') | url }}" class="ih-footer__lockup" aria-label="The Insect Hotel — Home">
+        <span class="ih-hex ih-footer__hex" aria-hidden="true"></span>
+        <span class="ih-footer__word">The Insect Hotel</span>
+      </a>
+      <p class="ih-footer__tagline">A handcrafted shelter in the Western Cape. Where every bug is a welcome guest.</p>
+      <p class="ih-footer__copy">&copy; 2026 The Insect Hotel</p>
+    </div>
+  </footer>
 {% endblock %}

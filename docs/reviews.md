@@ -11,7 +11,7 @@ via a borrowed smartphone.
 
 We publish them here unedited, with the occasional reply from management.
 
----
+<div class="ih-card ih-review" markdown>
 
 ### :material-bee: A. mellifica (solitary, female)
 
@@ -29,7 +29,9 @@ adjusting your leaf-cut sizes to a specific hole, a millimetre matters.
 
 Would I return? I already have. That should tell you enough.
 
----
+</div>
+
+<div class="ih-card ih-review" markdown>
 
 ### :material-butterfly: C. zastrowi (green lacewing, adult)
 
@@ -52,7 +54,9 @@ the east-facing bark, you feel it before you see it.
 I laid four hundred eggs on the Pelargonium within a week of waking up. That's
 not a review. That's proof of how well I wintered.
 
----
+</div>
+
+<div class="ih-card ih-review" markdown>
 
 ### :material-bee-flower: S. ribesii (common hoverfly, male)
 
@@ -92,7 +96,9 @@ Three legs. Would think about coming back in spring. Reluctantly.
 
     We'd welcome you back in October, when the yellow situation improves a lot.
 
----
+</div>
+
+<div class="ih-card ih-review" markdown>
 
 ### :material-bug-outline: S. sacer (dung beetle, male)
 
@@ -130,7 +136,9 @@ wouldn't know.
 
     We wish you well in your search, and we mean that sincerely.
 
----
+</div>
+
+<div class="ih-card ih-review" markdown>
 
 ### :material-spider-web: T. segmentata (garden orb-web spider, female)
 
@@ -171,7 +179,7 @@ An outstanding place. Six legs, all eight of mine agree.
     outside our core guest group. Your stay was welcome, your web was admired,
     and your dining was, as you say, discreet. We'll leave it there.
 
----
+</div>
 
 !!! quote "The Insect Hotel Philosophy"
     *"We can't control what our guests think of us. We can only control the

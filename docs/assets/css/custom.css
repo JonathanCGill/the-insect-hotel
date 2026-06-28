@@ -1,425 +1,9 @@
-/* The Insect Hotel — Custom Styles */
+/* The Insect Hotel — functional widget styles
+   (Theme, typography, header, footer and components now live in
+   stylesheets/extra.css. This file keeps the interactive widgets:
+   the UV check-in grid, the references box, and the network map.) */
 
-:root {
-  --md-primary-fg-color: #FAF9F6;
-  --md-primary-bg-color: #3E2723;
-  --md-accent-fg-color: #FF8F00;
-  --md-default-bg-color: #FAF9F6;
-  --md-default-fg-color: #3E2723;
-  --md-default-fg-color--light: #5D4037;
-  --md-default-fg-color--lighter: #8D6E63;
-  --md-typeset-a-color: #BF360C;
-}
-
-/* Force entire site body to off-white */
-body,
-.md-main,
-.md-content,
-.md-sidebar,
-.md-container {
-  background-color: #FAF9F6;
-}
-
-/* Navbar — hide title/icon/search, show only centred links */
-.md-header {
-  background-color: #FAF9F6 !important;
-  box-shadow: none !important;
-}
-
-.md-header__button,
-.md-header__title,
-.md-header__option,
-.md-header__topic,
-.md-header__ellipsis,
-.md-search {
-  display: none !important;
-}
-
-.md-header nav.md-header__inner {
-  display: none !important;
-}
-
-/* Navbar wrapper — ladybird left, links centred */
-.navbar-wrapper {
-  position: relative;
-  background-color: #FAF9F6;
-}
-
-.navbar-ladybird {
-  position: absolute;
-  left: 1rem;
-  top: 50%;
-  transform: translateY(-50%);
-  line-height: 0;
-  z-index: 1;
-}
-
-.navbar-ladybird img {
-  height: 1.6rem;
-  width: auto;
-}
-
-/* Hide Material's built-in tabs (we use custom nav) */
-.md-tabs {
-  display: none !important;
-}
-
-/* Custom navigation */
-.custom-nav {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-}
-
-.custom-nav__list {
-  display: flex;
-  gap: 0.25rem;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  align-items: center;
-}
-
-.custom-nav__item {
-  position: relative;
-}
-
-.custom-nav__link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-  padding: 0.55rem 0.85rem;
-  color: #3E2723;
-  text-decoration: none;
-  font-size: 0.82rem;
-  font-weight: 600;
-  font-family: 'Nunito', sans-serif;
-  white-space: nowrap;
-  border: none;
-  background: none;
-  cursor: pointer;
-  border-radius: 0.35rem;
-  transition: color 0.2s, background-color 0.2s;
-}
-
-.custom-nav__link:hover,
-.custom-nav__link--active {
-  color: #FF8F00;
-}
-
-.custom-nav__arrow {
-  transition: transform 0.2s;
-}
-
-.custom-nav__item--dropdown.open .custom-nav__arrow {
-  transform: rotate(180deg);
-}
-
-/* Desktop dropdown — show on hover */
-.custom-nav__dropdown {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: #FAF9F6;
-  border: 1px solid #D7CCC8;
-  border-radius: 0.45rem;
-  box-shadow: 0 4px 16px rgba(62, 39, 35, 0.1);
-  list-style: none;
-  margin: 0.25rem 0 0;
-  padding: 0.4rem 0;
-  min-width: 10rem;
-  z-index: 100;
-}
-
-/* Show dropdown on hover (desktop) */
-@media (hover: hover) {
-  .custom-nav__item--dropdown:hover > .custom-nav__dropdown {
-    display: block;
-  }
-  .custom-nav__item--dropdown:hover > .custom-nav__toggle .custom-nav__arrow {
-    transform: rotate(180deg);
-  }
-}
-
-/* Also show when toggled open (for touch devices) */
-.custom-nav__item--dropdown.open > .custom-nav__dropdown {
-  display: block;
-}
-
-.custom-nav__sub {
-  display: block;
-  padding: 0.45rem 1.1rem;
-  color: #3E2723;
-  text-decoration: none;
-  font-size: 0.8rem;
-  font-weight: 600;
-  font-family: 'Nunito', sans-serif;
-  white-space: nowrap;
-  transition: color 0.15s, background-color 0.15s;
-}
-
-.custom-nav__sub:hover {
-  color: #FF8F00;
-  background-color: rgba(255, 143, 0, 0.06);
-}
-
-.custom-nav__sub--active {
-  color: #BF360C;
-}
-
-/* Large site title below nav */
-.site-hero-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 3.5rem;
-  font-weight: 700;
-  color: #8D6E63;
-  text-align: center;
-  padding: 0.5rem 1rem 0;
-  margin-bottom: 0;
-  background-color: #FAF9F6;
-  letter-spacing: 0.04em;
-}
-
-/* Tighten gap between hero title and page content */
-.md-main__inner {
-  margin-top: 0;
-}
-
-/* Hyperlinks — visible against off-white background */
-.md-typeset a {
-  color: #BF360C;
-}
-
-.md-typeset a:hover {
-  color: #FF8F00;
-}
-
-/* Sidebar nav links — keep visited links visible */
-.md-nav__link,
-.md-nav__link:visited {
-  color: #3E2723 !important;
-}
-
-.md-nav__link:hover {
-  color: #FF8F00 !important;
-}
-
-.md-nav__link--active,
-.md-nav__link--active:visited {
-  color: #BF360C !important;
-}
-
-/* Hero section on homepage */
-.md-content h1 {
-  font-size: 2.4rem;
-  color: var(--md-default-fg-color);
-  margin-top: 0;
-  text-align: left;
-}
-
-/* Warm, natural feel for admonitions */
-.md-typeset .admonition.tip,
-.md-typeset details.tip {
-  border-color: #FF8F00;
-}
-
-.md-typeset .admonition.note,
-.md-typeset details.note {
-  border-color: #3E2723;
-}
-
-/* Softer horizontal rules */
-.md-typeset hr {
-  border-color: #D7CCC8;
-}
-
-/* Table styling */
-.md-typeset table:not([class]) th {
-  background-color: #3E2723;
-  color: #FAF9F6;
-}
-
-/* Quote styling for the philosophy section */
-.md-typeset .admonition.quote,
-.md-typeset details.quote {
-  border-color: #8D6E63;
-}
-
-/* Footer warmth */
-.md-footer {
-  background-color: #3E2723;
-}
-
-/* Book Now button */
-.book-button-wrapper {
-  text-align: center;
-  margin: 3rem 0 1rem;
-}
-
-.book-button {
-  display: inline-block;
-  background-color: #3E2723;
-  color: #FAF9F6 !important;
-  padding: 1rem 2.5rem;
-  border-radius: 0.5rem;
-  font-size: 1.2rem;
-  font-weight: 700;
-  text-decoration: none !important;
-  transition: background-color 0.2s, transform 0.15s;
-  letter-spacing: 0.02em;
-}
-
-.book-button:hover {
-  background-color: #FF8F00;
-  color: #fff !important;
-  transform: translateY(-2px);
-}
-
-/* Material primary button — override invisible off-white */
-.md-typeset .md-button--primary {
-  background-color: #3E2723;
-  border-color: #3E2723;
-  color: #FAF9F6 !important;
-}
-
-.md-typeset .md-button--primary:hover {
-  background-color: #FF8F00;
-  border-color: #FF8F00;
-  color: #fff !important;
-}
-
-/* Hamburger button — hidden on desktop */
-.hamburger {
-  display: none;
-}
-
-/* Mobile fixes */
-@media screen and (max-width: 76.25em) {
-  /* Collapse the invisible header so it doesn't take up space */
-  .md-header {
-    position: static !important;
-    height: 0 !important;
-    min-height: 0 !important;
-    padding: 0 !important;
-    overflow: hidden !important;
-  }
-
-  /* Navbar layout: ladybird left, hamburger right */
-  .navbar-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.5rem 1rem;
-  }
-
-  .navbar-ladybird {
-    position: static;
-    transform: none;
-    line-height: 0;
-  }
-
-  /* Hamburger button */
-  .hamburger {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 5px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 0.4rem;
-    z-index: 10;
-  }
-
-  .hamburger span {
-    display: block;
-    width: 24px;
-    height: 2.5px;
-    background-color: #3E2723;
-    border-radius: 2px;
-    transition: transform 0.3s, opacity 0.3s;
-  }
-
-  /* Animate to X when open */
-  .hamburger.open span:nth-child(1) {
-    transform: translateY(7.5px) rotate(45deg);
-  }
-
-  .hamburger.open span:nth-child(2) {
-    opacity: 0;
-  }
-
-  .hamburger.open span:nth-child(3) {
-    transform: translateY(-7.5px) rotate(-45deg);
-  }
-
-  /* Hide custom nav by default on mobile, show when toggled */
-  .custom-nav {
-    display: none !important;
-    width: 100%;
-    order: 3;
-  }
-
-  .custom-nav.menu-open {
-    display: block !important;
-  }
-
-  .custom-nav__list {
-    flex-direction: column;
-    align-items: center;
-    padding: 0.5rem 0 1rem;
-  }
-
-  .custom-nav__item {
-    width: 100%;
-    text-align: center;
-  }
-
-  .custom-nav__link {
-    font-size: 1rem;
-    padding: 0.6rem 1rem;
-    justify-content: center;
-  }
-
-  /* Mobile dropdown — full width, inline */
-  .custom-nav__dropdown {
-    position: static;
-    transform: none;
-    border: none;
-    box-shadow: none;
-    background: transparent;
-    padding: 0;
-    min-width: 0;
-  }
-
-  .custom-nav__sub {
-    text-align: center;
-    padding: 0.45rem 1rem;
-    font-size: 0.9rem;
-    color: #5D4037;
-  }
-
-  /* On mobile, also allow wrap for the navbar */
-  .navbar-wrapper {
-    flex-wrap: wrap;
-  }
-
-  /* Smaller hero title on mobile */
-  .site-hero-title {
-    font-size: 2rem;
-    padding: 0.25rem 1rem 0;
-  }
-
-  /* Smaller H1 on mobile to prevent long words wrapping awkwardly */
-  .md-content h1 {
-    font-size: 1.6rem;
-    word-break: break-word;
-  }
-}
-
-/* UV verification grid */
+/* ---------- UV verification grid ---------- */
 .uv-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -430,63 +14,63 @@ body,
 
 .uv-block {
   aspect-ratio: 1;
-  border: 2px solid #e0dce8;
-  border-radius: 6px;
+  border: 2px solid #E7D9B8;
+  border-radius: 10px;
   cursor: pointer;
   transition: border-color 0.15s, box-shadow 0.15s;
 }
 
-.uv-block:hover {
-  border-color: #b0a8c0;
-}
+.uv-block:hover { border-color: #C9A85E; }
 
 .uv-block.selected {
-  border-color: #3E2723;
-  box-shadow: 0 0 0 3px rgba(62, 39, 35, 0.35);
+  border-color: #B5701A;
+  box-shadow: 0 0 0 3px rgba(181, 112, 26, 0.30);
 }
 
 .uv-hint {
-  color: #8D6E63;
+  color: #5A4631;
   font-style: italic;
   min-height: 1.5em;
 }
 
 .uv-submit {
   display: inline-block;
-  background-color: #3E2723;
-  color: #FAF9F6;
+  background-color: #D99A2B;
+  color: #2C1E10;
   border: none;
-  padding: 0.75rem 2rem;
-  border-radius: 0.5rem;
+  padding: 0.8rem 2rem;
+  border-radius: 999px;
+  font-family: "Spectral", Georgia, serif;
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 600;
   cursor: pointer;
-  transition: background-color 0.2s, transform 0.15s;
+  transition: background-color 0.2s, transform 0.15s, color 0.2s;
 }
 
 .uv-submit:hover {
-  background-color: #FF8F00;
-  color: #fff;
+  background-color: #B5701A;
+  color: #FFF8EA;
   transform: translateY(-2px);
 }
 
-/* References / "How do we know?" block */
+/* ---------- References / sources block ---------- */
 .references {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   line-height: 1.4;
-  color: #5D4037;
-  background-color: #F5F0EB;
-  border: 1px solid #D7CCC8;
-  border-radius: 0.4rem;
-  padding: 0.8rem 1.2rem;
+  color: #5A4631;
+  background-color: #FBEEC9;
+  border: 1px solid rgba(52, 38, 26, 0.10);
+  border-radius: 14px;
+  padding: 1rem 1.4rem;
   margin-top: 2rem;
 }
 
 .references h3 {
-  font-size: 0.72rem;
+  font-family: "Young Serif", Georgia, serif;
+  font-size: 0.95rem;
   margin-top: 0;
-  margin-bottom: 0.4rem;
-  color: #3E2723;
+  margin-bottom: 0.5rem;
+  color: #34261A;
 }
 
 .references ol,
@@ -495,14 +79,10 @@ body,
   padding-left: 1rem;
 }
 
-.references li {
-  margin-bottom: 0.15rem;
-}
+.references li { margin-bottom: 0.15rem; }
 
-/* Network graph */
-#network-container {
-  margin: 1.5rem 0;
-}
+/* ---------- Network graph ---------- */
+#network-container { margin: 1.5rem 0; }
 
 #network-controls {
   display: flex;
@@ -513,27 +93,24 @@ body,
 }
 
 .network-btn {
-  background: #FAF9F6;
-  color: #3E2723;
-  border: 1.5px solid #D7CCC8;
-  padding: 0.35rem 0.9rem;
-  border-radius: 1rem;
-  font-size: 0.8rem;
-  font-family: 'Nunito', sans-serif;
+  background: #FFFCF4;
+  color: #34261A;
+  border: 1.5px solid rgba(52, 38, 26, 0.18);
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-family: "Spectral", Georgia, serif;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s;
 }
 
-.network-btn:hover {
-  border-color: #8D6E63;
-  color: #8D6E63;
-}
+.network-btn:hover { border-color: #B5701A; color: #B5701A; }
 
 .network-btn.active {
-  background: #3E2723;
-  color: #FAF9F6;
-  border-color: #3E2723;
+  background: #2C1E10;
+  color: #FAF3E3;
+  border-color: #2C1E10;
 }
 
 #network-graph {
@@ -542,87 +119,74 @@ body,
   max-height: 420px;
   margin: 0 auto;
   display: block;
-  background: #FAF9F6;
-  border: 1px solid #D7CCC8;
-  border-radius: 0.5rem;
+  background: #FFFCF4;
+  border: 1px solid rgba(52, 38, 26, 0.12);
+  border-radius: 16px;
 }
 
 .network-node:hover circle {
   r: 9;
-  filter: drop-shadow(0 0 4px rgba(62, 39, 35, 0.3));
+  filter: drop-shadow(0 0 4px rgba(44, 30, 16, 0.3));
 }
 
-.network-edge {
-  transition: stroke 0.2s, stroke-width 0.2s;
-}
+.network-edge { transition: stroke 0.2s, stroke-width 0.2s; }
 
-#network-info {
-  min-height: 2rem;
-  margin-top: 1rem;
-}
+#network-info { min-height: 2rem; margin-top: 1rem; }
 
 .network-card {
-  background: #F5F0EB;
-  border: 1px solid #D7CCC8;
-  border-radius: 0.5rem;
-  padding: 1rem 1.2rem;
+  background: #FFFCF4;
+  border: 1px solid rgba(52, 38, 26, 0.12);
+  border-radius: 16px;
+  padding: 1.2rem 1.4rem;
   max-width: 480px;
   margin: 0 auto;
 }
 
 .network-card h3 {
+  font-family: "Young Serif", Georgia, serif;
   margin: 0.3rem 0 0.1rem;
-  color: #3E2723;
-  font-size: 1.1rem;
+  color: #34261A;
+  font-size: 1.15rem;
 }
 
-.network-card p {
-  margin: 0.3rem 0;
-  font-size: 0.88rem;
-  color: #5D4037;
-}
+.network-card p { margin: 0.3rem 0; font-size: 0.9rem; color: #5A4631; }
 
-.network-loc {
-  font-weight: 600;
-  color: #8D6E63 !important;
-}
+.network-loc { font-weight: 600; color: #9A7434 !important; }
 
 .network-coords {
   font-size: 0.75rem !important;
-  color: #8D6E63 !important;
-  font-family: 'Roboto Mono', monospace;
+  color: #9A7434 !important;
+  font-family: "Roboto Mono", monospace;
 }
 
 .network-cat {
   display: inline-block;
-  color: #FAF9F6;
+  color: #FFF8EA;
   font-size: 0.68rem;
   font-weight: 700;
-  padding: 0.15rem 0.5rem;
-  border-radius: 0.8rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
 }
 
-.network-visit {
-  margin-top: 0.6rem !important;
-  margin-bottom: 0 !important;
-}
+.network-visit { margin-top: 0.6rem !important; margin-bottom: 0 !important; }
 
 .network-visit a {
   display: inline-block;
-  background: #3E2723;
-  color: #FAF9F6 !important;
-  padding: 0.35rem 1rem;
-  border-radius: 0.4rem;
-  font-size: 0.8rem;
-  font-weight: 700;
+  background: #D99A2B;
+  color: #2C1E10 !important;
+  padding: 0.4rem 1.1rem;
+  border-radius: 999px;
+  font-family: "Spectral", Georgia, serif;
+  font-size: 0.85rem;
+  font-weight: 600;
   text-decoration: none !important;
-  transition: background-color 0.2s, transform 0.15s;
+  transition: background-color 0.2s, transform 0.15s, color 0.2s;
 }
 
 .network-visit a:hover {
-  background: #FF8F00;
-  color: #fff !important;
+  background: #B5701A;
+  color: #FFF8EA !important;
   transform: translateY(-1px);
 }

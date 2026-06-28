@@ -14,7 +14,69 @@ this place matters to them.
 
 ![The Insect Hotel, a handcrafted sanctuary](images/20260228_124032.jpg){ width="100%" }
 
+## Currently in Residence
+
+A few of the guests checked in this season. Each keeps to their own nook, and
+each gives something back to the garden.
+
+<div class="ih-guests" markdown>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">A</div>
+### Apricot
+<p class="ih-guest__species">Mason bee</p>
+<p class="ih-guest__blurb">Seals each nursery cell with a neat plug of mud and gets on with her work. Quiet, tidy, and an excellent early-spring pollinator.</p>
+<div class="ih-guest__footer">In residence · Spring</div>
+</div>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">S</div>
+### Sage
+<p class="ih-guest__species">Green lacewing</p>
+<p class="ih-guest__blurb">Works the night shift with golden eyes built for the dark. Wintered three months in the Pine Cone Loft without a single complaint.</p>
+<div class="ih-guest__footer">In residence · Winter</div>
+</div>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">P</div>
+### Pip
+<p class="ih-guest__species">Ladybird</p>
+<p class="ih-guest__blurb">A wet-season refugee with an appetite for aphids — up to 5,000 in a lifetime. Tucks into the bark layers until the rains pass.</p>
+<div class="ih-guest__footer">In residence · Winter</div>
+</div>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">M</div>
+### Marlow
+<p class="ih-guest__species">Carpenter bee</p>
+<p class="ih-guest__blurb">Appreciates a well-drilled hole and a south-facing morning. Big, glossy, and far gentler than his hum suggests.</p>
+<div class="ih-guest__footer">In residence · Summer</div>
+</div>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">F</div>
+### Fern
+<p class="ih-guest__species">Hoverfly</p>
+<p class="ih-guest__blurb">A pollinator in wasp's clothing, deeply and unshakeably drawn to yellow blooms. Rests in the straw bundles between foraging runs.</p>
+<div class="ih-guest__footer">In residence · Spring</div>
+</div>
+
+<div class="ih-guest" markdown>
+<div class="ih-guest__hex">B</div>
+### Bramble
+<p class="ih-guest__species">Garden orb-web spider</p>
+<p class="ih-guest__blurb">Not an insect, but a long-standing resident all the same. Rebuilds her web after every gale and admires the foot traffic by the Bark Hideaway.</p>
+<div class="ih-guest__footer">In residence · Autumn</div>
+</div>
+
+</div>
+
 ---
+
+## The Full Guest Register
+
+Beyond this season's residents, here is who you might find checking in across the
+year, and why this place matters to them.
 
 ## :material-bee: Solitary Bees
 

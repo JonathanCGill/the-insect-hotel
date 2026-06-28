@@ -8,6 +8,40 @@ Good news: there's no booking system, no deposits, and no paperwork.
 
 **Just arrive.**
 
+But if you'd like to let us know you're coming, leave your details below and
+we'll have a south-facing nook in mind. (There's one small check-in formality
+once you submit — we have to make sure you're really an insect.)
+
+<form class="ih-card ih-form" action="/verify/" method="get">
+  <div class="ih-field">
+    <label for="guest-name">Guest name</label>
+    <input type="text" id="guest-name" name="guest" placeholder="e.g. Apricot the mason bee">
+  </div>
+  <div class="ih-field">
+    <label for="species">Species</label>
+    <select id="species" name="species">
+      <option>Solitary bee</option>
+      <option>Lacewing</option>
+      <option>Ladybird</option>
+      <option>Carpenter bee</option>
+      <option>Other six-legged</option>
+    </select>
+  </div>
+  <div class="ih-field">
+    <label for="stay">Length of stay</label>
+    <select id="stay" name="stay">
+      <option>A single night</option>
+      <option>The season</option>
+      <option>A permanent address</option>
+    </select>
+  </div>
+  <div class="ih-field">
+    <label for="notes">Anything we should know?</label>
+    <textarea id="notes" name="notes" placeholder="Sun preference, foraging needs, noise sensitivity…"></textarea>
+  </div>
+  <button type="submit" class="ih-btn ih-btn--honey">Request my nook</button>
+</form>
+
 ---
 
 ## How It Works

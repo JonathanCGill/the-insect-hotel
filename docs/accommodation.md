@@ -1,5 +1,5 @@
 ---
-description: Explore our natural room types — bamboo suites, pine cone lofts, bark hideaways, and more. Every chamber designed for a specific insect guest.
+description: Explore our natural room types – bamboo suites, pine cone lofts, bark hideaways, and more. Every chamber designed for a specific insect guest.
 ---
 
 # Accommodation

@@ -16,7 +16,7 @@ So here's the story.
 
 <figure class="ih-figure ih-card" markdown>
 ![The Grand Insect Hotel, an original painting by Jonathan Gill](images/The Grand Insect Hotel.jpg)
-<figcaption><strong>The Grand Insect Hotel</strong> — an original painting by Jonathan Gill, capturing the spirit of our little sanctuary. See more of his work at <a href="https://jonoart.co.za">jonoart.co.za</a>.</figcaption>
+<figcaption><strong>The Grand Insect Hotel</strong> – an original painting by Jonathan Gill, capturing the spirit of our little sanctuary. See more of his work at <a href="https://jonoart.co.za">jonoart.co.za</a>.</figcaption>
 </figure>
 
 ---

@@ -41,7 +41,7 @@ each gives something back to the garden.
 <div class="ih-guest__hex">P</div>
 ### Pip
 <p class="ih-guest__species">Ladybird</p>
-<p class="ih-guest__blurb">A wet-season refugee with an appetite for aphids — up to 5,000 in a lifetime. Tucks into the bark layers until the rains pass.</p>
+<p class="ih-guest__blurb">A wet-season refugee with an appetite for aphids – up to 5,000 in a lifetime. Tucks into the bark layers until the rains pass.</p>
 <div class="ih-guest__footer">In residence · Winter</div>
 </div>
 

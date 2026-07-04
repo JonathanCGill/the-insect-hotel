@@ -6,7 +6,7 @@ description: A boutique retreat for the discerning six-legged traveller. Handcra
   <div class="ih-hero__inner">
     <p class="ih-hero__eyebrow">Western Cape · South Africa</p>
     <h1>A hotel for guests with six legs.</h1>
-    <p class="ih-hero__subhead">A boutique retreat for the discerning six-legged traveller — handcrafted, wild, and open to the weather.</p>
+    <p class="ih-hero__subhead">A boutique retreat for the discerning six-legged traveller – handcrafted, wild, and open to the weather.</p>
     <div class="ih-hero__actions">
       <a class="ih-btn ih-btn--honey" href="/book-your-stay/">Book your stay</a>
       <a class="ih-btn ih-btn--ghost" href="/accommodation/">See the rooms</a>
@@ -14,7 +14,7 @@ description: A boutique retreat for the discerning six-legged traveller. Handcra
   </div>
 </div>
 
-<p class="ih-credit" markdown>**The Grand Insect Hotel** — an original painting by Jonathan Gill, depicting the vibrant life our guests experience at The Insect Hotel. From buzzing bees to delicate lacewings, this artwork captures the spirit of our little sanctuary. To see more of Jonathan's work, visit [jonoart.co.za](https://jonoart.co.za).</p>
+<p class="ih-credit" markdown>**The Grand Insect Hotel** – an original painting by Jonathan Gill, depicting the vibrant life our guests experience at The Insect Hotel. From buzzing bees to delicate lacewings, this artwork captures the spirit of our little sanctuary. To see more of Jonathan's work, visit [jonoart.co.za](https://jonoart.co.za).</p>
 
 <p class="ih-lead">You've been flying all day. The wind has picked up. The light is fading. You need somewhere to land. Somewhere quiet. Somewhere sheltered. Somewhere the fynbos stretches to the mountains and the sea breeze carries the scent of wild rosemary.</p>
 
@@ -83,12 +83,12 @@ the occasional mongoose. It's peaceful here.
 Our ideal guest:
 
 <ul class="ih-ideal">
-<li><strong>Can fly</strong> — sorry, ground beetles, we love you, but access is tricky</li>
+<li><strong>Can fly</strong> – sorry, ground beetles, we love you, but access is tricky</li>
 <li><strong>Values solitude</strong> over swarm life</li>
 <li><strong>Forages on their own</strong> and likes seasonal variety</li>
 <li><strong>Doesn't mind sharing</strong> with other wildlife</li>
-<li><strong>Isn't easily startled</strong> — things move, things change, the garden has its own schedule</li>
-<li><strong>Embraces the weather</strong> — rain, wind, sun, and everything in between</li>
+<li><strong>Isn't easily startled</strong> – things move, things change, the garden has its own schedule</li>
+<li><strong>Embraces the weather</strong> – rain, wind, sun, and everything in between</li>
 </ul>
 
 </div>

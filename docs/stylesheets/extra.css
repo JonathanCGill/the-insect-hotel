@@ -1,5 +1,5 @@
 /* ============================================================
-   The Insect Hotel — Storybook redesign
+   The Insect Hotel – Storybook redesign
    Honey / amber + soft brown design system
    ============================================================ */
 
@@ -110,7 +110,7 @@ html {
 .md-header { display: none !important; }
 .md-tabs   { display: none !important; }
 
-/* No left nav / TOC sidebars — our custom top nav covers everything */
+/* No left nav / TOC sidebars – our custom top nav covers everything */
 .md-sidebar--primary,
 .md-sidebar--secondary { display: none !important; }
 
@@ -488,7 +488,7 @@ html {
   margin: 0;
 }
 
-/* Dark band — Who we're looking for */
+/* Dark band – Who we're looking for */
 .ih-band {
   width: 100vw;
   margin-left: calc(50% - 50vw);
@@ -765,7 +765,7 @@ html {
   font-family: "Spectral", serif;
 }
 
-/* Legacy book-button (used across pages) — restyle to palette */
+/* Legacy book-button (used across pages) – restyle to palette */
 .book-button-wrapper { text-align: center; margin: 3rem 0 1rem; }
 .md-typeset .book-button,
 .book-button {

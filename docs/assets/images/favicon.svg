@@ -6,7 +6,7 @@
   <line x1="18" y1="5" x2="21" y2="2" stroke="#1A1A1A" stroke-width="1" stroke-linecap="round"/>
   <circle cx="11" cy="2" r="1" fill="#1A1A1A"/>
   <circle cx="21" cy="2" r="1" fill="#1A1A1A"/>
-  <!-- Body — red dome -->
+  <!-- Body – red dome -->
   <ellipse cx="16" cy="19" rx="10" ry="10" fill="#E53935"/>
   <!-- Wing line -->
   <line x1="16" y1="9" x2="16" y2="29" stroke="#1A1A1A" stroke-width="1"/>

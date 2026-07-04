@@ -1,5 +1,5 @@
 ---
-description: Verification failed. You are not an insect — but you can still help by building an insect hotel of your own.
+description: Verification failed. You are not an insect – but you can still help by building an insect hotel of your own.
 robots: noindex, nofollow
 ---
 

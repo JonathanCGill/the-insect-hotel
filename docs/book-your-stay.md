@@ -10,7 +10,7 @@ Good news: there's no booking system, no deposits, and no paperwork.
 
 But if you'd like to let us know you're coming, leave your details below and
 we'll have a south-facing nook in mind. (There's one small check-in formality
-once you submit — we have to make sure you're really an insect.)
+once you submit – we have to make sure you're really an insect.)
 
 <form class="ih-card ih-form" action="/verify/" method="get">
   <div class="ih-field">

@@ -30,11 +30,20 @@ and check for mould or damp. This is the single most important thing you can do
 for your hotel. Disease and parasites build up in old material, and a clean
 hotel is a healthy hotel.
 
+Parasites are the main reason. In North America, the introduced Houdini fly
+(*Cacoxenus indagator*) can overrun unmanaged bee hotels, raiding the pollen
+stores that mother bees leave for their young. A yearly clean-out breaks that
+cycle before it builds.
+
 ### Do replace worn materials
 
 Bamboo splits. Wood cracks. Straw compacts. Pine cones lose their shape. If
 nesting tubes are blackened, blocked, or falling apart, swap them out. Fresh
 materials mean fresh bookings.
+
+This is a feature, not a flaw. Natural materials that break down within a few
+seasons force regular renewal, which stops old, parasite-laden nesting cavities
+from being reused year after year.
 
 ### Do keep it sheltered but sunny
 
@@ -50,6 +59,11 @@ flowering shrubs are best. They've evolved together with local insects and
 offer the right pollen, nectar, and even the UV nectar guides that
 [bees can see](not-an-insect.md) but you can't. A hotel without a garden is
 just a wooden box.
+
+Don't stop at flowers. A March 2026 study of seven cavity-nesting bee species
+in Australia found that **trees** were the most frequent pollen source for all
+of them. The authors recommend keeping or planting layered habitat: trees,
+shrubs, and climbers, not just a flower bed.
 
 ### Do sand rough edges
 
@@ -120,6 +134,11 @@ tightly packed hotels raise the risk of disease and parasites. In nature,
 solitary bees nest in small, well-spaced groups. Leave some breathing room.
 A modest hotel with good materials works better than a cramped megastructure.
 
+A dense hotel can also favour the wrong guests. In parts of North America, the
+non-native horn-faced mason bee (*Osmia cornifrons*) readily takes over bee
+hotels and can displace native species. Several small hotels spread around a
+garden are a safer bet than one big block.
+
 ### Don't use pesticides anywhere near it
 
 This should be obvious, but it needs saying. Pesticides, including
@@ -148,7 +167,7 @@ They're watching.
 
 | Season | What to do |
 |--------|-----------|
-| **Late winter** | Annual clean-out. Remove old material, check for damage, replace worn tubes and fillings. |
+| **Late winter** | Annual clean-out. Remove old material, check for damage and parasites, replace worn tubes and fillings. |
 | **Early spring** | Stand back. Watch for the first arrivals. Resist all urges to tinker. |
 | **Spring – summer** | Hands off. Observe only. This is peak nesting season. |
 | **Autumn** | Light check. Make sure the structure is stable before winter storms. Don't remove sealed tubes, they contain next year's guests. |
@@ -164,6 +183,13 @@ They're watching.
     *"The best thing you can do for your insect hotel is mostly nothing. Clean
     it once a year, plant flowers around it, and let the guests get on with
     their lives."*
+
+---
+
+## :material-book-open-variant: Sources
+
+- Vermont Center for Ecostudies (5 June 2026). *Hymenoptera Hotels: Is This a Trend We Should Be Promoting?* Blog post. Practical guidance on parasites, introduced species, cleaning, size, and materials.
+- *Frontiers in Bee Science* (March 2026). Study of pollen use by seven cavity-nesting bee species in Australian trap nests.
 
 <div class="book-button-wrapper" markdown>
 [Book Now](verify.md){ .book-button }

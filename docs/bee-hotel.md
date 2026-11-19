@@ -87,6 +87,15 @@ science programme in partnership with Wits University. They've distributed
 347 standardised bee hotels across the city to study urban pollination and help
 communities understand the insects that quietly keep their gardens alive.
 
+Standardised hotels like these are becoming a research tool in their own right.
+In February 2026, the Canadian Bees@Schools project reported on around 5,000
+students running standardised trap nests, with DNA metabarcoding used to
+identify each nesting bee or wasp, its food, and its parasites. In March 2026,
+Hungary's HUN-REN research network published the first detailed step-by-step
+protocol for using bee hotels in research, covering construction, placement,
+and sample processing, along with an illustrated species guide that bee hotel
+keepers can use too.
+
 You can find them at [beehotels.co.za](https://www.beehotels.co.za/) or follow
 them on social media at **@tutusloco**.
 
